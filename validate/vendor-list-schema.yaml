@@ -1,0 +1,19 @@
+type: object
+patternProperties:
+  '^[a-z0-9\-]+$':
+    type: object
+    properties:
+      display-name:
+        type: string
+      website:
+        type: string
+      logo:
+        description: "Specifies if vendor logo exists."
+        type: boolean
+        default: true
+      see:
+        description: "Reference to another id (e.g. when one vendor is acquired by another)."
+        type: string
+    required: ["display-name"]
+    additionalProperties: false
+additionalProperties: false
