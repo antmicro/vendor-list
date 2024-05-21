@@ -1,0 +1,15 @@
+stages:
+  - validate
+
+validate:
+  image: debian:bookworm
+  stage: validate
+  tags: ['ace-x86_64']
+  script:
+    - apt-get -y update
+    - apt-get -y install git python3-venv python3-dev python3-pip
+    - python3 -m venv .venv && source .venv/bin/activate
+    - pip3 install -r ./validate/requirements.txt
+    - ./validate/validate.py vendors.yaml
+      --schema ./validate/vendor-list-schema.yaml
+      --logos ./logos/
