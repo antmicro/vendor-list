@@ -22,10 +22,12 @@ def validate_schema(validate_dict, schema):
 def validate_vendor_images(vendors, logos_dir, icons_dir):
     missing_logos = []
     missing_icons = []
+    no_logo = []
 
     for v_name, v_data in vendors.items():
         logo = v_data.get("logo", True)
         if not logo:
+            no_logo.append(v_name)
             continue
 
         logo_path = logos_dir / f"{v_name}.svg"
@@ -36,7 +38,21 @@ def validate_vendor_images(vendors, logos_dir, icons_dir):
         if not icon_path.exists():
             missing_icons.append(icon_path)
 
-    return missing_logos, missing_icons
+    return missing_logos, missing_icons, no_logo
+
+
+def find_not_assigned_logos(vendors, logos_dir, icons_dir):
+    not_assigned = []
+
+    for logo in logos_dir.glob("*.svg"):
+        if logo.stem not in vendors:
+            not_assigned.append(str(logo))
+
+    for logo in icons_dir.glob("*.svg"):
+        if logo.stem not in vendors:
+            not_assigned.append(str(logo))
+
+    return not_assigned
 
 
 def main():
@@ -59,7 +75,11 @@ def main():
 
     return_code = 0
 
-    missing_logos, missing_icons = validate_vendor_images(vendors, args.logos, args.icons)
+    missing_logos, missing_icons, no_logo = validate_vendor_images(vendors, args.logos, args.icons)
+
+    # Print information about missing logos, but the ones that are expected.
+    if no_logo:
+        print(f"There are {len(no_logo)} vendors without logo.")
 
     if missing_logos:
         print(f"There are {len(missing_logos)} missing logos:")
@@ -69,6 +89,11 @@ def main():
     if missing_icons:
         print(f"There are {len(missing_icons)} missing icons:")
         print("\n".join(f" - {p}" for p in missing_icons))
+        return_code = 1
+
+    if not_assigned := find_not_assigned_logos(vendors, args.logos, args.icons):
+        print(f"There are {len(not_assigned)} not assigned logos:")
+        print("\n".join(f" - {v}" for v in not_assigned))
         return_code = 1
 
     sys.exit(return_code)
