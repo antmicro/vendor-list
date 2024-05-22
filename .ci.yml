@@ -12,4 +12,5 @@ validate:
     - pip3 install -r ./validate/requirements.txt
     - ./validate/validate.py vendors.yaml
       --schema ./validate/vendor-list-schema.yaml
-      --logos ./logos/
+      --logos ./vendor-logos/
+      --icons ./vendor-icons/
