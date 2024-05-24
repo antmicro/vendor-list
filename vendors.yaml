@@ -134,6 +134,7 @@ amd:
   display-name: AMD
   logo: false
 amd-xilinx:
+  reason: alias
   see: amd
 american-power-conversion:
   display-name: American Power Conversion
@@ -967,6 +968,9 @@ extech:
 eyecloud-ai:
   display-name: EyeCloud AI
   logo: false
+ezurio:
+  display-name: Ezurio
+  logo: false
 f-secure:
   display-name: F-Secure
   logo: false
@@ -1030,6 +1034,8 @@ framos:
   display-name: FRAMOS
   logo: false
 freescale:
+  display-name: Freescale
+  reason: acquisition
   see: nxp
 fremont-micro-devices:
   display-name: Fremont Micro Devices
@@ -1509,6 +1515,8 @@ laird:
   logo: false
 laird-connectivity:
   display-name: Laird Connectivity
+  reason: rebranding
+  see: ezurio
 lamb-industries:
   display-name: Lamb Industries
   logo: false
@@ -1667,9 +1675,12 @@ matrix-orbital:
   display-name: Matrix Orbital
   logo: false
 maxim-integrated:
+  display-name: Maxim Integrated
+  reason: acquisition
   see: analog-devices
 maxim-integrated-products:
-  see: analog-devices
+  reason: alias
+  see: maxim-integrated
 maxlinear:
   display-name: MaxLinear
   logo: false
@@ -3048,6 +3059,8 @@ xidas:
   display-name: Xidas
   logo: false
 xilinx:
+  display-name: Xilinx
+  reason: acquisition
   see: amd
 xinabox:
   display-name: XinaBox
