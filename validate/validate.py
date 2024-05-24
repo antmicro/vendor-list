@@ -26,22 +26,58 @@ def validate_vendor_images(vendors, logos_dir, icons_dir):
     missing_logos = []
     missing_icons = []
     no_logo = []
+    extra_images = []
 
     for v_name, v_data in vendors.items():
+        logo_path = logos_dir / f"{v_name}.svg"
+        icon_path = icons_dir / f"{v_name}.svg"
+
+        # Node with 'see' property should not have images
+        if "see" in v_data:
+            if logo_path.exists():
+                extra_images.append(logo_path)
+            if icon_path.exists():
+                extra_images.append(icon_path)
+            continue
+
         logo = v_data.get("logo", True)
+
+        # When 'logo' is False we expect vendor to have no images
         if not logo:
+            if logo_path.exists():
+                extra_images.append(logo_path)
+            if icon_path.exists():
+                extra_images.append(icon_path)
             no_logo.append(v_name)
             continue
 
-        logo_path = logos_dir / f"{v_name}.svg"
-        icon_path = icons_dir / f"{v_name}.svg"
+        # When 'logo' is True vendor must have both icon and logo
         if not logo_path.exists():
             missing_logos.append(logo_path)
-
         if not icon_path.exists():
             missing_icons.append(icon_path)
 
-    return missing_logos, missing_icons, no_logo
+    return_code = 0
+
+    print_missing_img(no_logo, "vendors without logo", show=False)
+
+    print_missing_img(extra_images, "extra images")
+
+    if print_missing_img(missing_logos, "missing logos"):
+        return_code = 1
+
+    if print_missing_img(missing_icons, "missing icons"):
+        return_code = 1
+
+    return return_code
+
+def print_missing_img(images, msg, show=True):
+    if images:
+        print(f"There are {len(images)} {msg}")
+        if show:
+            print("\n".join(f" - {p}" for p in images))
+        return True
+    return False
 
 
 def find_not_assigned_logos(vendors, logos_dir, icons_dir):
@@ -76,27 +112,10 @@ def main():
         print(f"Format of {args.vendor_list} is invalid!", file=sys.stderr)
         sys.exit(1)
 
-    return_code = 0
+    return_code = validate_vendor_images(vendors, args.logos, args.icons)
 
-    missing_logos, missing_icons, no_logo = validate_vendor_images(vendors, args.logos, args.icons)
-
-    # Print information about missing logos, but the ones that are expected.
-    if no_logo:
-        print(f"There are {len(no_logo)} vendors without logo.")
-
-    if missing_logos:
-        print(f"There are {len(missing_logos)} missing logos:")
-        print("\n".join(f" - {p}" for p in missing_logos))
-        return_code = 1
-
-    if missing_icons:
-        print(f"There are {len(missing_icons)} missing icons:")
-        print("\n".join(f" - {p}" for p in missing_icons))
-        return_code = 1
-
-    if not_assigned := find_not_assigned_logos(vendors, args.logos, args.icons):
-        print(f"There are {len(not_assigned)} not assigned logos:")
-        print("\n".join(f" - {v}" for v in not_assigned))
+    not_assigned = find_not_assigned_logos(vendors, args.logos, args.icons)
+    if print_missing_img(not_assigned, "not assigned images"):
         return_code = 1
 
     sys.exit(return_code)
