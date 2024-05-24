@@ -5,25 +5,37 @@ type: object
 patternProperties:
   '^[a-z0-9\-]+$':
     oneOf:
-      - type: object
-        properties:
-          display-name:
-            type: string
-          website:
-            type: string
-          logo:
-            description: "Specifies if vendor logo exists."
-            type: boolean
-            default: true
-        required: ["display-name"]
-        additionalProperties: false
-      - type: object
-        properties:
-          see:
-            type: string
-            pattern: '^[a-z0-9\-]+$'
-            description:
-              Reference to another vendor id. Used when one vendor is acquired by another
-              or to express alternative names for a vendor.
-        additionalProperties: false
+      - $ref: '#/$defs/originalNode'
+      - $ref: '#/$defs/aliasNode'
 additionalProperties: false
+
+$defs:
+  originalNode:
+    type: object
+    properties:
+      display-name:
+        type: string
+      website:
+        type: string
+      logo:
+        description: "Specifies if vendor logo exists."
+        type: boolean
+        default: true
+    required: ["display-name"]
+    additionalProperties: false
+  aliasNode:
+    type: object
+    properties:
+      display-name:
+        type: string
+      see:
+        type: string
+        pattern: '^[a-z0-9\-]+$'
+        description:
+          Reference to another vendor id. Used when one vendor is acquired by another
+          or to express alternative names for a vendor.
+      reason:
+        type: string
+        enum: ["alias", "acquisition", "rebranding"]
+    required: ["see", "reason"]
+    additionalProperties: false
