@@ -122,15 +122,16 @@ altech:
   logo: false
 altera:
   display-name: Altera
-  see: intel
 altitude-tech:
   display-name: Altitude Tech
   logo: false
 ambiq:
   display-name: Ambiq
-amd-xilinx:
-  display-name: AMD-Xilinx
+amd:
+  display-name: AMD
   logo: false
+amd-xilinx:
+  see: amd
 american-power-conversion:
   display-name: American Power Conversion
   logo: false
@@ -682,7 +683,6 @@ dialight:
   logo: false
 dialog-semiconductor:
   display-name: Dialog Semiconductor
-  see: renesas
 dicekeys:
   display-name: DiceKeys
   logo: false
@@ -959,7 +959,6 @@ framos:
   display-name: FRAMOS
   logo: false
 freescale:
-  display-name: Freescale Semiconductor
   see: nxp
 fremont-micro-devices:
   display-name: Fremont Micro Devices
@@ -1531,7 +1530,6 @@ matrix-orbital:
   display-name: Matrix Orbital
   logo: false
 maxim-integrated:
-  display-name: Maxim Integrated
   see: analog-devices
 maxlinear:
   display-name: MaxLinear
@@ -1622,7 +1620,6 @@ micro-crystal:
   logo: false
 microbus:
   display-name: microBUS
-  see: mikroe
 microcare:
   display-name: MicroCare
   logo: false
@@ -2847,7 +2844,7 @@ xidas:
   display-name: Xidas
   logo: false
 xilinx:
-  display-name: xilinx
+  see: amd
 xinabox:
   display-name: XinaBox
   logo: false
