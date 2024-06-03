@@ -12,8 +12,8 @@
   logo: false
 96boards:
   display-name: 96Boards
-aaeon-up:
-  display-name: AAEON UP
+aaeon:
+  display-name: AAEON Technology
   logo: false
 aavid:
   display-name: Aavid
@@ -242,6 +242,9 @@ armadeus-systems:
 aromat:
   display-name: Aromat
   logo: false
+arrow-electronics:
+  display-name: Arrow Electronics
+  logo: false
 artesyn-embedded-technologies:
   display-name: Artesyn Embedded Technologies
   logo: false
@@ -276,6 +279,8 @@ atlas:
   logo: false
 atmel:
   display-name: Atmel
+  reason: acquisition
+  see: microchip
 atmosic-technologies:
   display-name: Atmosic Technologies
   logo: false
@@ -743,6 +748,8 @@ dialight:
   logo: false
 dialog-semiconductor:
   display-name: Dialog Semiconductor
+  reason: acquisition
+  see: renesas
 dicekeys:
   display-name: DiceKeys
   logo: false
@@ -850,6 +857,9 @@ ef-johnson:
   logo: false
 efabless:
   display-name: Efabless
+  logo: false
+efinix:
+  display-name: Efinix
   logo: false
 electric-imp:
   display-name: Electric Imp
@@ -2048,6 +2058,9 @@ osram:
 ostream:
   display-name: OStream
   logo: false
+other:
+  display-name: Other
+  logo: false
 othernet:
   display-name: Othernet
   logo: false
@@ -2241,6 +2254,9 @@ raspberry-pi:
   display-name: Raspberry Pi
 raydiall-automotive:
   display-name: Raydiall Automotive
+  logo: false
+raytac:
+  display-name: Raytac Corporation
   logo: false
 realtek:
   display-name: Realtek
@@ -2894,7 +2910,12 @@ united-chemi-con:
   logo: false
 up-board:
   display-name: UP Board
-  logo: false
+  reason: alias
+  see: aaeon
+up-bridge-the-gap:
+  display-name: UP Bridge the Gap
+  reason: alias
+  see: aaeon
 upside-down-labs:
   display-name: Upside Down Labs
   logo: false
