@@ -674,10 +674,10 @@ cw-industries:
   display-name: CW Industries
   logo: false
 cypress:
-  display-name: cypress
-cypress-semiconductor:
   display-name: Cypress Semiconductor
-  logo: false
+cypress-semiconductor:
+  see: cypress
+  reason: alias
 cz-nic:
   display-name: CZ.NIC
 d-link:
@@ -1430,7 +1430,7 @@ kaga-electronics:
 kamaya:
   display-name: Kamaya
   logo: false
-kds-daishinku-corp-:
+kds-daishinku-corp:
   display-name: KDS Daishinku Corp.
   logo: false
 keko-varicon:
@@ -1673,8 +1673,9 @@ marquardt-switches:
 marvell:
   display-name: Marvell Technology
 marvell-semiconductor:
+  see: marvell
+  reason: alias
   display-name: Marvell Semiconductor
-  logo: false
 masach-tech:
   display-name: Masach Tech
   logo: false
@@ -1789,6 +1790,9 @@ microcare:
   logo: false
 microchip:
   display-name: Microchip Technology
+microchip-technology:
+  see: microchip
+  reason: alias
 micron-technology:
   display-name: Micron Technology
 microphonon:
@@ -1982,6 +1986,9 @@ norcomp:
   logo: false
 nordic:
   display-name: Nordic Semiconductor
+nordic-semiconductor:
+  reason: alias
+  see: nordic
 noritake:
   display-name: Noritake
   logo: false
@@ -2350,6 +2357,9 @@ saia-burgess:
   logo: false
 samsung:
   display-name: Samsung Electronics
+samsung-electronics:
+  see: samsung
+  reason: alias
 samsung-electro-mechanics:
   display-name: Samsung Electro-Mechanics
   logo: false
@@ -2629,6 +2639,9 @@ sst-sensing:
   logo: false
 st:
   display-name: STMicroelectronics
+stmicroelectronics:
+  see: st
+  reason: alias
 stackpole-electronics:
   display-name: Stackpole Electronics
   logo: false
