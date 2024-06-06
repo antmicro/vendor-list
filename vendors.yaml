@@ -2,3147 +2,3147 @@
 # SPDX-License-Identifier: Apache-2.0
 
 1bitsquared:
-  display-name: 1BitSquared
+  display_name: 1BitSquared
   logo: false
 3m:
-  display-name: 3M
+  display_name: 3M
   logo: false
 4d-systems:
-  display-name: 4D Systems
+  display_name: 4D Systems
   logo: false
 96boards:
-  display-name: 96Boards
+  display_name: 96Boards
 aaeon:
-  display-name: AAEON Technology
+  display_name: AAEON Technology
   logo: false
 aavid:
-  display-name: Aavid
+  display_name: Aavid
   logo: false
 abb:
-  display-name: ABB
+  display_name: ABB
   logo: false
 ablic:
-  display-name: ABLIC
+  display_name: ABLIC
   logo: false
 abracon:
-  display-name: Abracon
+  display_name: Abracon
   logo: false
 acconeer:
-  display-name: Acconeer
+  display_name: Acconeer
   logo: false
 aceinna:
-  display-name: ACEINNA
+  display_name: ACEINNA
   logo: false
 acer:
-  display-name: Acer
+  display_name: Acer
 aconno:
-  display-name: aconno
+  display_name: aconno
   logo: false
 actinius:
-  display-name: Actinius
+  display_name: Actinius
 adafruit:
-  display-name: Adafruit
+  display_name: Adafruit
 adam-tech:
-  display-name: Adam Tech
+  display_name: Adam Tech
   logo: false
 adata:
-  display-name: ADATA
+  display_name: ADATA
 adlink:
-  display-name: ADLINK Technology
+  display_name: ADLINK Technology
 advanced-acoustic-technology-corp-:
-  display-name: Advanced Acoustic Technology Corp.
+  display_name: Advanced Acoustic Technology Corp.
   logo: false
 advanced-energy:
-  display-name: Advanced Energy
+  display_name: Advanced Energy
   logo: false
 advanced-linear-devices:
-  display-name: Advanced Linear Devices
+  display_name: Advanced Linear Devices
   logo: false
 advanced-photonix:
-  display-name: Advanced Photonix
+  display_name: Advanced Photonix
   logo: false
 advanced-semiconductor:
-  display-name: Advanced Semiconductor
+  display_name: Advanced Semiconductor
   logo: false
 advanced-thermal-solutions:
-  display-name: Advanced Thermal Solutions
+  display_name: Advanced Thermal Solutions
   logo: false
 advantech:
-  display-name: Advantech
+  display_name: Advantech
   logo: false
 afero:
-  display-name: Afero
+  display_name: Afero
   logo: false
 aim:
-  display-name: AIM
+  display_name: AIM
   logo: false
 airborn:
-  display-name: AirBorn
+  display_name: AirBorn
   logo: false
 aiy:
-  display-name: AIY
+  display_name: AIY
   logo: false
 akm:
-  display-name: AKM
+  display_name: AKM
   logo: false
 allegro-microsystems:
-  display-name: Allegro MicroSystems
+  display_name: Allegro MicroSystems
   logo: false
 alliance-memory:
-  display-name: Alliance Memory
+  display_name: Alliance Memory
   logo: false
 allied-telesis:
-  display-name: Allied Telesis
+  display_name: Allied Telesis
 allied-vision-technologies:
-  display-name: Allied Vision Technologies
+  display_name: Allied Vision Technologies
   logo: false
 alorium-technology:
-  display-name: Alorium Technology
+  display_name: Alorium Technology
   logo: false
 alpha:
-  display-name: Alpha
+  display_name: Alpha
   logo: false
 alpha-electronics:
-  display-name: Alpha Electronics
+  display_name: Alpha Electronics
   logo: false
 alpha-wire:
-  display-name: Alpha Wire
+  display_name: Alpha Wire
   logo: false
 alphamax:
-  display-name: Alphamax
+  display_name: Alphamax
   logo: false
 alps-alpine:
-  display-name: Alps Alpine
+  display_name: Alps Alpine
   logo: false
 alps-electric:
-  display-name: ALPS Electric
+  display_name: ALPS Electric
   logo: false
 alt-shift:
-  display-name: Alt Shift
+  display_name: Alt Shift
   logo: false
 altech:
-  display-name: Altech
+  display_name: Altech
   logo: false
 altera:
-  display-name: Altera
+  display_name: Altera
 altitude-tech:
-  display-name: Altitude Tech
+  display_name: Altitude Tech
   logo: false
 ambiq:
-  display-name: Ambiq
+  display_name: Ambiq
 amd:
-  display-name: AMD
+  display_name: AMD
   logo: false
 amd-xilinx:
   reason: alias
   see: amd
 american-power-conversion:
-  display-name: American Power Conversion
+  display_name: American Power Conversion
   logo: false
 ametherm:
-  display-name: Ametherm
+  display_name: Ametherm
   logo: false
 amlogic:
-  display-name: Amlogic
+  display_name: Amlogic
 ampere:
-  display-name: Ampere
+  display_name: Ampere
 amphenol:
-  display-name: Amphenol
+  display_name: Amphenol
   logo: false
 ams:
-  display-name: AMS
+  display_name: AMS
 amseco:
-  display-name: AMSECO
+  display_name: AMSECO
   logo: false
 amulet-technologies:
-  display-name: Amulet Technologies
+  display_name: Amulet Technologies
   logo: false
 analog-devices:
-  display-name: Analog Devices
+  display_name: Analog Devices
 anaren:
-  display-name: Anaren
+  display_name: Anaren
   logo: false
 anavi-technology:
-  display-name: ANAVI Technology
+  display_name: ANAVI Technology
   logo: false
 anderson-power-products:
-  display-name: Anderson Power Products
+  display_name: Anderson Power Products
   logo: false
 andes:
-  display-name: Andes Technology
+  display_name: Andes Technology
 antenova:
-  display-name: Antenova
+  display_name: Antenova
   logo: false
 antmicro:
-  display-name: Antmicro
+  display_name: Antmicro
   website: www.antmicro.com
 anvo-systems-dresden:
-  display-name: Anvo-Systems Dresden
+  display_name: Anvo-Systems Dresden
   logo: false
 aosmd:
-  display-name: AOSMD
+  display_name: AOSMD
   logo: false
 ap-memory:
-  display-name: AP Memory
+  display_name: AP Memory
   logo: false
 apa-electronic:
-  display-name: Apa Electronic
+  display_name: Apa Electronic
 apacer-technology:
-  display-name: Apacer Technology
+  display_name: Apacer Technology
   logo: false
 apc-by-schneider-electric:
-  display-name: APC by Schneider Electric
+  display_name: APC by Schneider Electric
   logo: false
 apem:
-  display-name: APEM
+  display_name: APEM
   logo: false
 apex-microtechnology:
-  display-name: Apex Microtechnology
+  display_name: Apex Microtechnology
   logo: false
 api-delevan:
-  display-name: API Delevan
+  display_name: API Delevan
   logo: false
 api-technologies:
-  display-name: API Technologies
+  display_name: API Technologies
   logo: false
 apm-hexseal:
-  display-name: APM HEXSEAL
+  display_name: APM HEXSEAL
   logo: false
 apogee-semiconductor:
-  display-name: Apogee Semiconductor
+  display_name: Apogee Semiconductor
   logo: false
 apple:
-  display-name: Apple
+  display_name: Apple
 applied-motion:
-  display-name: Applied Motion
+  display_name: Applied Motion
   logo: false
 aptiv:
-  display-name: Aptiv
+  display_name: Aptiv
   logo: false
 arbor-technology:
-  display-name: Arbor Technology
+  display_name: Arbor Technology
   logo: false
 arducam:
-  display-name: Arducam
+  display_name: Arducam
   logo: false
 arduino:
-  display-name: Arduino
+  display_name: Arduino
 ardusimple:
-  display-name: ArduSimple
+  display_name: ArduSimple
   logo: false
 aries-electronics:
-  display-name: Aries Electronics
+  display_name: Aries Electronics
   logo: false
 aries-embedded:
-  display-name: Aries Embedded
+  display_name: Aries Embedded
 arm:
-  display-name: ARM
+  display_name: ARM
 armadeus-systems:
-  display-name: Armadeus Systems
+  display_name: Armadeus Systems
 aromat:
-  display-name: Aromat
+  display_name: Aromat
   logo: false
 arrow-electronics:
-  display-name: Arrow Electronics
+  display_name: Arrow Electronics
   logo: false
 artesyn-embedded-technologies:
-  display-name: Artesyn Embedded Technologies
+  display_name: Artesyn Embedded Technologies
   logo: false
 asahi-kasei:
-  display-name: Asahi Kasei
+  display_name: Asahi Kasei
 asi-semiconductor:
-  display-name: ASI Semiconductor
+  display_name: ASI Semiconductor
   logo: false
 asmedia:
-  display-name: ASMedia
+  display_name: ASMedia
 aspeed:
-  display-name: ASPEED Technology
+  display_name: ASPEED Technology
 assmann-wsw-components:
-  display-name: ASSMANN WSW Components
+  display_name: ASSMANN WSW Components
   logo: false
 astec-power:
-  display-name: Astec Power
+  display_name: Astec Power
   logo: false
 astera-labs:
-  display-name: Astera Labs
+  display_name: Astera Labs
   logo: false
 astrodyne-tdi:
-  display-name: Astrodyne TDI
+  display_name: Astrodyne TDI
   logo: false
 asus:
-  display-name: Asus
+  display_name: Asus
 atc:
-  display-name: ATC
+  display_name: ATC
   logo: false
 atlas:
-  display-name: ATLAS
+  display_name: ATLAS
   logo: false
 atmel:
-  display-name: Atmel
+  display_name: Atmel
   reason: acquisition
   see: microchip
 atmosic-technologies:
-  display-name: Atmosic Technologies
+  display_name: Atmosic Technologies
   logo: false
 atop:
-  display-name: ATOP
+  display_name: ATOP
   logo: false
 atp-electronics:
-  display-name: ATP Electronics
+  display_name: ATP Electronics
   logo: false
 atpi:
-  display-name: ATPI
+  display_name: ATPI
   logo: false
 attend:
-  display-name: ATTEND
+  display_name: ATTEND
   logo: false
 augat:
-  display-name: Augat
+  display_name: Augat
   logo: false
 auvidea:
-  display-name: Auvidea
+  display_name: Auvidea
   logo: false
 avago-technologies:
-  display-name: Avago Technologies
+  display_name: Avago Technologies
   logo: false
 avalanche-technology:
-  display-name: Avalanche Technology
+  display_name: Avalanche Technology
   logo: false
 aven:
-  display-name: Aven
+  display_name: Aven
   logo: false
 avery-dennison:
-  display-name: Avery Dennison
+  display_name: Avery Dennison
   logo: false
 avionic-design:
-  display-name: Avionic Design
+  display_name: Avionic Design
 avnet:
-  display-name: Avnet
+  display_name: Avnet
 avx:
-  display-name: AVX
+  display_name: AVX
   logo: false
 axiomtek:
-  display-name: Axiomtek
+  display_name: Axiomtek
   logo: false
 azoteq:
-  display-name: Azoteq
+  display_name: Azoteq
   logo: false
 b-b-smartworx:
-  display-name: B+B SmartWorx
+  display_name: B+B SmartWorx
   logo: false
 b-k-precision:
-  display-name: B&K Precision
+  display_name: B&K Precision
   logo: false
 b-r:
-  display-name: B&R
+  display_name: B&R
 banana-pi:
-  display-name: Banana Pi
+  display_name: Banana Pi
 banner-engineering:
-  display-name: Banner Engineering
+  display_name: Banner Engineering
   logo: false
 bare-conductive:
-  display-name: Bare Conductive
+  display_name: Bare Conductive
   logo: false
 basler:
-  display-name: Basler
+  display_name: Basler
   logo: false
 bbc:
-  display-name: BBC
+  display_name: BBC
   logo: false
 beagleboard:
-  display-name: BeagleBoard
+  display_name: BeagleBoard
 beast-devices:
-  display-name: Beast Devices
+  display_name: Beast Devices
   logo: false
 beckhoff:
-  display-name: Beckhoff
+  display_name: Beckhoff
 becom:
-  display-name: BECOM
+  display_name: BECOM
   logo: false
 beefield-labs:
-  display-name: Beefield Labs
+  display_name: Beefield Labs
   logo: false
 beelink:
-  display-name: Beelink
+  display_name: Beelink
 bel:
-  display-name: Bel
+  display_name: Bel
   logo: false
 bel-fuse:
-  display-name: Bel Fuse
+  display_name: Bel Fuse
   logo: false
 belden-wire-cable:
-  display-name: Belden Wire & Cable
+  display_name: Belden Wire & Cable
   logo: false
 bellin-dynamic-systems:
-  display-name: Bellin Dynamic Systems
+  display_name: Bellin Dynamic Systems
   logo: false
 bend-labs:
-  display-name: Bend Labs
+  display_name: Bend Labs
   logo: false
 benewake:
-  display-name: Benewake
+  display_name: Benewake
   logo: false
 bias-power:
-  display-name: Bias Power
+  display_name: Bias Power
   logo: false
 bitmain:
-  display-name: BITMAIN
+  display_name: BITMAIN
 bivar:
-  display-name: BIVAR
+  display_name: BIVAR
   logo: false
 bjb-electric:
-  display-name: BJB Electric
+  display_name: BJB Electric
   logo: false
 blackhawk:
-  display-name: Blackhawk
+  display_name: Blackhawk
   logo: false
 blue-clover:
-  display-name: BlueClover
+  display_name: BlueClover
 blues:
-  display-name: Blues
+  display_name: Blues
 bluetechnix:
-  display-name: Bluetechnix
+  display_name: Bluetechnix
   logo: false
 bomar-interconnect:
-  display-name: Bomar Interconnect
+  display_name: Bomar Interconnect
   logo: false
 bomar-win:
-  display-name: Bomar-Win
+  display_name: Bomar-Win
   logo: false
 boreas-technologies:
-  display-name: Boréas Technologies
+  display_name: Boréas Technologies
   logo: false
 bosch:
-  display-name: Bosch
+  display_name: Bosch
 bourns:
-  display-name: Bourns
+  display_name: Bourns
   logo: false
 bps:
-  display-name: BPS
+  display_name: BPS
   logo: false
 brad-harrison:
-  display-name: Brad Harrison
+  display_name: Brad Harrison
   logo: false
 brainboxes:
-  display-name: Brainboxes
+  display_name: Brainboxes
   logo: false
 breadboard-mates:
-  display-name: BreadBoard Mates
+  display_name: BreadBoard Mates
   logo: false
 bridgetek:
-  display-name: Bridgetek
+  display_name: Bridgetek
   logo: false
 bright-led-electronics-corp:
-  display-name: BRIGHT LED ELECTRONICS CORP.
+  display_name: BRIGHT LED ELECTRONICS CORP.
   logo: false
 broadcast-win:
-  display-name: Broadcast-Win
+  display_name: Broadcast-Win
   logo: false
 broadcom:
-  display-name: Broadcom
+  display_name: Broadcom
 bsh:
-  display-name: BSH
+  display_name: BSH
 bticino:
-  display-name: Bticino
+  display_name: Bticino
 bud-industries:
-  display-name: Bud Industries
+  display_name: Bud Industries
   logo: false
 buffalo:
-  display-name: Buffalo
+  display_name: Buffalo
 bulgin:
-  display-name: Bulgin
+  display_name: Bulgin
   logo: false
 busboard-prototype-systems:
-  display-name: BusBoard Prototype Systems
+  display_name: BusBoard Prototype Systems
   logo: false
 c-k:
-  display-name: C&K
+  display_name: C&K
   logo: false
 caddock:
-  display-name: Caddock
+  display_name: Caddock
   logo: false
 cadence-design-systems:
-  display-name: Cadence Design Systems
+  display_name: Cadence Design Systems
 caes:
-  display-name: CAES
+  display_name: CAES
 cal-test-electronics:
-  display-name: Cal Test Electronics
+  display_name: Cal Test Electronics
   logo: false
 calao:
-  display-name: Calao
+  display_name: Calao
   logo: false
 califia-lighting:
-  display-name: Califia Lighting
+  display_name: Califia Lighting
   logo: false
 california-eastern-labs:
-  display-name: California Eastern Labs
+  display_name: California Eastern Labs
   logo: false
 cambridge:
-  display-name: Cambridge
+  display_name: Cambridge
   logo: false
 capacitech:
-  display-name: Capacitech
+  display_name: Capacitech
   logo: false
 caplugs:
-  display-name: Caplugs
+  display_name: Caplugs
   logo: false
 caravel:
-  display-name: Caravel
+  display_name: Caravel
   logo: false
 carclo-technical-plastics:
-  display-name: Carclo Technical Plastics
+  display_name: Carclo Technical Plastics
   logo: false
 carlo-gavazzi:
-  display-name: Carlo Gavazzi
+  display_name: Carlo Gavazzi
   logo: false
 casco-amphenol:
-  display-name: Casco / Amphenol
+  display_name: Casco / Amphenol
   logo: false
 ccs:
-  display-name: CCS
+  display_name: CCS
   logo: false
 cde:
-  display-name: CDE
+  display_name: CDE
   logo: false
 cel:
-  display-name: CEL
+  display_name: CEL
   logo: false
 central-semiconductor:
-  display-name: Central Semiconductor
+  display_name: Central Semiconductor
   logo: false
 ceva-technologies:
-  display-name: CEVA Technologies
+  display_name: CEVA Technologies
   logo: false
 chemtronics:
-  display-name: Chemtronics
+  display_name: Chemtronics
   logo: false
 cherry:
-  display-name: CHERRY
+  display_name: CHERRY
   logo: false
 chicago-miniature:
-  display-name: Chicago Miniature
+  display_name: Chicago Miniature
   logo: false
 chip-quik:
-  display-name: Chip Quik
+  display_name: Chip Quik
   logo: false
 chipcon:
-  display-name: Chipcon
+  display_name: Chipcon
   logo: false
 chipsee:
-  display-name: Chipsee
+  display_name: Chipsee
   logo: false
 ciclon-semiconductor:
-  display-name: Ciclon Semiconductor
+  display_name: Ciclon Semiconductor
   logo: false
 cinch-connectivity-solutions:
-  display-name: Cinch Connectivity Solutions
+  display_name: Cinch Connectivity Solutions
   logo: false
 cincon:
-  display-name: Cincon
+  display_name: Cincon
   logo: false
 circuit-dojo:
-  display-name: circuit_dojo
+  display_name: circuit_dojo
 cirque:
-  display-name: Cirque
+  display_name: Cirque
   logo: false
 cirrus-logic:
-  display-name: Cirrus Logic
+  display_name: Cirrus Logic
 citel:
-  display-name: CITEL
+  display_name: CITEL
   logo: false
 citizen:
-  display-name: Citizen
+  display_name: Citizen
   logo: false
 clairitec:
-  display-name: Clairitec
+  display_name: Clairitec
   logo: false
 cloud-engines:
-  display-name: Cloud Engines
+  display_name: Cloud Engines
 cml-microcircuits:
-  display-name: CML Microcircuits
+  display_name: CML Microcircuits
   logo: false
 cnc-tech:
-  display-name: CNC Tech
+  display_name: CNC Tech
   logo: false
 code-red-technologies:
-  display-name: Code Red Technologies
+  display_name: Code Red Technologies
   logo: false
 coilcraft:
-  display-name: Coilcraft
+  display_name: Coilcraft
   logo: false
 colorado-engineering:
-  display-name: Colorado Engineering
+  display_name: Colorado Engineering
   logo: false
 comchip-technology:
-  display-name: Comchip Technology
+  display_name: Comchip Technology
   logo: false
 compulab:
-  display-name: CompuLab
+  display_name: CompuLab
 conclusive:
-  display-name: Conclusive
+  display_name: Conclusive
 concord-semiconductor:
-  display-name: Concord Semiconductor
+  display_name: Concord Semiconductor
   logo: false
 conexio-technologies:
-  display-name: Conexio Technologies
+  display_name: Conexio Technologies
   logo: false
 congatec:
-  display-name: congatec
+  display_name: congatec
   logo: false
 connaxio:
-  display-name: Connaxio
+  display_name: Connaxio
   logo: false
 connected-development:
-  display-name: Connected Development
+  display_name: Connected Development
   logo: false
 connective-peripherals:
-  display-name: Connective Peripherals
+  display_name: Connective Peripherals
   logo: false
 connfly-electronic:
-  display-name: Connfly Electronic
+  display_name: Connfly Electronic
   logo: false
 contextual-electronics:
-  display-name: Contextual Electronics
+  display_name: Contextual Electronics
 controlbits:
-  display-name: ControlBits
+  display_name: ControlBits
   logo: false
 conxall:
-  display-name: CONXALL
+  display_name: CONXALL
   logo: false
 cooper-bussmann:
-  display-name: Cooper Bussmann
+  display_name: Cooper Bussmann
   logo: false
 cooper-tools:
-  display-name: Cooper Tools
+  display_name: Cooper Tools
   logo: false
 coral:
-  display-name: Coral
+  display_name: Coral
   logo: false
 cornell-dubilier:
-  display-name: Cornell Dubilier
+  display_name: Cornell Dubilier
   logo: false
 corning:
-  display-name: Corning
+  display_name: Corning
   logo: false
 cortina:
-  display-name: Cortina
+  display_name: Cortina
 cosel:
-  display-name: Cosel
+  display_name: Cosel
   logo: false
 coto-technology:
-  display-name: Coto Technology
+  display_name: Coto Technology
   logo: false
 cowfish-studios:
-  display-name: Cowfish Studios
+  display_name: Cowfish Studios
   logo: false
 cree-led:
-  display-name: Cree LED
+  display_name: Cree LED
   logo: false
 critical-link:
-  display-name: Critical Link
+  display_name: Critical Link
   logo: false
 crocus-technology:
-  display-name: Crocus Technology
+  display_name: Crocus Technology
   logo: false
 crouzet:
-  display-name: Crouzet
+  display_name: Crouzet
   logo: false
 crowd-supply:
-  display-name: Crowd Supply
+  display_name: Crowd Supply
   logo: false
 crystek-corporation:
-  display-name: Crystek Corporation
+  display_name: Crystek Corporation
   logo: false
 csb:
-  display-name: CSB
+  display_name: CSB
   logo: false
 cts:
-  display-name: CTS
+  display_name: CTS
   logo: false
 cubietech:
-  display-name: Cubietech
+  display_name: Cubietech
 cui-devices:
-  display-name: CUI Devices
+  display_name: CUI Devices
   logo: false
 cui-inc:
-  display-name: CUI Inc
+  display_name: CUI Inc
   logo: false
 cupl:
-  display-name: cupl
+  display_name: cupl
   logo: false
 cw-industries:
-  display-name: CW Industries
+  display_name: CW Industries
   logo: false
 cypress:
-  display-name: Cypress Semiconductor
+  display_name: Cypress Semiconductor
 cypress-semiconductor:
-  see: cypress
   reason: alias
+  see: cypress
 cz-nic:
-  display-name: CZ.NIC
+  display_name: CZ.NIC
 d-link:
-  display-name: D-Link
+  display_name: D-Link
 d3-semiconductor:
-  display-name: D3 Semiconductor
+  display_name: D3 Semiconductor
   logo: false
 dailywell:
-  display-name: Dailywell
+  display_name: Dailywell
   logo: false
 dallas-semiconductor:
-  display-name: Dallas Semiconductor
+  display_name: Dallas Semiconductor
   logo: false
 daniels-manufacturing:
-  display-name: Daniels Manufacturing
+  display_name: Daniels Manufacturing
   logo: false
 daqifi:
-  display-name: DAQiFi
+  display_name: DAQiFi
   logo: false
 davies-molding:
-  display-name: Davies Molding
+  display_name: Davies Molding
   logo: false
 db-unlimited:
-  display-name: DB Unlimited
+  display_name: DB Unlimited
   logo: false
 dbm-optix:
-  display-name: DBM Optix
+  display_name: DBM Optix
   logo: false
 decawave:
-  display-name: DecaWave
+  display_name: DecaWave
 deepwave-digital:
-  display-name: Deepwave Digital
+  display_name: Deepwave Digital
   logo: false
 degson:
-  display-name: DEGSON
+  display_name: DEGSON
   logo: false
 degu:
-  display-name: Degu
+  display_name: Degu
 dell:
-  display-name: Dell
+  display_name: Dell
   logo: false
 delphi:
-  display-name: Delphi
+  display_name: Delphi
   logo: false
 delta-electronics:
-  display-name: Delta Electronics
+  display_name: Delta Electronics
   logo: false
 deltron:
-  display-name: Deltron
+  display_name: Deltron
   logo: false
 dem-manufacturing:
-  display-name: DEM Manufacturing
+  display_name: DEM Manufacturing
   logo: false
 desco:
-  display-name: Desco
+  display_name: Desco
   logo: false
 design-gateway:
-  display-name: Design Gateway
+  display_name: Design Gateway
   logo: false
 devboards-de:
-  display-name: Devboards
+  display_name: Devboards
 dfrobot:
-  display-name: DFRobot
+  display_name: DFRobot
 dh-electronics:
-  display-name: DH Electronics
+  display_name: DH Electronics
 dialight:
-  display-name: Dialight
+  display_name: Dialight
   logo: false
 dialog-semiconductor:
-  display-name: Dialog Semiconductor
+  display_name: Dialog Semiconductor
   reason: acquisition
   see: renesas
 dicekeys:
-  display-name: DiceKeys
+  display_name: DiceKeys
   logo: false
 digi:
-  display-name: DIGI
+  display_name: DIGI
   logo: false
 digi-international:
-  display-name: Digi International
+  display_name: Digi International
   logo: false
 digilent:
-  display-name: Digilent
+  display_name: Digilent
 digital-view:
-  display-name: Digital View
+  display_name: Digital View
   logo: false
 diode-laser-concepts:
-  display-name: Diode Laser Concepts
+  display_name: Diode Laser Concepts
   logo: false
 diodes-delight:
-  display-name: Diodes Delight
+  display_name: Diodes Delight
   logo: false
 diodes-incorporated:
-  display-name: Diodes Incorporated
+  display_name: Diodes Incorporated
   logo: false
 dioo-microcircuits:
-  display-name: DIOO Microcircuits
+  display_name: DIOO Microcircuits
   logo: false
 diotec-semiconductor:
-  display-name: Diotec Semiconductor
+  display_name: Diotec Semiconductor
   logo: false
 diptronics:
-  display-name: Diptronics
+  display_name: Diptronics
   logo: false
 display-visions:
-  display-name: DISPLAY VISIONS
+  display_name: DISPLAY VISIONS
   logo: false
 displaytech:
-  display-name: Displaytech
+  display_name: Displaytech
   logo: false
 dlp-design:
-  display-name: DLP Design
+  display_name: DLP Design
   logo: false
 dmc-tools:
-  display-name: DMC Tools
+  display_name: DMC Tools
   logo: false
 doodle-labs:
-  display-name: Doodle Labs
+  display_name: Doodle Labs
   logo: false
 dragino:
-  display-name: Dragino
+  display_name: Dragino
 duracell:
-  display-name: Duracell
+  display_name: Duracell
   logo: false
 e-peas:
-  display-name: e-peas
+  display_name: e-peas
   logo: false
 e-switch:
-  display-name: E-Switch
+  display_name: E-Switch
   logo: false
 e-t-a-circuit-breakers:
-  display-name: E-T-A Circuit Breakers
+  display_name: E-T-A Circuit Breakers
   logo: false
 eagle-picher:
-  display-name: Eagle-Picher
+  display_name: Eagle-Picher
   logo: false
 eagle-plastic-devices:
-  display-name: Eagle Plastic Devices
+  display_name: Eagle Plastic Devices
   logo: false
 eao:
-  display-name: EAO
+  display_name: EAO
   logo: false
 easic:
-  display-name: eASIC
+  display_name: eASIC
 easysync:
-  display-name: EasySync
+  display_name: EasySync
   logo: false
 eaton:
-  display-name: Eaton
+  display_name: Eaton
   logo: false
 ebm-papst:
-  display-name: ebm-papst
+  display_name: ebm-papst
   logo: false
 ebv:
-  display-name: EBV Elektronik
+  display_name: EBV Elektronik
 ebyte:
-  display-name: EBYTE
+  display_name: EBYTE
 ecount-embedded:
-  display-name: eCOUNT Embedded
+  display_name: eCOUNT Embedded
   logo: false
 ecs-inc-international:
-  display-name: ECS Inc. International
+  display_name: ECS Inc. International
   logo: false
 edac:
-  display-name: EDAC
+  display_name: EDAC
   logo: false
 edge-tpu:
-  display-name: Edge TPU
+  display_name: Edge TPU
   logo: false
 ee-tools:
-  display-name: EE Tools
+  display_name: EE Tools
   logo: false
 eets:
-  display-name: EETS
+  display_name: EETS
 ef-johnson:
-  display-name: EF Johnson
+  display_name: EF Johnson
   logo: false
 efabless:
-  display-name: Efabless
+  display_name: Efabless
   logo: false
 efinix:
-  display-name: Efinix
+  display_name: Efinix
   logo: false
 electric-imp:
-  display-name: Electric Imp
+  display_name: Electric Imp
   logo: false
 electronic-assembly:
-  display-name: ELECTRONIC ASSEMBLY
+  display_name: ELECTRONIC ASSEMBLY
   logo: false
 electronutlabs:
-  display-name: Electronut Labs
+  display_name: Electronut Labs
 electroswitch:
-  display-name: Electroswitch
+  display_name: Electroswitch
   logo: false
 element-14:
-  display-name: Element14
+  display_name: Element14
 elgin:
-  display-name: Elgin
+  display_name: Elgin
   logo: false
 elna:
-  display-name: Elna
+  display_name: Elna
   logo: false
 elprotronic:
-  display-name: Elprotronic
+  display_name: Elprotronic
   logo: false
 embedded-artists:
-  display-name: Embedded Artists
+  display_name: Embedded Artists
 emerson-connectivity-solutions:
-  display-name: Emerson Connectivity Solutions
+  display_name: Emerson Connectivity Solutions
   logo: false
 emo-systems:
-  display-name: EMO Systems
+  display_name: EMO Systems
   logo: false
 empower-semiconductor:
-  display-name: Empower Semiconductor
+  display_name: Empower Semiconductor
   logo: false
 enclustra:
-  display-name: Enclustra
+  display_name: Enclustra
 ene-technology:
-  display-name: ENE Technology
+  display_name: ENE Technology
 energy-micro:
-  display-name: Energy Micro
+  display_name: Energy Micro
   logo: false
 engicam:
-  display-name: Engicam
+  display_name: Engicam
 enjoydigital:
-  display-name: Enjoy-Digital
+  display_name: Enjoy-Digital
 enocean:
-  display-name: EnOcean
+  display_name: EnOcean
   logo: false
 envox-experimental-zone:
-  display-name: Envox Experimental Zone
+  display_name: Envox Experimental Zone
   logo: false
 epson:
-  display-name: Epson
+  display_name: Epson
   logo: false
 ept:
-  display-name: ept
+  display_name: ept
   logo: false
 era-instruments:
-  display-name: ERA Instruments
+  display_name: ERA Instruments
   logo: false
 erp-power:
-  display-name: ERP Power
+  display_name: ERP Power
   logo: false
 espressif:
-  display-name: Espressif Systems
+  display_name: Espressif Systems
 esquilo:
-  display-name: Esquilo
+  display_name: Esquilo
   logo: false
 ess-technology:
-  display-name: ESS Technology
+  display_name: ESS Technology
   logo: false
 essentra-components:
-  display-name: Essentra Components
+  display_name: Essentra Components
   logo: false
 esterline:
-  display-name: Esterline
+  display_name: Esterline
   logo: false
 eswin:
-  display-name: ESWIN
+  display_name: ESWIN
 eta-usa:
-  display-name: ETA-USA
+  display_name: ETA-USA
   logo: false
 eti-systems:
-  display-name: ETI Systems
+  display_name: ETI Systems
   logo: false
 etron-technology:
-  display-name: Etron Technology
+  display_name: Etron Technology
   logo: false
 europe-chemi-con:
-  display-name: Europe Chemi-Con
+  display_name: Europe Chemi-Con
   logo: false
 eurotech:
-  display-name: Eurotech
+  display_name: Eurotech
   logo: false
 everlight:
-  display-name: Everlight
+  display_name: Everlight
   logo: false
 everpro-technologies:
-  display-name: EverPro Technologies
+  display_name: EverPro Technologies
   logo: false
 everspin-technologies:
-  display-name: Everspin Technologies
+  display_name: Everspin Technologies
   logo: false
 exascend:
-  display-name: Exascend
+  display_name: Exascend
   logo: false
 excamera-labs:
-  display-name: Excamera Labs
+  display_name: Excamera Labs
   logo: false
 excelsys:
-  display-name: Excelsys
+  display_name: Excelsys
   logo: false
 extech:
-  display-name: Extech
+  display_name: Extech
   logo: false
 eyecloud-ai:
-  display-name: EyeCloud AI
+  display_name: EyeCloud AI
   logo: false
 ezurio:
-  display-name: Ezurio
+  display_name: Ezurio
   logo: false
 f-secure:
-  display-name: F-Secure
+  display_name: F-Secure
   logo: false
 fair-rite:
-  display-name: Fair-Rite
+  display_name: Fair-Rite
   logo: false
 fanstel:
-  display-name: Fanstel
+  display_name: Fanstel
   logo: false
 fascomp:
-  display-name: Fascomp
+  display_name: Fascomp
   logo: false
 fastron:
-  display-name: Fastron
+  display_name: Fastron
   logo: false
 fci-automotive:
-  display-name: FCI Automotive
+  display_name: FCI Automotive
   logo: false
 fdi:
-  display-name: FDI
+  display_name: FDI
   logo: false
 ferrocore:
-  display-name: FERROCORE
+  display_name: FERROCORE
   logo: false
 fingerprints:
-  display-name: Fingerprints
+  display_name: Fingerprints
   logo: false
 finisar-corporation:
-  display-name: Finisar Corporation
+  display_name: Finisar Corporation
   logo: false
 first-sensor:
-  display-name: First Sensor
+  display_name: First Sensor
   logo: false
 fischer-elektronik:
-  display-name: Fischer Elektronik
+  display_name: Fischer Elektronik
   logo: false
 flambeau:
-  display-name: Flambeau
+  display_name: Flambeau
   logo: false
 flex-power-modules:
-  display-name: Flex Power Modules
+  display_name: Flex Power Modules
   logo: false
 focaltech:
-  display-name: FocalTech
+  display_name: FocalTech
 foosn:
-  display-name: Foosn
+  display_name: Foosn
   logo: false
 formerica-optoelectronics:
-  display-name: Formerica Optoelectronics
+  display_name: Formerica Optoelectronics
   logo: false
 fortebit:
-  display-name: Fortebit
+  display_name: Fortebit
   logo: false
 foxconn:
-  display-name: Foxconn
+  display_name: Foxconn
   logo: false
 fractus-antennas:
-  display-name: Fractus Antennas
+  display_name: Fractus Antennas
   logo: false
 framos:
-  display-name: FRAMOS
+  display_name: FRAMOS
   logo: false
 freescale:
-  display-name: Freescale
+  display_name: Freescale
   reason: acquisition
   see: nxp
 fremont-micro-devices:
-  display-name: Fremont Micro Devices
+  display_name: Fremont Micro Devices
   logo: false
 friendlyarm:
-  display-name: Friendly ARM
+  display_name: Friendly ARM
 frontgrade:
-  display-name: Frontgrade
+  display_name: Frontgrade
 ftdi-chip:
-  display-name: FTDI Chip
+  display_name: FTDI Chip
   logo: false
 fujitsu:
-  display-name: Fujitsu
+  display_name: Fujitsu
   logo: false
 furuno:
-  display-name: FURUNO
+  display_name: FURUNO
   logo: false
 futaba:
-  display-name: Futaba
+  display_name: Futaba
   logo: false
 future-designs:
-  display-name: Future Designs
+  display_name: Future Designs
   logo: false
 g-d:
-  display-name: G&D
+  display_name: G&D
 gan-systems:
-  display-name: GaN Systems
+  display_name: GaN Systems
   logo: false
 gardena:
-  display-name: Gardena
+  display_name: Gardena
 gateworks:
-  display-name: Gateworks
+  display_name: Gateworks
 gct:
-  display-name: GCT
+  display_name: GCT
   logo: false
 ge-m-c:
-  display-name: GE M&C
+  display_name: GE M&C
   logo: false
 geekbuying:
-  display-name: Geekbuying
+  display_name: Geekbuying
 general-electric:
-  display-name: General Electric
+  display_name: General Electric
 genesic-semiconductor:
-  display-name: GeneSiC Semiconductor
+  display_name: GeneSiC Semiconductor
   logo: false
 geyer-electronic:
-  display-name: Geyer Electronic
+  display_name: Geyer Electronic
   logo: false
 ghi-electronics:
-  display-name: GHI Electronics
+  display_name: GHI Electronics
   logo: false
 gigadevice:
-  display-name: GigaDevice
+  display_name: GigaDevice
 gigaipc:
-  display-name: GIGAIPC
+  display_name: GIGAIPC
   logo: false
 gigavac:
-  display-name: Gigavac
+  display_name: Gigavac
   logo: false
 glenair:
-  display-name: Glenair
+  display_name: Glenair
   logo: false
 global-connector-technology:
-  display-name: Global Connector Technology
+  display_name: Global Connector Technology
   logo: false
 global-specialties:
-  display-name: Global Specialties
+  display_name: Global Specialties
   logo: false
 globalscale-technologies:
-  display-name: Globalscale Technologies
+  display_name: Globalscale Technologies
   logo: false
 good-display:
-  display-name: Good Display
+  display_name: Good Display
 goodix:
-  display-name: Goodix
+  display_name: Goodix
 google:
-  display-name: Google
+  display_name: Google
 gore:
-  display-name: Gore
+  display_name: Gore
   logo: false
 gowin:
-  display-name: GOWIN
+  display_name: GOWIN
   logo: false
 gravitech:
-  display-name: Gravitech
+  display_name: Gravitech
   logo: false
 grayhill:
-  display-name: Grayhill
+  display_name: Grayhill
   logo: false
 great-scott-gadgets:
-  display-name: Great Scott Gadgets
+  display_name: Great Scott Gadgets
   logo: false
 greeled:
-  display-name: Greeled
+  display_name: Greeled
 greenlee:
-  display-name: Greenlee
+  display_name: Greenlee
   logo: false
 greenliant:
-  display-name: Greenliant
+  display_name: Greenliant
   logo: false
 grinn:
-  display-name: Grinn
+  display_name: Grinn
 groboards:
-  display-name: Groboards
+  display_name: Groboards
   logo: false
 gscoolink-microelectronics:
-  display-name: GSCoolink Microelectronics
+  display_name: GSCoolink Microelectronics
   logo: false
 gsi-technology:
-  display-name: GSI Technology
+  display_name: GSI Technology
   logo: false
 guerrilla-rf:
-  display-name: Guerrilla RF
+  display_name: Guerrilla RF
   logo: false
 gumstix:
-  display-name: Gumstix
+  display_name: Gumstix
   logo: false
 hackboard:
-  display-name: Hackboard
+  display_name: Hackboard
   logo: false
 hackergadgets:
-  display-name: HackerGadgets
+  display_name: HackerGadgets
   logo: false
 hailo:
-  display-name: Hailo
+  display_name: Hailo
 halo-electronics:
-  display-name: HALO Electronics
+  display_name: HALO Electronics
   logo: false
 halo-microelectronics:
-  display-name: Halo Microelectronics
+  display_name: Halo Microelectronics
   logo: false
 hamamatsu-photonics:
-  display-name: Hamamatsu Photonics
+  display_name: Hamamatsu Photonics
 hammond-manufacturing:
-  display-name: Hammond Manufacturing
+  display_name: Hammond Manufacturing
   logo: false
 hantronix:
-  display-name: Hantronix
+  display_name: Hantronix
   logo: false
 hardkernel:
-  display-name: Hardkernel
+  display_name: Hardkernel
 harting:
-  display-name: HARTING
+  display_name: HARTING
   logo: false
 harwin:
-  display-name: Harwin
+  display_name: Harwin
   logo: false
 hatch-lighting:
-  display-name: Hatch Lighting
+  display_name: Hatch Lighting
   logo: false
 hdgc:
-  display-name: HDGC
+  display_name: HDGC
   logo: false
 hdp-power:
-  display-name: HDP Power
+  display_name: HDP Power
   logo: false
 heeger:
-  display-name: Heeger
+  display_name: Heeger
   logo: false
 hellermanntyton:
-  display-name: HellermannTyton
+  display_name: HellermannTyton
   logo: false
 hencke-technologies:
-  display-name: Hencke Technologies
+  display_name: Hencke Technologies
   logo: false
 henkel:
-  display-name: Henkel
+  display_name: Henkel
   logo: false
 hewlett-packard:
-  display-name: Hewlett Packard
+  display_name: Hewlett Packard
 hexiwear:
-  display-name: Hexiwear
+  display_name: Hexiwear
 heyco:
-  display-name: Heyco
+  display_name: Heyco
   logo: false
 hirose-electric:
-  display-name: Hirose Electric
+  display_name: Hirose Electric
   logo: false
 hisilicon:
-  display-name: HiSilicon
+  display_name: HiSilicon
 hitachi:
-  display-name: Hitachi
+  display_name: Hitachi
 hitachi-metals:
-  display-name: Hitachi Metals
+  display_name: Hitachi Metals
   logo: false
 hms-networks:
-  display-name: HMS Networks
+  display_name: HMS Networks
   logo: false
 hobbs-honeywell:
-  display-name: Hobbs / Honeywell
+  display_name: Hobbs / Honeywell
   logo: false
 hologram:
-  display-name: Hologram
+  display_name: Hologram
   logo: false
 holtek:
-  display-name: Holtek
+  display_name: Holtek
 holyiot:
-  display-name: Holyiot
+  display_name: Holyiot
 honeywell:
-  display-name: Honeywell
+  display_name: Honeywell
 hoperf:
-  display-name: HopeRF
+  display_name: HopeRF
 htc:
-  display-name: HTC
+  display_name: HTC
 huber-suhner:
-  display-name: HUBER+SUHNER
+  display_name: HUBER+SUHNER
   logo: false
 hynitron:
-  display-name: Hynitron
+  display_name: Hynitron
 hyperstone:
-  display-name: Hyperstone
+  display_name: Hyperstone
   logo: false
 i-pex:
-  display-name: I-PEX
+  display_name: I-PEX
   logo: false
 i-syst:
-  display-name: I-SYST
+  display_name: I-SYST
   logo: false
 iar-systems:
-  display-name: IAR Systems
+  display_name: IAR Systems
   logo: false
 ibase-technology:
-  display-name: iBASE Technology
+  display_name: iBASE Technology
   logo: false
 ice-components:
-  display-name: ICE Components
+  display_name: ICE Components
   logo: false
 idec:
-  display-name: IDEC
+  display_name: IDEC
   logo: false
 iei:
-  display-name: IEI Technology
+  display_name: IEI Technology
 iet-labs:
-  display-name: IET Labs
+  display_name: IET Labs
   logo: false
 ignion:
-  display-name: Ignion
+  display_name: Ignion
   logo: false
 ii-vi:
-  display-name: II-VI
+  display_name: II-VI
   logo: false
 ilitek:
-  display-name: ILITEK
+  display_name: ILITEK
 ilumi:
-  display-name: ilumi
+  display_name: ilumi
   logo: false
 industrial-shields:
-  display-name: Industrial Shields
+  display_name: Industrial Shields
   logo: false
 industruino:
-  display-name: Industruino
+  display_name: Industruino
   logo: false
 infineon:
-  display-name: Infineon
+  display_name: Infineon
 inforce-computing:
-  display-name: Inforce Computing
+  display_name: Inforce Computing
   logo: false
 innodisk:
-  display-name: Innodisk
+  display_name: Innodisk
   logo: false
 innophase:
-  display-name: InnoPhase
+  display_name: InnoPhase
   logo: false
 innovative-sensor-technology:
-  display-name: Innovative Sensor Technology
+  display_name: Innovative Sensor Technology
   logo: false
 inolux:
-  display-name: Inolux
+  display_name: Inolux
   logo: false
 inrcore:
-  display-name: iNRCORE
+  display_name: iNRCORE
   logo: false
 insight-sip:
-  display-name: Insight SiP
+  display_name: Insight SiP
   logo: false
 insignal:
-  display-name: InSignal
+  display_name: InSignal
 inspired-led:
-  display-name: Inspired LED
+  display_name: Inspired LED
   logo: false
 integrated-device-technology:
-  display-name: Integrated Device Technology
+  display_name: Integrated Device Technology
   logo: false
 integrated-silicon-solutions:
-  display-name: Integrated Silicon Solutions
+  display_name: Integrated Silicon Solutions
 intel:
-  display-name: Intel
+  display_name: Intel
 intelligenate:
-  display-name: Intelligenate
+  display_name: Intelligenate
   logo: false
 interfet:
-  display-name: InterFET
+  display_name: InterFET
   logo: false
 international-power:
-  display-name: International Power
+  display_name: International Power
   logo: false
 intersil:
-  display-name: Intersil
+  display_name: Intersil
 intrinsyc:
-  display-name: Intrinsyc
+  display_name: Intrinsyc
   logo: false
 invensense:
-  display-name: InvenSense
+  display_name: InvenSense
 inventek:
-  display-name: Inventek
+  display_name: Inventek
 inventus-power:
-  display-name: Inventus Power
+  display_name: Inventus Power
   logo: false
 inverse-path:
-  display-name: Inverse Path
+  display_name: Inverse Path
 io-audio-technologies:
-  display-name: Io Audio Technologies
+  display_name: Io Audio Technologies
   logo: false
 iomega:
-  display-name: Iomega
+  display_name: Iomega
 iotex:
-  display-name: IoTeX
+  display_name: IoTeX
   logo: false
 iotize:
-  display-name: IoTize
+  display_name: IoTize
   logo: false
 iqd:
-  display-name: IQD
+  display_name: IQD
   logo: false
 isee:
-  display-name: ISEE
+  display_name: ISEE
 iso-tip:
-  display-name: Iso-Tip
+  display_name: Iso-Tip
   logo: false
 isotope-engineering:
-  display-name: Isotope Engineering
+  display_name: Isotope Engineering
   logo: false
 issi:
-  display-name: ISSI
+  display_name: ISSI
   logo: false
 ite-tech:
-  display-name: ITE Tech
+  display_name: ITE Tech
 itt-cannon:
-  display-name: ITT Cannon
+  display_name: ITT Cannon
   logo: false
 itw-switches:
-  display-name: ITW Switches
+  display_name: ITW Switches
   logo: false
 iwave-systems:
-  display-name: iWave Systems
+  display_name: iWave Systems
   logo: false
 jae-electronics:
-  display-name: JAE Electronics
+  display_name: JAE Electronics
   logo: false
 jedec-solid-state-technology-association:
-  display-name: jedec_solid_state_technology_association
+  display_name: jedec_solid_state_technology_association
 jethome:
-  display-name: JetHome
+  display_name: JetHome
   logo: false
 jkl-components:
-  display-name: JKL Components
+  display_name: JKL Components
   logo: false
 johanson-technology:
-  display-name: Johanson Technology
+  display_name: Johanson Technology
   logo: false
 johnson-electric:
-  display-name: Johnson Electric
+  display_name: Johnson Electric
   logo: false
 jonard-industries:
-  display-name: Jonard Industries
+  display_name: Jonard Industries
   logo: false
 jorjin:
-  display-name: Jorjin
+  display_name: Jorjin
   logo: false
 jst-automotive-connectors:
-  display-name: JST Automotive Connectors
+  display_name: JST Automotive Connectors
   logo: false
 k-p:
-  display-name: K+P
+  display_name: K+P
   logo: false
 ka-ro-electronics:
-  display-name: Ka-Ro Electronics
+  display_name: Ka-Ro Electronics
   logo: false
 kaga-electronics:
-  display-name: Kaga Electronics
+  display_name: Kaga Electronics
   logo: false
 kamaya:
-  display-name: Kamaya
+  display_name: Kamaya
   logo: false
 kds-daishinku-corp:
-  display-name: KDS Daishinku Corp.
+  display_name: KDS Daishinku Corp.
   logo: false
 keko-varicon:
-  display-name: KEKO Varicon
+  display_name: KEKO Varicon
   logo: false
 kemet:
-  display-name: KEMET
+  display_name: KEMET
   logo: false
 kensington-electronics:
-  display-name: Kensington Electronics
+  display_name: Kensington Electronics
   logo: false
 kester:
-  display-name: Kester
+  display_name: Kester
   logo: false
 keterex:
-  display-name: Keterex
+  display_name: Keterex
   logo: false
 keysight-technologies:
-  display-name: Keysight Technologies
+  display_name: Keysight Technologies
   logo: false
 keystone-electronics:
-  display-name: Keystone Electronics
+  display_name: Keystone Electronics
   logo: false
 khadas:
-  display-name: Khadas
+  display_name: Khadas
 kinetic-technologies:
-  display-name: Kinetic Technologies
+  display_name: Kinetic Technologies
   logo: false
 kingbright:
-  display-name: Kingbright
+  display_name: Kingbright
   logo: false
 kings-win:
-  display-name: Kings-Win
+  display_name: Kings-Win
   logo: false
 kingston:
-  display-name: Kingston
+  display_name: Kingston
   logo: false
 kioxia:
-  display-name: Kioxia
+  display_name: Kioxia
   logo: false
 klein-tools:
-  display-name: Klein Tools
+  display_name: Klein Tools
   logo: false
 kneron:
-  display-name: Kneron
+  display_name: Kneron
   logo: false
 knowles:
-  display-name: Knowles
+  display_name: Knowles
   logo: false
 koa-speer:
-  display-name: KOA Speer
+  display_name: KOA Speer
   logo: false
 kobiconn:
-  display-name: Kobiconn
+  display_name: Kobiconn
   logo: false
 kobitone:
-  display-name: Kobitone
+  display_name: Kobitone
   logo: false
 kobol:
-  display-name: Kobol
+  display_name: Kobol
 konica-minolta:
-  display-name: Konica Minolta
+  display_name: Konica Minolta
   logo: false
 kontron:
-  display-name: Kontron
+  display_name: Kontron
   logo: false
 kosagi:
-  display-name: Kosagi
+  display_name: Kosagi
   logo: false
 krakenrf:
-  display-name: KrakenRF
+  display_name: KrakenRF
   logo: false
 krtkl:
-  display-name: krtkl
+  display_name: krtkl
   logo: false
 kycon:
-  display-name: Kycon
+  display_name: Kycon
   logo: false
 kyocera-avx:
-  display-name: KYOCERA AVX
+  display_name: KYOCERA AVX
   logo: false
 l-g:
-  display-name: L+G
+  display_name: L+G
   logo: false
 labforge:
-  display-name: Labforge
+  display_name: Labforge
   logo: false
 lacie:
-  display-name: LaCie
+  display_name: LaCie
 laird:
-  display-name: Laird
+  display_name: Laird
   logo: false
 laird-connectivity:
-  display-name: Laird Connectivity
+  display_name: Laird Connectivity
   reason: rebranding
   see: ezurio
 lamb-industries:
-  display-name: Lamb Industries
+  display_name: Lamb Industries
   logo: false
 lambda-nu:
-  display-name: Lambda Nu
+  display_name: Lambda Nu
   logo: false
 lantronix:
-  display-name: Lantronix
+  display_name: Lantronix
   logo: false
 lattice-semiconductor:
-  display-name: Lattice Semiconductor
+  display_name: Lattice Semiconductor
   logo: false
 leadertech:
-  display-name: LeaderTech
+  display_name: LeaderTech
   logo: false
 lecroy:
-  display-name: LeCroy
+  display_name: LeCroy
   logo: false
 ledil:
-  display-name: Ledil
+  display_name: Ledil
   logo: false
 ledlink-optics:
-  display-name: LedLink Optics
+  display_name: LedLink Optics
   logo: false
 leetronics:
-  display-name: leetronics
+  display_name: leetronics
   logo: false
 lego:
-  display-name: Lego
+  display_name: Lego
 lelon:
-  display-name: Lelon
+  display_name: Lelon
   logo: false
 lemo:
-  display-name: LEMO
+  display_name: LEMO
   logo: false
 leopard-imaging:
-  display-name: Leopard Imaging
+  display_name: Leopard Imaging
   logo: false
 lg:
-  display-name: LG
+  display_name: LG
 libre-computer:
-  display-name: Libre Computer
+  display_name: Libre Computer
 liebherr:
-  display-name: Liebherr
+  display_name: Liebherr
 lightware-lidar:
-  display-name: LightWare LiDAR
+  display_name: LightWare LiDAR
   logo: false
 lime-microsystems:
-  display-name: Lime Microsystems
+  display_name: Lime Microsystems
   logo: false
 linear-integrated-systems:
-  display-name: Linear Integrated Systems
+  display_name: Linear Integrated Systems
   logo: false
 link-pp:
-  display-name: LINK-PP
+  display_name: LINK-PP
   logo: false
 linklayer:
-  display-name: Linklayer
+  display_name: Linklayer
   logo: false
 linx-technologies:
-  display-name: Linx Technologies
+  display_name: Linx Technologies
   logo: false
 liquid-instruments:
-  display-name: Liquid Instruments
+  display_name: Liquid Instruments
   logo: false
 lite-on:
-  display-name: Lite-On
+  display_name: Lite-On
   logo: false
 littelfuse:
-  display-name: Littelfuse
+  display_name: Littelfuse
   logo: false
 lixie-labs:
-  display-name: Lixie Labs
+  display_name: Lixie Labs
   logo: false
 logic-pd:
-  display-name: Logic PD
+  display_name: Logic PD
   logo: false
 lontium:
-  display-name: Lontium
+  display_name: Lontium
   logo: false
 lord-microstrain:
-  display-name: LORD Microstrain
+  display_name: LORD Microstrain
   logo: false
 lorlin:
-  display-name: Lorlin
+  display_name: Lorlin
   logo: false
 lowrisc:
-  display-name: lowRISC
+  display_name: lowRISC
 lprs:
-  display-name: LPRS
+  display_name: LPRS
   logo: false
 lumberg-automation:
-  display-name: Lumberg Automation
+  display_name: Lumberg Automation
   logo: false
 lumex:
-  display-name: Lumex
+  display_name: Lumex
   logo: false
 lumileds:
-  display-name: Lumileds
+  display_name: Lumileds
   logo: false
 luminary-micro:
-  display-name: Luminary Micro
+  display_name: Luminary Micro
   logo: false
 luminus-devices:
-  display-name: Luminus Devices
+  display_name: Luminus Devices
   logo: false
 lumissil:
-  display-name: Lumissil
+  display_name: Lumissil
   logo: false
 luxonis:
-  display-name: Luxonis
+  display_name: Luxonis
   logo: false
 m5stack:
-  display-name: M5Stack
+  display_name: M5Stack
   logo: false
 macom:
-  display-name: MACOM
+  display_name: MACOM
   logo: false
 macronix:
-  display-name: Macronix
+  display_name: Macronix
   logo: false
 madmachine:
-  display-name: MadMachine
+  display_name: MadMachine
 maestro-wireless-solutions:
-  display-name: Maestro Wireless Solutions
+  display_name: Maestro Wireless Solutions
   logo: false
 magnecraft:
-  display-name: Magnecraft
+  display_name: Magnecraft
   logo: false
 makerdiary:
-  display-name: makerdiary
+  display_name: makerdiary
 mallory:
-  display-name: Mallory
+  display_name: Mallory
   logo: false
 mallory-sonalert:
-  display-name: Mallory Sonalert
+  display_name: Mallory Sonalert
   logo: false
 marktech-optoelectronics:
-  display-name: Marktech Optoelectronics
+  display_name: Marktech Optoelectronics
   logo: false
 marquardt-switches:
-  display-name: Marquardt Switches
+  display_name: Marquardt Switches
   logo: false
 marvell:
-  display-name: Marvell Technology
+  display_name: Marvell Technology
 marvell-semiconductor:
-  see: marvell
+  display_name: Marvell Semiconductor
   reason: alias
-  display-name: Marvell Semiconductor
+  see: marvell
 masach-tech:
-  display-name: Masach Tech
+  display_name: Masach Tech
   logo: false
 matrix-industries:
-  display-name: MATRIX Industries
+  display_name: MATRIX Industries
   logo: false
 matrix-orbital:
-  display-name: Matrix Orbital
+  display_name: Matrix Orbital
   logo: false
 maxim-integrated:
-  display-name: Maxim Integrated
+  display_name: Maxim Integrated
   reason: acquisition
   see: analog-devices
 maxim-integrated-products:
   reason: alias
   see: maxim-integrated
 maxlinear:
-  display-name: MaxLinear
+  display_name: MaxLinear
   logo: false
 maxstream:
-  display-name: MaxStream
+  display_name: MaxStream
   logo: false
 maxtena:
-  display-name: Maxtena
+  display_name: Maxtena
   logo: false
 maxwell-technologies:
-  display-name: Maxwell Technologies
+  display_name: Maxwell Technologies
   logo: false
 mcc:
-  display-name: MCC
+  display_name: MCC
   logo: false
 mcp-amphenol:
-  display-name: MCP / Amphenol
+  display_name: MCP / Amphenol
   logo: false
 mcube:
-  display-name: mCube
+  display_name: mCube
   logo: false
 mean-well:
-  display-name: MEAN WELL
+  display_name: MEAN WELL
   logo: false
 measurement-specialties:
-  display-name: Measurement Specialties
+  display_name: Measurement Specialties
 meatpi:
-  display-name: MeatPi
+  display_name: MeatPi
   logo: false
 mec-switches:
-  display-name: MEC Switches
+  display_name: MEC Switches
   logo: false
 meder-electronic:
-  display-name: MEDER electronic
+  display_name: MEDER electronic
   logo: false
 mediatek:
-  display-name: MediaTek
+  display_name: MediaTek
 meggitt-electronic-components:
-  display-name: Meggitt Electronic Components
+  display_name: Meggitt Electronic Components
   logo: false
 megladon-manufacturing:
-  display-name: Megladon Manufacturing
+  display_name: Megladon Manufacturing
   logo: false
 melexis:
-  display-name: Melexis
+  display_name: Melexis
   logo: false
 memsic:
-  display-name: MEMSIC
+  display_name: MEMSIC
   logo: false
 menda:
-  display-name: Menda
+  display_name: Menda
   logo: false
 menlo:
-  display-name: Menlo Electric
+  display_name: Menlo Electric
 menlo-micro:
-  display-name: Menlo Micro
+  display_name: Menlo Micro
   logo: false
 mentor-worldwide:
-  display-name: Mentor Worldwide
+  display_name: Mentor Worldwide
   logo: false
 mercury-united-electronics:
-  display-name: Mercury United Electronics
+  display_name: Mercury United Electronics
   logo: false
 merit-sensor:
-  display-name: Merit Sensor
+  display_name: Merit Sensor
   logo: false
 metcal:
-  display-name: Metcal
+  display_name: Metcal
   logo: false
 methode:
-  display-name: Methode Electronics
+  display_name: Methode Electronics
 metz-connect:
-  display-name: Metz Connect
+  display_name: Metz Connect
   logo: false
 mg-chemicals:
-  display-name: MG Chemicals
+  display_name: MG Chemicals
   logo: false
 mh-connectors:
-  display-name: MH Connectors
+  display_name: MH Connectors
   logo: false
 micrium:
-  display-name: Micrium
+  display_name: Micrium
   logo: false
 micro-bit:
-  display-name: micro:bit
+  display_name: micro:bit
 micro-commercial-components:
-  display-name: Micro Commercial Components
+  display_name: Micro Commercial Components
   logo: false
 micro-crystal:
-  display-name: Micro Crystal
+  display_name: Micro Crystal
   logo: false
 microbus:
-  display-name: microBUS
+  display_name: microBUS
 microcare:
-  display-name: MicroCare
+  display_name: MicroCare
   logo: false
 microchip:
-  display-name: Microchip Technology
+  display_name: Microchip Technology
 microchip-technology:
-  see: microchip
   reason: alias
+  see: microchip
 micron-technology:
-  display-name: Micron Technology
+  display_name: Micron Technology
 microphonon:
-  display-name: MicroPhonon
+  display_name: MicroPhonon
   logo: false
 microsemi:
-  display-name: Microsemi
+  display_name: Microsemi
 microstrain:
-  display-name: Microstrain
+  display_name: Microstrain
   logo: false
 microtherm-sentronic:
-  display-name: Microtherm Sentronic
+  display_name: Microtherm Sentronic
   logo: false
 microtips-technology:
-  display-name: Microtips Technology
+  display_name: Microtips Technology
   logo: false
 microwave-technology:
-  display-name: MicroWave Technology
+  display_name: MicroWave Technology
   logo: false
 mide-technology:
-  display-name: Mide Technology
+  display_name: Mide Technology
   logo: false
 mikroe:
-  display-name: Mikroe
+  display_name: Mikroe
   logo: false
 mikroelektronika:
-  display-name: MikroElektronika
+  display_name: MikroElektronika
 mikrotik:
-  display-name: MikroTik
+  display_name: MikroTik
 mill-max:
-  display-name: Mill-Max
+  display_name: Mill-Max
   logo: false
 mini-circuits:
-  display-name: Mini-Circuits
+  display_name: Mini-Circuits
   logo: false
 mitsubishi-electric:
-  display-name: Mitsubishi Electric
+  display_name: Mitsubishi Electric
   logo: false
 mobix-labs:
-  display-name: Mobix Labs
+  display_name: Mobix Labs
   logo: false
 molex:
-  display-name: Molex
+  display_name: Molex
   logo: false
 monnit:
-  display-name: Monnit
+  display_name: Monnit
   logo: false
 monodaq:
-  display-name: MonoDAQ
+  display_name: MonoDAQ
   logo: false
 monolithic-power-systems:
-  display-name: Monolithic Power Systems
+  display_name: Monolithic Power Systems
   logo: false
 mornsun:
-  display-name: Mornsun
+  display_name: Mornsun
   logo: false
 morpheans:
-  display-name: Morpheans
+  display_name: Morpheans
   logo: false
 motorola:
-  display-name: Motorola
+  display_name: Motorola
 mountain-switch:
-  display-name: Mountain Switch
+  display_name: Mountain Switch
   logo: false
 move-x:
-  display-name: Move-X
+  display_name: Move-X
   logo: false
 movella:
-  display-name: Movella
+  display_name: Movella
   logo: false
 mpd:
-  display-name: MPD
+  display_name: MPD
   logo: false
 mpression:
-  display-name: Mpression
+  display_name: Mpression
   logo: false
 mtconn-electronics:
-  display-name: Mtconn Electronics
+  display_name: Mtconn Electronics
   logo: false
 mueller-electric:
-  display-name: Mueller Electric
+  display_name: Mueller Electric
   logo: false
 multicomp-pro:
-  display-name: Multicomp Pro
+  display_name: Multicomp Pro
   logo: false
 multitech:
-  display-name: MultiTech
+  display_name: MultiTech
   logo: false
 murata:
-  display-name: Murata
+  display_name: Murata
   logo: false
 murrelektronik:
-  display-name: Murrelektronik
+  display_name: Murrelektronik
   logo: false
 myir:
-  display-name: Myir
+  display_name: Myir
 myir-tech:
-  display-name: MYIR Tech
+  display_name: MYIR Tech
   logo: false
 nanonics-te-connectivit:
-  display-name: Nanonics / TE Connectivit
+  display_name: Nanonics / TE Connectivit
   logo: false
 navitas-semiconductor:
-  display-name: Navitas Semiconductor
+  display_name: Navitas Semiconductor
   logo: false
 ndk:
-  display-name: NDK
+  display_name: NDK
   logo: false
 nec-relays:
-  display-name: NEC Relays
+  display_name: NEC Relays
   logo: false
 neocortec:
-  display-name: NeoCortec
+  display_name: NeoCortec
   logo: false
 neorv32:
-  display-name: NEORV32
+  display_name: NEORV32
 netburner:
-  display-name: NetBurner
+  display_name: NetBurner
   logo: false
 netduino:
-  display-name: Netduino
+  display_name: Netduino
   logo: false
 netpower-technologies:
-  display-name: NetPower Technologies
+  display_name: NetPower Technologies
   logo: false
 neuralaxy:
-  display-name: Neuralaxy
+  display_name: Neuralaxy
   logo: false
 neutrik:
-  display-name: Neutrik
+  display_name: Neutrik
   logo: false
 neutron-controls:
-  display-name: Neutron Controls
+  display_name: Neutron Controls
   logo: false
 new-age-enclosures:
-  display-name: New Age Enclosures
+  display_name: New Age Enclosures
   logo: false
 new-energy:
-  display-name: New Energy
+  display_name: New Energy
   logo: false
 newae-technology:
-  display-name: NewAE Technology
+  display_name: NewAE Technology
   logo: false
 newhaven-display:
-  display-name: Newhaven Display
+  display_name: Newhaven Display
   logo: false
 nexaiot:
-  display-name: NexAIoT
+  display_name: NexAIoT
   logo: false
 nexcobot:
-  display-name: NexCOBOT
+  display_name: NexCOBOT
   logo: false
 nexcom:
-  display-name: NEXCOM
+  display_name: NEXCOM
   logo: false
 nexperia:
-  display-name: Nexperia
+  display_name: Nexperia
   logo: false
 ni:
-  display-name: NI
+  display_name: NI
   logo: false
 nichicon:
-  display-name: Nichicon
+  display_name: Nichicon
   logo: false
 nidec-components:
-  display-name: Nidec Components
+  display_name: Nidec Components
   logo: false
 nimbelink:
-  display-name: NimbeLink
+  display_name: NimbeLink
   logo: false
 ninigi:
-  display-name: Ninigi
+  display_name: Ninigi
   logo: false
 nippon-chemi-con:
-  display-name: Nippon Chemi-Con
+  display_name: Nippon Chemi-Con
   logo: false
 nisshinbo:
-  display-name: Nisshinbo
+  display_name: Nisshinbo
   logo: false
 njr:
-  display-name: NJR
+  display_name: NJR
   logo: false
 nkk-switches:
-  display-name: NKK Switches
+  display_name: NKK Switches
   logo: false
 nmb-technologies:
-  display-name: NMB Technologies
+  display_name: NMB Technologies
   logo: false
 norcomp:
-  display-name: NorComp
+  display_name: NorComp
   logo: false
 nordic:
-  display-name: Nordic Semiconductor
+  display_name: Nordic Semiconductor
 nordic-semiconductor:
   reason: alias
   see: nordic
 noritake:
-  display-name: Noritake
+  display_name: Noritake
   logo: false
 novtech:
-  display-name: NovTech
+  display_name: NovTech
 nth-dimension:
-  display-name: Nth Dimension
+  display_name: Nth Dimension
   logo: false
 nuclei-system-technology:
-  display-name: Nuclei System Technology
+  display_name: Nuclei System Technology
 nuvoton:
-  display-name: Nuvoton
+  display_name: Nuvoton
 nvidia:
-  display-name: Nvidia
+  display_name: Nvidia
 nxp:
-  display-name: NXP Semiconductors
+  display_name: NXP Semiconductors
 octavo-systems:
-  display-name: Octavo Systems
+  display_name: Octavo Systems
   logo: false
 odroid:
-  display-name: ODROID
+  display_name: ODROID
 odu:
-  display-name: ODU
+  display_name: ODU
   logo: false
 ohmite:
-  display-name: Ohmite
+  display_name: Ohmite
   logo: false
 olimex:
-  display-name: Olimex Ltd.
+  display_name: Olimex Ltd.
 olmatic:
-  display-name: Olmatic
+  display_name: Olmatic
   logo: false
 omnipresense:
-  display-name: OmniPreSense
+  display_name: OmniPreSense
   logo: false
 omnivision:
-  display-name: OmniVision
+  display_name: OmniVision
 omron:
-  display-name: Omron
+  display_name: Omron
   logo: false
 on-semiconductor:
-  display-name: ON Semiconductor
+  display_name: ON Semiconductor
   logo: false
 on-shore-technology-inc-:
-  display-name: On Shore Technology Inc.
+  display_name: On Shore Technology Inc.
   logo: false
 oncque:
-  display-name: OncQue
+  display_name: OncQue
   logo: false
 onion:
-  display-name: Onion
+  display_name: Onion
   logo: false
 onsemi:
-  display-name: Onsemi
+  display_name: Onsemi
 openhw-group:
-  display-name: OpenHW Group
+  display_name: OpenHW Group
 openisa:
-  display-name: OpenISA
+  display_name: OpenISA
 optosupply:
-  display-name: OptoSupply
+  display_name: OptoSupply
   logo: false
 oring:
-  display-name: ORing
+  display_name: ORing
   logo: false
 orion-fans:
-  display-name: Orion Fans
+  display_name: Orion Fans
   logo: false
 osepp-electronics:
-  display-name: OSEPP Electronics
+  display_name: OSEPP Electronics
   logo: false
 osram:
-  display-name: OSRAM
+  display_name: OSRAM
   logo: false
 ostream:
-  display-name: OStream
+  display_name: OStream
   logo: false
 other:
-  display-name: Other
+  display_name: Other
   logo: false
 othernet:
-  display-name: Othernet
+  display_name: Othernet
   logo: false
 otto:
-  display-name: OTTO
+  display_name: OTTO
   logo: false
 overview:
-  display-name: Overview
+  display_name: Overview
   logo: false
 pactec:
-  display-name: PacTec
+  display_name: PacTec
   logo: false
 panasonic:
-  display-name: Panasonic
+  display_name: Panasonic
 panavise:
-  display-name: Panavise
+  display_name: Panavise
   logo: false
 pandaboard-org:
-  display-name: PandaBoard.org
+  display_name: PandaBoard.org
   logo: false
 panduit:
-  display-name: Panduit
+  display_name: Panduit
   logo: false
 panjit:
-  display-name: PANJIT
+  display_name: PANJIT
   logo: false
 parallax:
-  display-name: Parallax
+  display_name: Parallax
   logo: false
 parker-lord:
-  display-name: Parker LORD
+  display_name: Parker LORD
   logo: false
 particle:
-  display-name: Particle
+  display_name: Particle
 pcb-arts:
-  display-name: PCB Arts
+  display_name: PCB Arts
   logo: false
 pem:
-  display-name: PEM
+  display_name: PEM
   logo: false
 penguin-edge:
-  display-name: Penguin Edge
+  display_name: Penguin Edge
   logo: false
 pennengineering:
-  display-name: PennEngineering
+  display_name: PennEngineering
   logo: false
 performance-motion-devices:
-  display-name: Performance Motion Devices
+  display_name: Performance Motion Devices
   logo: false
 pervasive-displays:
-  display-name: Pervasive Displays
+  display_name: Pervasive Displays
   logo: false
 phambili:
-  display-name: Phambili
+  display_name: Phambili
   logo: false
 phihong:
-  display-name: Phihong
+  display_name: Phihong
   logo: false
 philips:
-  display-name: Philips
+  display_name: Philips
   logo: false
 phoenix-contact:
-  display-name: Phoenix Contact
+  display_name: Phoenix Contact
   logo: false
 phoenix-mecano:
-  display-name: Phoenix Mecano
+  display_name: Phoenix Mecano
   logo: false
 phytec:
-  display-name: PHYTEC
+  display_name: PHYTEC
 phytium:
-  display-name: Phytium
+  display_name: Phytium
 pimoroni:
-  display-name: Pimoroni
+  display_name: Pimoroni
   logo: false
 pine64:
-  display-name: PINE64
+  display_name: PINE64
 plato:
-  display-name: Plato
+  display_name: Plato
   logo: false
 pletronics-inc-:
-  display-name: Pletronics Inc.
+  display_name: Pletronics Inc.
   logo: false
 pmdperformance-motion-devices:
-  display-name: PMDPerformance Motion Devices
+  display_name: PMDPerformance Motion Devices
   logo: false
 pomona-electronics:
-  display-name: Pomona Electronics
+  display_name: Pomona Electronics
   logo: false
 ponoor-experiments:
-  display-name: Ponoor Experiments
+  display_name: Ponoor Experiments
   logo: false
 power-integrations:
-  display-name: Power Integrations
+  display_name: Power Integrations
   logo: false
 power-one:
-  display-name: Power-One
+  display_name: Power-One
   logo: false
 power-partners:
-  display-name: Power Partners
+  display_name: Power Partners
   logo: false
 power-sonic:
-  display-name: Power-Sonic
+  display_name: Power-Sonic
   logo: false
 powercast:
-  display-name: Powercast
+  display_name: Powercast
   logo: false
 powerfilm:
-  display-name: PowerFilm
+  display_name: PowerFilm
   logo: false
 preci-dip:
-  display-name: Preci-Dip
+  display_name: Preci-Dip
   logo: false
 princeton-university:
-  display-name: Princeton University
+  display_name: Princeton University
 pro-wave-electronics:
-  display-name: Pro-Wave Electronics
+  display_name: Pro-Wave Electronics
   logo: false
 progranalog:
-  display-name: ProGrAnalog
+  display_name: ProGrAnalog
   logo: false
 projects-unlimited:
-  display-name: Projects Unlimited
+  display_name: Projects Unlimited
   logo: false
 protektive-pak:
-  display-name: Protektive Pak
+  display_name: Protektive Pak
   logo: false
 proterial:
-  display-name: Proterial
+  display_name: Proterial
   logo: false
 psemi:
-  display-name: pSemi
+  display_name: pSemi
   logo: false
 pui-audio:
-  display-name: PUI Audio
+  display_name: PUI Audio
   logo: false
 pulse-electronics:
-  display-name: Pulse Electronics
+  display_name: Pulse Electronics
   logo: false
 pulser-electronics:
-  display-name: PulseR Electronics
+  display_name: PulseR Electronics
   logo: false
 pycom:
-  display-name: Pycom
+  display_name: Pycom
   logo: false
 qoitech:
-  display-name: Qoitech
+  display_name: Qoitech
   logo: false
 qorvo:
-  display-name: Qorvo
+  display_name: Qorvo
 qualcomm:
-  display-name: Qualcomm
+  display_name: Qualcomm
 qualtek:
-  display-name: Qualtek
+  display_name: Qualtek
   logo: false
 qualtek-electronics:
-  display-name: Qualtek Electronics
+  display_name: Qualtek Electronics
   logo: false
 quectel:
-  display-name: Quectel
+  display_name: Quectel
   logo: false
 quicklogic:
-  display-name: QuickLogic
+  display_name: QuickLogic
 rabbit-semiconductor:
-  display-name: Rabbit Semiconductor
+  display_name: Rabbit Semiconductor
   logo: false
 radiall:
-  display-name: Radiall
+  display_name: Radiall
   logo: false
 radiona:
-  display-name: Radiona
+  display_name: Radiona
   logo: false
 radiotronix:
-  display-name: Radiotronix
+  display_name: Radiotronix
   logo: false
 radxa:
-  display-name: Radxa
+  display_name: Radxa
 raf-electronic-hardware:
-  display-name: RAF Electronic Hardware
+  display_name: RAF Electronic Hardware
   logo: false
 rafi:
-  display-name: RAFI
+  display_name: RAFI
   logo: false
 raidsonic:
-  display-name: RaidSonic
+  display_name: RaidSonic
 rak:
-  display-name: RAKwireless
+  display_name: RAKwireless
 ramtron:
-  display-name: Ramtron
+  display_name: Ramtron
   logo: false
 raspberry-pi:
-  display-name: Raspberry Pi
+  display_name: Raspberry Pi
 raydiall-automotive:
-  display-name: Raydiall Automotive
+  display_name: Raydiall Automotive
   logo: false
 raytac:
-  display-name: Raytac Corporation
+  display_name: Raytac Corporation
   logo: false
 realtek:
-  display-name: Realtek
+  display_name: Realtek
   logo: false
 rean:
-  display-name: REAN
+  display_name: REAN
   logo: false
 recom-power:
-  display-name: RECOM Power
+  display_name: RECOM Power
   logo: false
 rectron:
-  display-name: Rectron
+  display_name: Rectron
   logo: false
 red-pitaya:
-  display-name: Red Pitaya
+  display_name: Red Pitaya
   logo: false
 redbearlab:
-  display-name: RedBearLab
+  display_name: RedBearLab
 redpine-signals:
-  display-name: Redpine Signals
+  display_name: Redpine Signals
   logo: false
 reflex-ces:
-  display-name: ReFLEX CES
+  display_name: ReFLEX CES
   logo: false
 rego-electronics:
-  display-name: Rego Electronics
+  display_name: Rego Electronics
   logo: false
 renata:
-  display-name: Renata
+  display_name: Renata
   logo: false
 renesas:
-  display-name: Renesas Electronics
+  display_name: Renesas Electronics
 rf-digital:
-  display-name: RF Digital
+  display_name: RF Digital
   logo: false
 rf-solutions:
-  display-name: RF Solutions
+  display_name: RF Solutions
   logo: false
 rfm:
-  display-name: RFM
+  display_name: RFM
   logo: false
 rfmi:
-  display-name: RFMi
+  display_name: RFMi
   logo: false
 richtek:
-  display-name: Richtek
+  display_name: Richtek
   logo: false
 ricoh-electronic-devices-company:
-  display-name: Ricoh Electronic Devices Company
+  display_name: Ricoh Electronic Devices Company
   logo: false
 rigado:
-  display-name: Rigado
+  display_name: Rigado
   logo: false
 riverdi:
-  display-name: Riverdi
+  display_name: Riverdi
   logo: false
 robotis:
-  display-name: ROBOTIS
+  display_name: ROBOTIS
   logo: false
 rockchip:
-  display-name: Rockchip
+  display_name: Rockchip
 rohm-semiconductor:
-  display-name: ROHM Semiconductor
+  display_name: ROHM Semiconductor
 ronoth:
-  display-name: Ronoth
+  display_name: Ronoth
 rosenberger:
-  display-name: Rosenberger
+  display_name: Rosenberger
   logo: false
 rowley-associates:
-  display-name: Rowley Associates
+  display_name: Rowley Associates
   logo: false
 royalohm:
-  display-name: ROYALOHM
+  display_name: ROYALOHM
   logo: false
 rrc-power-solutions:
-  display-name: RRC Power Solutions
+  display_name: RRC Power Solutions
   logo: false
 rt-thread:
-  display-name: RT-Thread
+  display_name: RT-Thread
   logo: false
 rubycon:
-  display-name: Rubycon
+  display_name: Rubycon
   logo: false
 ruuvi:
-  display-name: Ruuvi
+  display_name: Ruuvi
 sagrad-inc-:
-  display-name: Sagrad Inc.
+  display_name: Sagrad Inc.
   logo: false
 saia-burgess:
-  display-name: Saia-Burgess
+  display_name: Saia-Burgess
   logo: false
 samsung:
-  display-name: Samsung Electronics
-samsung-electronics:
-  see: samsung
-  reason: alias
+  display_name: Samsung Electronics
 samsung-electro-mechanics:
-  display-name: Samsung Electro-Mechanics
+  display_name: Samsung Electro-Mechanics
   logo: false
+samsung-electronics:
+  reason: alias
+  see: samsung
 samtec:
-  display-name: Samtec
+  display_name: Samtec
   logo: false
 sancloud:
-  display-name: SanCloud
+  display_name: SanCloud
   logo: false
 sandisk:
-  display-name: SanDisk
+  display_name: SanDisk
   logo: false
 sanmotion:
-  display-name: SANMOTION
+  display_name: SANMOTION
   logo: false
 sanrex:
-  display-name: SanRex
+  display_name: SanRex
   logo: false
 sanyo-denki:
-  display-name: Sanyo Denki
+  display_name: Sanyo Denki
   logo: false
 sargent-tools:
-  display-name: Sargent Tools
+  display_name: Sargent Tools
   logo: false
 schaffner:
-  display-name: Schaffner
+  display_name: Schaffner
   logo: false
 schmartboard:
-  display-name: SchmartBoard
+  display_name: SchmartBoard
   logo: false
 schneider:
-  display-name: Schneider Electric
+  display_name: Schneider Electric
 schurter:
-  display-name: Schurter
+  display_name: Schurter
   logo: false
 sciosense:
-  display-name: ScioSense
+  display_name: ScioSense
   logo: false
 scs:
-  display-name: SCS
+  display_name: SCS
   logo: false
 se-relays:
-  display-name: SE Relays
+  display_name: SE Relays
   logo: false
 seagate:
-  display-name: Seagate
+  display_name: Seagate
 searan:
-  display-name: SEARAN
+  display_name: SEARAN
   logo: false
 seco:
-  display-name: SECO
+  display_name: SECO
   logo: false
 securing-hardware:
-  display-name: Securing Hardware
+  display_name: Securing Hardware
   logo: false
 seeed:
-  display-name: Seeed Studio
+  display_name: Seeed Studio
 segger:
-  display-name: SEGGER Microcontroller
+  display_name: SEGGER Microcontroller
 sei-robotics:
-  display-name: Sei Robotics
+  display_name: Sei Robotics
 seiko-instruments:
-  display-name: Seiko Instruments
+  display_name: Seiko Instruments
   logo: false
 semiq:
-  display-name: SemiQ
+  display_name: SemiQ
   logo: false
 semitec-usa:
-  display-name: Semitec USA
+  display_name: Semitec USA
   logo: false
 semtech:
-  display-name: Semtech
+  display_name: Semtech
 sensata:
-  display-name: Sensata
+  display_name: Sensata
   logo: false
 sensiedge:
-  display-name: SensiEDGE
+  display_name: SensiEDGE
   logo: false
 sensiml:
-  display-name: SensiML
+  display_name: SensiML
   logo: false
 sensirion:
-  display-name: Sensirion
+  display_name: Sensirion
 seoul-viosys:
-  display-name: Seoul Viosys
+  display_name: Seoul Viosys
   logo: false
 sequans:
-  display-name: Sequans
+  display_name: Sequans
   logo: false
 sequent-microsystems:
-  display-name: Sequent Microsystems
+  display_name: Sequent Microsystems
   logo: false
 serpac:
-  display-name: Serpac
+  display_name: Serpac
   logo: false
 sfera-labs:
-  display-name: Sfera Labs
+  display_name: Sfera Labs
   logo: false
 sharp-microelectronics:
-  display-name: Sharp Microelectronics
+  display_name: Sharp Microelectronics
   logo: false
 shenzhen-huiding-technology:
-  display-name: Shenzhen Huiding Technology
+  display_name: Shenzhen Huiding Technology
   logo: false
 shin-chin:
-  display-name: Shin Chin
+  display_name: Shin Chin
   logo: false
 shindengen:
-  display-name: Shindengen
+  display_name: Shindengen
   logo: false
 siemens:
-  display-name: Siemens
+  display_name: Siemens
 sierra-monitor:
-  display-name: Sierra Monitor
+  display_name: Sierra Monitor
   logo: false
 sierra-wireless:
-  display-name: Sierra Wireless
+  display_name: Sierra Wireless
   logo: false
 sifive:
-  display-name: SiFive
+  display_name: SiFive
 sigfox:
-  display-name: Sigfox
+  display_name: Sigfox
   logo: false
 signetik:
-  display-name: Signetik
+  display_name: Signetik
   logo: false
 signoid:
-  display-name: Signoid
+  display_name: Signoid
   logo: false
 silex-technology:
-  display-name: Silex Technology
+  display_name: Silex Technology
   logo: false
 silicognition:
-  display-name: Silicognition
+  display_name: Silicognition
   logo: false
 silicom:
-  display-name: Silicom
+  display_name: Silicom
   logo: false
 silicon-labs:
-  display-name: Silicon Labs
+  display_name: Silicon Labs
 silicon-linux:
-  display-name: Silicon Linux
+  display_name: Silicon Linux
   logo: false
 silicon-microstructures:
-  display-name: Silicon Microstructures
+  display_name: Silicon Microstructures
   logo: false
 siliconbrite:
-  display-name: SiliconBrite
+  display_name: SiliconBrite
   logo: false
 silvertel:
-  display-name: Silvertel
+  display_name: Silvertel
   logo: false
 simpson-electric-company:
-  display-name: Simpson Electric Company
+  display_name: Simpson Electric Company
   logo: false
 sinotop:
-  display-name: Sinotop
+  display_name: Sinotop
   logo: false
 sipeed:
-  display-name: sipeed
+  display_name: sipeed
 siretta:
-  display-name: Siretta
+  display_name: Siretta
   logo: false
 sitime:
-  display-name: SiTime
+  display_name: SiTime
   logo: false
 sitronix:
-  display-name: Sitronix
+  display_name: Sitronix
 sk-hynix:
-  display-name: SK Hynix
+  display_name: SK Hynix
   logo: false
 skyetek:
-  display-name: SkyeTek
+  display_name: SkyeTek
   logo: false
 skyhigh-memory:
-  display-name: SkyHigh Memory
+  display_name: SkyHigh Memory
   logo: false
 skyworks-solutions:
-  display-name: Skyworks Solutions
+  display_name: Skyworks Solutions
   logo: false
 skyworth:
-  display-name: Skyworth
+  display_name: Skyworth
 sl-power:
-  display-name: SL Power
+  display_name: SL Power
   logo: false
 smart-battery-system:
-  display-name: Smart Battery System
+  display_name: Smart Battery System
 smart-group-holdings:
-  display-name: SMART Group Holdings
+  display_name: SMART Group Holdings
   logo: false
 smart-modular-technologies:
-  display-name: SMART Modular Technologies
+  display_name: SMART Modular Technologies
   logo: false
 smartsemi:
-  display-name: SMARTsemi
+  display_name: SMARTsemi
   logo: false
 smartworx:
-  display-name: Smartworx
+  display_name: Smartworx
   logo: false
 smiths-interconnect:
-  display-name: Smiths Interconnect
+  display_name: Smiths Interconnect
   logo: false
 socionext:
-  display-name: Socionext
+  display_name: Socionext
 softing:
-  display-name: Softing
+  display_name: Softing
 solahd:
-  display-name: SolaHD
+  display_name: SolaHD
   logo: false
 solantro:
-  display-name: Solantro
+  display_name: Solantro
   logo: false
 soldered:
-  display-name: Soldered
+  display_name: Soldered
   logo: false
 solidigm:
-  display-name: Solidigm
+  display_name: Solidigm
   logo: false
 solidrun:
-  display-name: SolidRun
+  display_name: SolidRun
 solomon-systech:
-  display-name: Solomon Systech
+  display_name: Solomon Systech
 somlabs:
-  display-name: SoMLabs
+  display_name: SoMLabs
   logo: false
 song-chuan:
-  display-name: Song Chuan
+  display_name: Song Chuan
   logo: false
 sonocotta:
-  display-name: Sonocotta
+  display_name: Sonocotta
   logo: false
 sony-spresense:
-  display-name: Sony Spresense
+  display_name: Sony Spresense
   logo: false
 sophgo:
-  display-name: SOPHGO
+  display_name: SOPHGO
   logo: false
 soracom:
-  display-name: Soracom
+  display_name: Soracom
   logo: false
 space-cubics:
-  display-name: Space Cubics
+  display_name: Space Cubics
 sparkfun:
-  display-name: SparkFun
+  display_name: SparkFun
 spectra-symbol:
-  display-name: Spectra Symbol
+  display_name: Spectra Symbol
   logo: false
 spectrum-asp:
-  display-name: Spectrum ASP
+  display_name: Spectrum ASP
   logo: false
 spectrum-control:
-  display-name: Spectrum Control
+  display_name: Spectrum Control
   logo: false
 spotsee:
-  display-name: SpotSee
+  display_name: SpotSee
   logo: false
 sprague-goodman:
-  display-name: Sprague Goodman
+  display_name: Sprague Goodman
   logo: false
 spresense:
-  display-name: Spresense
+  display_name: Spresense
   logo: false
 sqfmi:
-  display-name: SQFMI
+  display_name: SQFMI
   logo: false
 square-d:
-  display-name: Square D
+  display_name: Square D
   logo: false
 sr-passives:
-  display-name: SR Passives
+  display_name: SR Passives
   logo: false
 sri-win:
-  display-name: SRI-Win
+  display_name: SRI-Win
   logo: false
 sst-sensing:
-  display-name: SST Sensing
+  display_name: SST Sensing
   logo: false
 st:
-  display-name: STMicroelectronics
-stmicroelectronics:
-  see: st
-  reason: alias
+  display_name: STMicroelectronics
 stackpole-electronics:
-  display-name: Stackpole Electronics
+  display_name: Stackpole Electronics
   logo: false
 staco:
-  display-name: Staco
+  display_name: Staco
   logo: false
 stadium-group:
-  display-name: Stadium Group
+  display_name: Stadium Group
   logo: false
 standard-inserts:
-  display-name: Standard Inserts
+  display_name: Standard Inserts
   logo: false
 standex:
-  display-name: Standex
+  display_name: Standex
   logo: false
 stanley-electric:
-  display-name: Stanley Electric
+  display_name: Stanley Electric
   logo: false
 starcat:
-  display-name: Starcat
+  display_name: Starcat
   logo: false
 starfive:
-  display-name: StarFive Technology
+  display_name: StarFive Technology
 steminds:
-  display-name: STEMinds
+  display_name: STEMinds
   logo: false
 stereopi:
-  display-name: StereoPi
+  display_name: StereoPi
   logo: false
 stewart-connector:
-  display-name: Stewart Connector
+  display_name: Stewart Connector
   logo: false
+stmicroelectronics:
+  reason: alias
+  see: st
 storm-interface:
-  display-name: Storm Interface
+  display_name: Storm Interface
   logo: false
 sullins-connector-solutions:
-  display-name: Sullins Connector Solutions
+  display_name: Sullins Connector Solutions
   logo: false
 sumida:
-  display-name: Sumida
+  display_name: Sumida
   logo: false
 sunbrite:
-  display-name: Sunbrite
+  display_name: Sunbrite
   logo: false
 sundance-dsp:
-  display-name: Sundance DSP
+  display_name: Sundance DSP
   logo: false
 sunon:
-  display-name: Sunon
+  display_name: Sunon
   logo: false
 superior-sensor-technology:
-  display-name: Superior Sensor Technology
+  display_name: Superior Sensor Technology
   logo: false
 supertex:
-  display-name: Supertex
+  display_name: Supertex
   logo: false
 susumu:
-  display-name: Susumu
+  display_name: Susumu
   logo: false
 sutajio-kosagi:
-  display-name: Sutajio Kosagi
+  display_name: Sutajio Kosagi
   logo: false
 swissbit:
-  display-name: Swissbit
+  display_name: Swissbit
   logo: false
 switchcraft:
-  display-name: Switchcraft
+  display_name: Switchcraft
   logo: false
 symmetry-electronics:
-  display-name: Symmetry Electronics
+  display_name: Symmetry Electronics
   logo: false
 synaptic:
-  display-name: Synaptic
+  display_name: Synaptic
   logo: false
 syndaver:
-  display-name: SynDaver
+  display_name: SynDaver
   logo: false
 synology:
-  display-name: Synology
+  display_name: Synology
 synopsys:
-  display-name: Synopsys
+  display_name: Synopsys
 syzygy:
-  display-name: SYZYGY
+  display_name: SYZYGY
 tadiran-batteries:
-  display-name: Tadiran Batteries
+  display_name: Tadiran Batteries
   logo: false
 tag-connect:
-  display-name: Tag Connect
+  display_name: Tag Connect
   logo: false
 taica:
-  display-name: Taica
+  display_name: Taica
   logo: false
 taiwan-semiconductor:
-  display-name: Taiwan Semiconductor
+  display_name: Taiwan Semiconductor
   logo: false
 taiyo-yuden:
-  display-name: TAIYO YUDEN
+  display_name: TAIYO YUDEN
   logo: false
 tall-dog-electronics:
-  display-name: Tall Dog Electronics
+  display_name: Tall Dog Electronics
   logo: false
 tallysman:
-  display-name: Tallysman
+  display_name: Tallysman
   logo: false
 tamura:
-  display-name: Tamura
+  display_name: Tamura
   logo: false
 taoglas:
-  display-name: Taoglas
+  display_name: Taoglas
   logo: false
 tbs-technologies:
-  display-name: TBS Technologies
+  display_name: TBS Technologies
   logo: false
 tdk:
-  display-name: TDK
+  display_name: TDK
 te-connectivity:
-  display-name: TE Connectivity
+  display_name: TE Connectivity
   logo: false
 technexion:
-  display-name: TechNexion
+  display_name: TechNexion
 techspray:
-  display-name: Techspray
+  display_name: Techspray
   logo: false
 teensy:
-  display-name: Teensy
+  display_name: Teensy
 tekscan:
-  display-name: Tekscan
+  display_name: Tekscan
   logo: false
 tektronix:
-  display-name: Tektronix
+  display_name: Tektronix
   logo: false
 teledatics:
-  display-name: Teledatics
+  display_name: Teledatics
   logo: false
 teledyne-flir:
-  display-name: Teledyne FLIR
+  display_name: Teledyne FLIR
   logo: false
 telemecanique:
-  display-name: Telemecanique
+  display_name: Telemecanique
   logo: false
 telink:
-  display-name: Telink
+  display_name: Telink
 teltonika:
-  display-name: Teltonika
+  display_name: Teltonika
   logo: false
 tempo-semiconductor:
-  display-name: Tempo Semiconductor
+  display_name: Tempo Semiconductor
   logo: false
 terabee:
-  display-name: Terabee
+  display_name: Terabee
   logo: false
 terasic:
-  display-name: Terasic
+  display_name: Terasic
 terasic-technologies:
-  display-name: Terasic Technologies
+  display_name: Terasic Technologies
   logo: false
 teridian-semiconductor:
-  display-name: Teridian Semiconductor
+  display_name: Teridian Semiconductor
   logo: false
 texas-instruments:
-  display-name: Texas Instruments
+  display_name: Texas Instruments
 that-corporation:
-  display-name: THAT Corporation
+  display_name: THAT Corporation
   logo: false
 thecus:
-  display-name: Thecus
+  display_name: Thecus
 theobroma-systems:
-  display-name: Theobroma Systems
+  display_name: Theobroma Systems
 thine-solutions:
-  display-name: THine Solutions
+  display_name: THine Solutions
   logo: false
 thundercomm:
-  display-name: Thundercomm
+  display_name: Thundercomm
 timbercon:
-  display-name: Timbercon
+  display_name: Timbercon
   logo: false
 tinkerforge:
-  display-name: Tinkerforge
+  display_name: Tinkerforge
   logo: false
 tinkeringtech:
-  display-name: TinkeringTech
+  display_name: TinkeringTech
   logo: false
 tinycircuits:
-  display-name: TinyCircuits
+  display_name: TinyCircuits
   logo: false
 tinyvision-ai:
-  display-name: tinyVision.ai
+  display_name: tinyVision.ai
   logo: false
 toby-churchill:
-  display-name: Toby Churchill
+  display_name: Toby Churchill
   logo: false
 togglebit:
-  display-name: Togglebit
+  display_name: Togglebit
   logo: false
 topic:
-  display-name: Topic
+  display_name: Topic
 toradex:
-  display-name: Toradex
+  display_name: Toradex
 torex-semiconductor:
-  display-name: Torex Semiconductor
+  display_name: Torex Semiconductor
   logo: false
 toshiba:
-  display-name: Toshiba
+  display_name: Toshiba
 toshiba-memory:
-  display-name: Toshiba Memory
+  display_name: Toshiba Memory
   logo: false
 tq-systems:
-  display-name: TQ Systems
+  display_name: TQ Systems
 traco-power:
-  display-name: TRACO Power
+  display_name: TRACO Power
   logo: false
 transphorm:
-  display-name: Transphorm
+  display_name: Transphorm
   logo: false
 traverse:
-  display-name: Traverse
+  display_name: Traverse
   logo: false
 trenz-electronic:
-  display-name: Trenz Electronic
+  display_name: Trenz Electronic
   logo: false
 tri-star-electronics:
-  display-name: Tri-Star Electronics
+  display_name: Tri-Star Electronics
   logo: false
 triad-magnetics:
-  display-name: Triad Magnetics
+  display_name: Triad Magnetics
   logo: false
 trinamic-motion-control:
-  display-name: Trinamic Motion Control
+  display_name: Trinamic Motion Control
   logo: false
 triquint-semiconductor:
-  display-name: TriQuint Semiconductor
+  display_name: TriQuint Semiconductor
   logo: false
 triune-systems:
-  display-name: Triune Systems
+  display_name: Triune Systems
   logo: false
 tst:
-  display-name: TST
+  display_name: TST
   logo: false
 tt-electronics:
-  display-name: TT Electronics
+  display_name: TT Electronics
   logo: false
 tti:
-  display-name: TTI
+  display_name: TTI
   logo: false
 turris:
-  display-name: Turris
+  display_name: Turris
 twin-industries:
-  display-name: Twin Industries
+  display_name: Twin Industries
   logo: false
 txc:
-  display-name: TXC
+  display_name: TXC
   logo: false
 tyco-electronics:
-  display-name: Tyco Electronics
+  display_name: Tyco Electronics
   logo: false
 u-blox:
-  display-name: u-blox
+  display_name: u-blox
 udoo:
-  display-name: UDOO
+  display_name: UDOO
 ultrachip:
-  display-name: UltraChip
+  display_name: UltraChip
   logo: false
 ultraleap:
-  display-name: Ultraleap
+  display_name: Ultraleap
   logo: false
 ultralife:
-  display-name: Ultralife
+  display_name: Ultralife
   logo: false
 unexpected-maker:
-  display-name: Unexpected Maker
+  display_name: Unexpected Maker
   logo: false
 unielec:
-  display-name: Unielec
+  display_name: Unielec
 union-semiconductor-international-limited:
-  display-name: Union Semiconductor International Limited
+  display_name: Union Semiconductor International Limited
   logo: false
 united-chemi-con:
-  display-name: United Chemi-Con
+  display_name: United Chemi-Con
   logo: false
 up-board:
-  display-name: UP Board
+  display_name: UP Board
   reason: alias
   see: aaeon
 up-bridge-the-gap:
-  display-name: UP Bridge the Gap
+  display_name: UP Bridge the Gap
   reason: alias
   see: aaeon
 upside-down-labs:
-  display-name: Upside Down Labs
+  display_name: Upside Down Labs
   logo: false
 ursaleo:
-  display-name: UrsaLeo
+  display_name: UrsaLeo
   logo: false
 vacuumschmelze:
-  display-name: Vacuumschmelze
+  display_name: Vacuumschmelze
   logo: false
 variscite:
-  display-name: Variscite
+  display_name: Variscite
 varitronix:
-  display-name: Varitronix
+  display_name: Varitronix
   logo: false
 vcc:
-  display-name: VCC
+  display_name: VCC
   logo: false
 vector:
-  display-name: Vector
+  display_name: Vector
   logo: false
 versarien-technologies:
-  display-name: Versarien Technologies
+  display_name: Versarien Technologies
   logo: false
 vertiq:
-  display-name: Vertiq
+  display_name: Vertiq
   logo: false
 via-technologies:
-  display-name: VIA Technologies
+  display_name: VIA Technologies
   logo: false
 vicharak:
-  display-name: Vicharak
+  display_name: Vicharak
   logo: false
 vicor:
-  display-name: Vicor
+  display_name: Vicor
   logo: false
 videostrong:
-  display-name: Videostrong
+  display_name: Videostrong
   logo: false
 virtium:
-  display-name: Virtium
+  display_name: Virtium
   logo: false
 virtual:
-  display-name: Virtual
+  display_name: Virtual
 visaton:
-  display-name: VISATON
+  display_name: VISATON
   logo: false
 vishay:
-  display-name: Vishay
+  display_name: Vishay
 vision-components:
-  display-name: Vision Components
+  display_name: Vision Components
   logo: false
 visual-communications-company:
-  display-name: Visual Communications Company
+  display_name: Visual Communications Company
   logo: false
 vitrohm:
-  display-name: Vitrohm
+  display_name: Vitrohm
   logo: false
 vng:
-  display-name: VNG
+  display_name: VNG
 volex:
-  display-name: Volex
+  display_name: Volex
   logo: false
 vorago-technologies:
-  display-name: VORAGO Technologies
+  display_name: VORAGO Technologies
   logo: false
 vpg:
-  display-name: VPG
+  display_name: VPG
   logo: false
 vscom:
-  display-name: VSCOM
+  display_name: VSCOM
   logo: false
 waber:
-  display-name: Waber
+  display_name: Waber
   logo: false
 wakefield-vette:
-  display-name: Wakefield-Vette
+  display_name: Wakefield-Vette
   logo: false
 walsin:
-  display-name: Walsin
+  display_name: Walsin
   logo: false
 wandboard:
-  display-name: Wandboard
+  display_name: Wandboard
   logo: false
 waveshare:
-  display-name: Waveshare Electronics
+  display_name: Waveshare Electronics
 weact-studio:
-  display-name: WeAct Studio
+  display_name: WeAct Studio
 ween-semiconductors:
-  display-name: WeEn Semiconductors
+  display_name: WeEn Semiconductors
   logo: false
 weidmuller:
-  display-name: Weidmüller
+  display_name: Weidmüller
   logo: false
 well-buying:
-  display-name: Well Buying
+  display_name: Well Buying
   logo: false
 weller:
-  display-name: Weller
+  display_name: Weller
   logo: false
 western-design-center:
-  display-name: Western Design Center
+  display_name: Western Design Center
   logo: false
 wetek:
-  display-name: WeTek
+  display_name: WeTek
   logo: false
 white-rodgers:
-  display-name: White Rodgers
+  display_name: White Rodgers
   logo: false
 wi2wi:
-  display-name: Wi2Wi
+  display_name: Wi2Wi
   logo: false
 wiha:
-  display-name: Wiha
+  display_name: Wiha
   logo: false
 wima:
-  display-name: WIMA
+  display_name: WIMA
   logo: false
 winbond:
-  display-name: Winbond
+  display_name: Winbond
   logo: false
 winchester-interconnect:
-  display-name: Winchester Interconnect
+  display_name: Winchester Interconnect
   logo: false
 wiremold:
-  display-name: Wiremold
+  display_name: Wiremold
   logo: false
 wittra:
-  display-name: Wittra
+  display_name: Wittra
   logo: false
 wiznet:
-  display-name: WIZnet
+  display_name: WIZnet
   logo: false
 wl-gore:
-  display-name: WL Gore
+  display_name: WL Gore
   logo: false
 wokwi:
-  display-name: Wokwi
+  display_name: Wokwi
   logo: false
 wolfspeed:
-  display-name: Wolfspeed
+  display_name: Wolfspeed
   logo: false
 woodhead:
-  display-name: Woodhead
+  display_name: Woodhead
   logo: false
 worldsemi:
-  display-name: WORLDSEMI
+  display_name: WORLDSEMI
 wurth-elektronik:
-  display-name: Würth Elektronik
+  display_name: Würth Elektronik
 xalogic:
-  display-name: XaLogic
+  display_name: XaLogic
   logo: false
 xeltek:
-  display-name: Xeltek
+  display_name: Xeltek
   logo: false
 xenarc:
-  display-name: Xenarc
+  display_name: Xenarc
   logo: false
 xicon:
-  display-name: Xicon
+  display_name: Xicon
   logo: false
 xidas:
-  display-name: Xidas
+  display_name: Xidas
   logo: false
 xilinx:
-  display-name: Xilinx
+  display_name: Xilinx
   reason: acquisition
   see: amd
 xinabox:
-  display-name: XinaBox
+  display_name: XinaBox
   logo: false
 xp-power:
-  display-name: XP Power
+  display_name: XP Power
   logo: false
 xsemi:
-  display-name: XSemi
+  display_name: XSemi
   logo: false
 xtech:
-  display-name: Xtech
+  display_name: Xtech
   logo: false
 xvisio:
-  display-name: Xvisio
+  display_name: Xvisio
   logo: false
 yageo:
-  display-name: YAGEO
+  display_name: YAGEO
   logo: false
 yazaki:
-  display-name: Yazaki
+  display_name: Yazaki
   logo: false
 yic:
-  display-name: YIC
+  display_name: YIC
   logo: false
 yuliang-electronics-industry-group:
-  display-name: Yuliang Electronics Industry Group
+  display_name: Yuliang Electronics Industry Group
   logo: false
 zentel:
-  display-name: Zentel
+  display_name: Zentel
   logo: false
 zentri:
-  display-name: Zentri
+  display_name: Zentri
   logo: false
 zerynth:
-  display-name: Zerynth
+  display_name: Zerynth
   logo: false
 zf-electronics:
-  display-name: ZF Electronics
+  display_name: ZF Electronics
   logo: false
 zipcores:
-  display-name: Zipcores
+  display_name: Zipcores
   logo: false
 zmdi:
-  display-name: ZMDI
+  display_name: ZMDI
   logo: false
 zscircuits:
-  display-name: ZSCircuits
+  display_name: ZSCircuits
   logo: false
 zyxel:
-  display-name: Zyxel
+  display_name: Zyxel
