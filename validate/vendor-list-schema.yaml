@@ -13,7 +13,7 @@ $defs:
   originalNode:
     type: object
     properties:
-      display-name:
+      display_name:
         type: string
       website:
         type: string
@@ -21,12 +21,12 @@ $defs:
         description: "Specifies if vendor logo exists."
         type: boolean
         default: true
-    required: ["display-name"]
+    required: ["display_name"]
     additionalProperties: false
   aliasNode:
     type: object
     properties:
-      display-name:
+      display_name:
         type: string
       see:
         type: string
