@@ -61,7 +61,8 @@ def validate_vendor_images(vendors, logos_dir, icons_dir):
 
     print_missing_img(no_logo, "vendors without logo", show=False)
 
-    print_missing_img(extra_images, "extra images")
+    if print_missing_img(extra_images, "extra images"):
+        return_code = 1
 
     if print_missing_img(missing_logos, "missing logos"):
         return_code = 1
