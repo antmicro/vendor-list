@@ -163,6 +163,9 @@ anderson-power-products:
   logo: false
 andes:
   display_name: Andes Technology
+anlogic:
+  display_name: Anlogic
+  logo: false
 antenova:
   display_name: Antenova
   logo: false
@@ -551,6 +554,9 @@ code-red-technologies:
   logo: false
 coilcraft:
   display_name: Coilcraft
+cologne-chip:
+  display_name: Cologne Chip
+  logo: false
 colorado-engineering:
   display_name: Colorado Engineering
   logo: false
