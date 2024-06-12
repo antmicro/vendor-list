@@ -1485,6 +1485,9 @@ lambda-nu:
 lantronix:
   display_name: Lantronix
   logo: false
+lattice:
+  reason: alias
+  see: lattice-semiconductor
 lattice-semiconductor:
   display_name: Lattice Semiconductor
 leadertech:
