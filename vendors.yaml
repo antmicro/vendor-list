@@ -452,7 +452,8 @@ caddock:
 cadence-design-systems:
   display_name: Cadence Design Systems
 caes:
-  display_name: CAES
+  reason: rebranding
+  see: frontgrade
 cal-test-electronics:
   display_name: Cal Test Electronics
   logo: false
