@@ -1038,6 +1038,9 @@ future-designs:
   logo: false
 g-d:
   display_name: G&D
+gaisler:
+  reason: alias
+  see: frontgrade
 gan-systems:
   display_name: GaN Systems
   logo: false
