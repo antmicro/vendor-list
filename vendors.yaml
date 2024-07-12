@@ -1489,6 +1489,8 @@ lambda-nu:
 lantronix:
   display_name: Lantronix
   logo: false
+laser-components:
+  display_name: Laser Components
 lattice:
   reason: alias
   see: lattice-semiconductor
