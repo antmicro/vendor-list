@@ -2758,6 +2758,9 @@ toshiba-memory:
   display_name: Toshiba Memory
 tq-systems:
   display_name: TQ Systems
+tp-link:
+  display_name: TP-Link
+  logo: false
 traco-power:
   display_name: TRACO Power
   logo: false
