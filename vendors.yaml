@@ -1773,6 +1773,9 @@ mill-max:
 mini-circuits:
   display_name: Mini-Circuits
   logo: false
+mirror-semiconductor:
+  display_name: Mirror Semiconductor
+  logo: false
 mitsubishi-electric:
   display_name: Mitsubishi Electric
   logo: false
@@ -2758,11 +2761,11 @@ toshiba:
   display_name: Toshiba
 toshiba-memory:
   display_name: Toshiba Memory
-tq-systems:
-  display_name: TQ Systems
 tp-link:
   display_name: TP-Link
   logo: false
+tq-systems:
+  display_name: TQ Systems
 traco-power:
   display_name: TRACO Power
   logo: false
