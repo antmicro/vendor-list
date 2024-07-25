@@ -466,6 +466,8 @@ califia-lighting:
 california-eastern-labs:
   display_name: California Eastern Labs
   logo: false
+caliptra:
+  display_name: Caliptra
 cambridge:
   display_name: Cambridge
   logo: false
