@@ -83,6 +83,9 @@ aiy:
 akm:
   display_name: AKM
   logo: false
+alientek:
+  display_name: Alientek
+  logo: false
 allegro-microsystems:
   display_name: Allegro MicroSystems
   logo: false
@@ -270,6 +273,9 @@ atc:
 atlas:
   display_name: ATLAS
   logo: false
+atmarktechno:
+  display_name: Atmark Techno
+  logo: false
 atmel:
   display_name: Atmel
   reason: acquisition
@@ -442,6 +448,9 @@ bulgin:
   logo: false
 busboard-prototype-systems:
   display_name: BusBoard Prototype Systems
+  logo: false
+bytesatwork:
+  display_name: bytesatwork
   logo: false
 c-k:
   display_name: C&K
@@ -638,11 +647,17 @@ crouzet:
 crowd-supply:
   display_name: Crowd Supply
   logo: false
+croxel:
+  display_name: Croxel
+  logo: false
 crystek-corporation:
   display_name: Crystek Corporation
   logo: false
 csb:
   display_name: CSB
+  logo: false
+ct:
+  display_name: CTHINGS.CO
   logo: false
 cts:
   display_name: CTS
@@ -959,6 +974,9 @@ f-secure:
 fair-rite:
   display_name: Fair-Rite
   logo: false
+fanke:
+  display_name: FANKE
+  logo: false
 fanstel:
   display_name: Fanstel
   logo: false
@@ -1013,6 +1031,9 @@ fractus-antennas:
   logo: false
 framos:
   display_name: FRAMOS
+franzininho:
+  display_name: Franzininho
+  logo: false
 freescale:
   display_name: Freescale
   reason: acquisition
@@ -1174,6 +1195,9 @@ heeger:
 hellermanntyton:
   display_name: HellermannTyton
   logo: false
+heltec:
+  display_name: Heltec
+  logo: false
 hencke-technologies:
   display_name: Hencke Technologies
   logo: false
@@ -1267,6 +1291,9 @@ infineon:
   display_name: Infineon
 inforce-computing:
   display_name: Inforce Computing
+  logo: false
+innblue:
+  display_name: innblue
   logo: false
 innodisk:
   display_name: Innodisk
@@ -1415,6 +1442,9 @@ keystone-electronics:
   display_name: Keystone Electronics
 khadas:
   display_name: Khadas
+kincony:
+  display_name: KinCony
+  logo: false
 kinetic-technologies:
   display_name: Kinetic Technologies
   logo: false
@@ -1532,6 +1562,9 @@ liebherr:
 lightware-lidar:
   display_name: LightWare LiDAR
   logo: false
+lilygo:
+  display_name: LILYGO
+  logo: false
 lime-microsystems:
   display_name: Lime Microsystems
   logo: false
@@ -1571,6 +1604,9 @@ lowrisc:
   display_name: lowRISC
 lprs:
   display_name: LPRS
+  logo: false
+luatos:
+  display_name: LuatOS
   logo: false
 lumberg-automation:
   display_name: Lumberg Automation
@@ -1830,6 +1866,9 @@ murata:
 murrelektronik:
   display_name: Murrelektronik
   logo: false
+mxchip:
+  display_name: MXCHIP
+  logo: false
 myir:
   display_name: Myir
 myir-tech:
@@ -2079,6 +2118,9 @@ pimoroni:
   logo: false
 pine64:
   display_name: PINE64
+pjrc:
+  display_name: PJRC
+  logo: false
 plato:
   display_name: Plato
   logo: false
@@ -2642,6 +2684,9 @@ synopsys:
   display_name: Synopsys
 syzygy:
   display_name: SYZYGY
+t-firefly:
+  display_name: T-Firefly
+  logo: false
 tadiran-batteries:
   display_name: Tadiran Batteries
   logo: false
@@ -2938,6 +2983,9 @@ well-buying:
   logo: false
 weller:
   display_name: Weller
+  logo: false
+wemos:
+  display_name: WEMOS
   logo: false
 western-design-center:
   display_name: Western Design Center
