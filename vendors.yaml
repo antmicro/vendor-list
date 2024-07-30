@@ -36,7 +36,6 @@ acer:
   display_name: Acer
 aconno:
   display_name: aconno
-  logo: false
 actinius:
   display_name: Actinius
 adafruit:
@@ -240,7 +239,6 @@ aromat:
   logo: false
 arrow-electronics:
   display_name: Arrow Electronics
-  logo: false
 artesyn-embedded-technologies:
   display_name: Artesyn Embedded Technologies
   logo: false
@@ -343,7 +341,6 @@ basler:
   logo: false
 bbc:
   display_name: BBC
-  logo: false
 beagleboard:
   display_name: BeagleBoard
 beast-devices:
@@ -465,7 +462,6 @@ cal-test-electronics:
   logo: false
 calao:
   display_name: Calao
-  logo: false
 califia-lighting:
   display_name: Califia Lighting
   logo: false
@@ -1139,7 +1135,6 @@ groboards:
   logo: false
 gscoolink-microelectronics:
   display_name: GSCoolink Microelectronics
-  logo: false
 gsi-technology:
   display_name: GSI Technology
   logo: false
@@ -1207,7 +1202,6 @@ heyco:
   logo: false
 hirose-electric:
   display_name: Hirose Electric
-  logo: false
 hisilicon:
   display_name: HiSilicon
 hitachi:
@@ -1365,7 +1359,6 @@ isotope-engineering:
   logo: false
 issi:
   display_name: ISSI
-  logo: false
 ite-tech:
   display_name: ITE Tech
 itt-cannon:
@@ -1569,7 +1562,6 @@ linklayer:
   logo: false
 linx-technologies:
   display_name: Linx Technologies
-  logo: false
 liquid-instruments:
   display_name: Liquid Instruments
   logo: false
@@ -2944,7 +2936,6 @@ vpg:
   logo: false
 vscom:
   display_name: VSCOM
-  logo: false
 waber:
   display_name: Waber
   logo: false
@@ -2952,7 +2943,6 @@ wakefield-vette:
   display_name: Wakefield-Vette
 walsin:
   display_name: Walsin
-  logo: false
 wandboard:
   display_name: Wandboard
   logo: false
@@ -2978,7 +2968,6 @@ western-design-center:
   logo: false
 wetek:
   display_name: WeTek
-  logo: false
 white-rodgers:
   display_name: White Rodgers
   logo: false
@@ -3004,7 +2993,6 @@ wittra:
   logo: false
 wiznet:
   display_name: WIZnet
-  logo: false
 wl-gore:
   display_name: WL Gore
   logo: false
@@ -3064,7 +3052,6 @@ yic:
   display_name: YIC
 yuliang-electronics-industry-group:
   display_name: Yuliang Electronics Industry Group
-  logo: false
 zentel:
   display_name: Zentel
   logo: false
