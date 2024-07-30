@@ -275,7 +275,6 @@ atlas:
   logo: false
 atmarktechno:
   display_name: Atmark Techno
-  logo: false
 atmel:
   display_name: Atmel
   reason: acquisition
@@ -451,7 +450,6 @@ busboard-prototype-systems:
   logo: false
 bytesatwork:
   display_name: bytesatwork
-  logo: false
 c-k:
   display_name: C&K
 caddock:
@@ -649,7 +647,6 @@ crowd-supply:
   logo: false
 croxel:
   display_name: Croxel
-  logo: false
 crystek-corporation:
   display_name: Crystek Corporation
   logo: false
@@ -658,7 +655,6 @@ csb:
   logo: false
 ct:
   display_name: CTHINGS.CO
-  logo: false
 cts:
   display_name: CTS
 cubietech:
@@ -1033,7 +1029,6 @@ framos:
   display_name: FRAMOS
 franzininho:
   display_name: Franzininho
-  logo: false
 freescale:
   display_name: Freescale
   reason: acquisition
@@ -1197,7 +1192,6 @@ hellermanntyton:
   logo: false
 heltec:
   display_name: Heltec
-  logo: false
 hencke-technologies:
   display_name: Hencke Technologies
   logo: false
@@ -1294,7 +1288,6 @@ inforce-computing:
   logo: false
 innblue:
   display_name: innblue
-  logo: false
 innodisk:
   display_name: Innodisk
   logo: false
@@ -1444,7 +1437,6 @@ khadas:
   display_name: Khadas
 kincony:
   display_name: KinCony
-  logo: false
 kinetic-technologies:
   display_name: Kinetic Technologies
   logo: false
@@ -1564,7 +1556,6 @@ lightware-lidar:
   logo: false
 lilygo:
   display_name: LILYGO
-  logo: false
 lime-microsystems:
   display_name: Lime Microsystems
   logo: false
@@ -1607,7 +1598,6 @@ lprs:
   logo: false
 luatos:
   display_name: LuatOS
-  logo: false
 lumberg-automation:
   display_name: Lumberg Automation
   logo: false
@@ -1868,7 +1858,6 @@ murrelektronik:
   logo: false
 mxchip:
   display_name: MXCHIP
-  logo: false
 myir:
   display_name: Myir
 myir-tech:
@@ -2120,7 +2109,6 @@ pine64:
   display_name: PINE64
 pjrc:
   display_name: PJRC
-  logo: false
 plato:
   display_name: Plato
   logo: false
@@ -2686,7 +2674,6 @@ syzygy:
   display_name: SYZYGY
 t-firefly:
   display_name: T-Firefly
-  logo: false
 tadiran-batteries:
   display_name: Tadiran Batteries
   logo: false
@@ -2986,7 +2973,6 @@ weller:
   logo: false
 wemos:
   display_name: WEMOS
-  logo: false
 western-design-center:
   display_name: Western Design Center
   logo: false
