@@ -14,7 +14,6 @@
   display_name: 96Boards
 aaeon:
   display_name: AAEON Technology
-  logo: false
 aavid:
   display_name: Aavid
   logo: false
@@ -84,7 +83,6 @@ akm:
   logo: false
 alientek:
   display_name: Alientek
-  logo: false
 allegro-microsystems:
   display_name: Allegro MicroSystems
   logo: false
@@ -360,7 +358,6 @@ bel:
   display_name: Bel
 bel-fuse:
   display_name: Bel Fuse
-  logo: false
 belden-wire-cable:
   display_name: Belden Wire & Cable
   logo: false
@@ -610,7 +607,6 @@ cornell-dubilier:
   logo: false
 corning:
   display_name: Corning
-  logo: false
 cortina:
   display_name: Cortina
 cosel:
@@ -835,7 +831,6 @@ efabless:
   display_name: Efabless
 efinix:
   display_name: Efinix
-  logo: false
 electric-imp:
   display_name: Electric Imp
   logo: false
@@ -929,7 +924,6 @@ eurotech:
   logo: false
 everlight:
   display_name: Everlight
-  logo: false
 everpro-technologies:
   display_name: EverPro Technologies
   logo: false
@@ -953,7 +947,6 @@ eyecloud-ai:
   logo: false
 ezurio:
   display_name: Ezurio
-  logo: false
 f-secure:
   display_name: F-Secure
   logo: false
@@ -992,7 +985,6 @@ first-sensor:
   logo: false
 fischer-elektronik:
   display_name: Fischer Elektronik
-  logo: false
 flambeau:
   display_name: Flambeau
   logo: false
@@ -1031,7 +1023,6 @@ frontgrade:
   display_name: Frontgrade
 ftdi-chip:
   display_name: FTDI Chip
-  logo: false
 fujitsu:
   display_name: Fujitsu
 furuno:
@@ -1278,7 +1269,6 @@ innblue:
   display_name: innblue
 innodisk:
   display_name: Innodisk
-  logo: false
 innophase:
   display_name: InnoPhase
   logo: false
@@ -1483,7 +1473,6 @@ lacie:
   display_name: LaCie
 laird:
   display_name: Laird
-  logo: false
 laird-connectivity:
   display_name: Laird Connectivity
   reason: rebranding
@@ -1771,7 +1760,6 @@ mide-technology:
   logo: false
 mikroe:
   display_name: Mikroe
-  logo: false
 mikroelektronika:
   display_name: MikroElektronika
 mikrotik:
@@ -1977,7 +1965,6 @@ omron:
   display_name: Omron
 on-semiconductor:
   display_name: ON Semiconductor
-  logo: false
 on-shore-technology-inc-:
   display_name: On Shore Technology Inc.
   logo: false
@@ -2340,7 +2327,6 @@ searan:
   logo: false
 seco:
   display_name: SECO
-  logo: false
 securing-hardware:
   display_name: Securing Hardware
   logo: false
@@ -2855,7 +2841,6 @@ varitronix:
   logo: false
 vcc:
   display_name: VCC
-  logo: false
 vector:
   display_name: Vector
   logo: false
@@ -2876,7 +2861,6 @@ vicor:
   logo: false
 videostrong:
   display_name: Videostrong
-  logo: false
 virtium:
   display_name: Virtium
   logo: false
