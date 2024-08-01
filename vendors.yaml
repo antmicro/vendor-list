@@ -380,7 +380,6 @@ bitmain:
   display_name: BITMAIN
 bivar:
   display_name: BIVAR
-  logo: false
 bjb-electric:
   display_name: BJB Electric
   logo: false
@@ -424,7 +423,6 @@ bridgetek:
   logo: false
 bright-led-electronics-corp:
   display_name: BRIGHT LED ELECTRONICS CORP.
-  logo: false
 broadcast-win:
   display_name: Broadcast-Win
   logo: false
@@ -561,10 +559,8 @@ coilcraft:
   display_name: Coilcraft
 cologne-chip:
   display_name: Cologne Chip
-  logo: false
 colorado-engineering:
   display_name: Colorado Engineering
-  logo: false
 comchip-technology:
   display_name: Comchip Technology
   logo: false
@@ -809,7 +805,6 @@ easysync:
   logo: false
 eaton:
   display_name: Eaton
-  logo: false
 ebm-papst:
   display_name: ebm-papst
   logo: false
@@ -895,7 +890,6 @@ epson:
   display_name: Epson
 ept:
   display_name: ept
-  logo: false
 era-instruments:
   display_name: ERA Instruments
   logo: false
@@ -1376,7 +1370,6 @@ jedec-solid-state-technology-association:
   display_name: jedec_solid_state_technology_association
 jethome:
   display_name: JetHome
-  logo: false
 jkl-components:
   display_name: JKL Components
   logo: false
@@ -1432,7 +1425,6 @@ kincony:
   display_name: KinCony
 kinetic-technologies:
   display_name: Kinetic Technologies
-  logo: false
 kingbright:
   display_name: Kingbright
 kings-win:
@@ -1574,7 +1566,6 @@ lixie-labs:
   logo: false
 logic-pd:
   display_name: Logic PD
-  logo: false
 lontium:
   display_name: Lontium
 lord-microstrain:
@@ -1613,7 +1604,6 @@ luxonis:
   logo: false
 m5stack:
   display_name: M5Stack
-  logo: false
 macom:
   display_name: MACOM
   logo: false
@@ -1709,7 +1699,6 @@ melexis:
   logo: false
 memsic:
   display_name: MEMSIC
-  logo: false
 menda:
   display_name: Menda
   logo: false
@@ -1811,7 +1800,6 @@ monodaq:
   logo: false
 monolithic-power-systems:
   display_name: Monolithic Power Systems
-  logo: false
 mornsun:
   display_name: Mornsun
 morpheans:
@@ -1925,7 +1913,6 @@ nimbelink:
   logo: false
 ninigi:
   display_name: Ninigi
-  logo: false
 nippon-chemi-con:
   display_name: Nippon Chemi-Con
   logo: false
@@ -2064,7 +2051,6 @@ pcb-arts:
   logo: false
 pem:
   display_name: PEM
-  logo: false
 penguin-edge:
   display_name: Penguin Edge
   logo: false
@@ -2265,7 +2251,6 @@ richtek:
   display_name: Richtek
 ricoh-electronic-devices-company:
   display_name: Ricoh Electronic Devices Company
-  logo: false
 rigado:
   display_name: Rigado
 riverdi:
@@ -2316,7 +2301,6 @@ samtec:
   display_name: Samtec
 sancloud:
   display_name: SanCloud
-  logo: false
 sandisk:
   display_name: SanDisk
 sanmotion:
@@ -2343,7 +2327,6 @@ schurter:
   display_name: Schurter
 sciosense:
   display_name: ScioSense
-  logo: false
 scs:
   display_name: SCS
   logo: false
@@ -2405,7 +2388,6 @@ sfera-labs:
   logo: false
 sharp-microelectronics:
   display_name: Sharp Microelectronics
-  logo: false
 shenzhen-huiding-technology:
   display_name: Shenzhen Huiding Technology
   logo: false
@@ -2447,7 +2429,6 @@ silicon-labs:
   display_name: Silicon Labs
 silicon-linux:
   display_name: Silicon Linux
-  logo: false
 silicon-microstructures:
   display_name: Silicon Microstructures
   logo: false
@@ -2462,7 +2443,6 @@ simpson-electric-company:
   logo: false
 sinotop:
   display_name: Sinotop
-  logo: false
 sipeed:
   display_name: sipeed
 siretta:
@@ -2528,7 +2508,6 @@ solomon-systech:
   display_name: Solomon Systech
 somlabs:
   display_name: SoMLabs
-  logo: false
 song-chuan:
   display_name: Song Chuan
   logo: false
@@ -2540,7 +2519,6 @@ sony-spresense:
   logo: false
 sophgo:
   display_name: SOPHGO
-  logo: false
 soracom:
   display_name: Soracom
   logo: false
@@ -2584,7 +2562,6 @@ st:
   display_name: STMicroelectronics
 stackpole-electronics:
   display_name: Stackpole Electronics
-  logo: false
 staco:
   display_name: Staco
   logo: false
@@ -2693,7 +2670,6 @@ taoglas:
   logo: false
 tbs-technologies:
   display_name: TBS Technologies
-  logo: false
 tdk:
   display_name: TDK
 te-connectivity:
@@ -2771,7 +2747,6 @@ tinyvision-ai:
   logo: false
 toby-churchill:
   display_name: Toby Churchill
-  logo: false
 togglebit:
   display_name: Togglebit
   logo: false
@@ -2787,7 +2762,6 @@ toshiba-memory:
   display_name: Toshiba Memory
 tp-link:
   display_name: TP-Link
-  logo: false
 tq-systems:
   display_name: TQ Systems
 traco-power:
@@ -2798,7 +2772,6 @@ transphorm:
   logo: false
 traverse:
   display_name: Traverse
-  logo: false
 trenz-electronic:
   display_name: Trenz Electronic
   logo: false
