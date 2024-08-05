@@ -1964,7 +1964,8 @@ omnivision:
 omron:
   display_name: Omron
 on-semiconductor:
-  display_name: ON Semiconductor
+  reason: rebranding
+  see: onsemi
 on-shore-technology-inc-:
   display_name: On Shore Technology Inc.
   logo: false
