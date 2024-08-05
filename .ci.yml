@@ -25,7 +25,8 @@ validate-vendor-list:
     - yq '.[] | select(has("logo") == "false" or .logo == "true") | key' vendors.yaml -r > vendors-with-logo.txt
     - cat ohp-vendors-tmp.txt | sort | uniq > ohp-vendors.txt
     - cat ohp-vendors-tmp.txt | sort | uniq -c | sort -rn > ohp-vendors-histogram.txt
-    - grep -v -f vendors-with-logo.txt ohp-vendors-histogram.txt | tee missing-icon-histogram.txt
+    # grep will fail if there are no matches (i.e. all vendors from OHP have a logo) - ignore exit code
+    - grep -v -f vendors-with-logo.txt ohp-vendors-histogram.txt | tee missing-icon-histogram.txt || true
 
     - ./validate/validate.py vendors.yaml
       --schema ./validate/vendor-list-schema.yaml
