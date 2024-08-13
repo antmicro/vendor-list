@@ -318,6 +318,9 @@ axiomtek:
 azoteq:
   display_name: Azoteq
   logo: false
+azurewave-technologies:
+  display_name: AzureWave Technologies
+  logo: false
 b-b-smartworx:
   display_name: B+B SmartWorx
   logo: false
@@ -1602,6 +1605,9 @@ madmachine:
   display_name: MadMachine
 maestro-wireless-solutions:
   display_name: Maestro Wireless Solutions
+  logo: false
+magnachip:
+  display_name: Magnachip
   logo: false
 magnecraft:
   display_name: Magnecraft
