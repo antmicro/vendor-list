@@ -1,6 +1,10 @@
 # Copyright (c) 2024 Antmicro <www.antmicro.com>
 # SPDX-License-Identifier: Apache-2.0
 
+01space:
+  display_name: 01Space
+  logo: false
+
 1bitsquared:
   display_name: 1BitSquared
   logo: false
