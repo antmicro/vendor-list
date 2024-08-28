@@ -2955,6 +2955,9 @@ winchester-interconnect:
 wiremold:
   display_name: Wiremold
   logo: false
+witte:
+  display_name: Witte Technology
+  logo: false
 wittra:
   display_name: Wittra
   logo: false
