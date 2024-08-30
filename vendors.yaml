@@ -3,7 +3,6 @@
 
 01space:
   display_name: 01Space
-  logo: false
 1bitsquared:
   display_name: 1BitSquared
   logo: false
@@ -323,7 +322,6 @@ azoteq:
   logo: false
 azurewave-technologies:
   display_name: AzureWave Technologies
-  logo: false
 b-b-smartworx:
   display_name: B+B SmartWorx
   logo: false
@@ -852,7 +850,6 @@ element-14:
   display_name: Element14
 elgin:
   display_name: Elgin
-  logo: false
 elna:
   display_name: Elna
   logo: false
@@ -961,7 +958,6 @@ fair-rite:
   logo: false
 fanke:
   display_name: FANKE
-  logo: false
 fanstel:
   display_name: Fanstel
   logo: false
@@ -1066,7 +1062,6 @@ genesic-semiconductor:
   logo: false
 geyer-electronic:
   display_name: Geyer Electronic
-  logo: false
 ghi-electronics:
   display_name: GHI Electronics
   logo: false
@@ -1089,7 +1084,6 @@ global-specialties:
   logo: false
 globalscale-technologies:
   display_name: Globalscale Technologies
-  logo: false
 good-display:
   display_name: Good Display
 goodix:
@@ -1101,7 +1095,6 @@ gore:
   logo: false
 gowin:
   display_name: GOWIN
-  logo: false
 gravitech:
   display_name: Gravitech
   logo: false
@@ -1123,7 +1116,6 @@ grinn:
   display_name: Grinn
 groboards:
   display_name: Groboards
-  logo: false
 gscoolink-microelectronics:
   display_name: GSCoolink Microelectronics
 gsi-technology:
@@ -1384,7 +1376,6 @@ jst-automotive-connectors:
   display_name: JST Automotive Connectors
 k-p:
   display_name: K+P
-  logo: false
 ka-ro-electronics:
   display_name: Ka-Ro Electronics
   logo: false
@@ -1471,7 +1462,6 @@ kyocera-avx:
   display_name: KYOCERA AVX
 l-g:
   display_name: L+G
-  logo: false
 labforge:
   display_name: Labforge
   logo: false
@@ -1611,7 +1601,6 @@ maestro-wireless-solutions:
   logo: false
 magnachip:
   display_name: Magnachip
-  logo: false
 magnecraft:
   display_name: Magnecraft
   logo: false
@@ -1780,7 +1769,6 @@ mini-circuits:
   logo: false
 mirror-semiconductor:
   display_name: Mirror Semiconductor
-  logo: false
 mitsubishi-electric:
   display_name: Mitsubishi Electric
   logo: false
@@ -2212,7 +2200,6 @@ recom-power:
   logo: false
 rectron:
   display_name: Rectron
-  logo: false
 red-pitaya:
   display_name: Red Pitaya
   logo: false
@@ -2451,7 +2438,6 @@ sitronix:
   display_name: Sitronix
 sk-hynix:
   display_name: SK Hynix
-  logo: false
 skyetek:
   display_name: SkyeTek
   logo: false
