@@ -2481,6 +2481,9 @@ solantro:
 soldered:
   display_name: Soldered
   logo: false
+solderparty:
+  display_name: Solder Party AB
+  logo: false
 solidigm:
   display_name: Solidigm
   logo: false
