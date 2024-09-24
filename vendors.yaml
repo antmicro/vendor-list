@@ -1026,6 +1026,9 @@ freescale:
   see: nxp
 fremont-micro-devices:
   display_name: Fremont Micro Devices
+frequency-management-international:
+  display_name: Frequency Management International
+  logo: false
 friendlyarm:
   display_name: Friendly ARM
 frontgrade:
