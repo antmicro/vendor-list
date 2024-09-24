@@ -68,6 +68,10 @@ advanced-thermal-solutions:
 advantech:
   display_name: Advantech
   logo: false
+af-inventions:
+  display_name: Af Inventions
+  reason: acquisition
+  see: wentronic-solutions
 afero:
   display_name: Afero
   logo: false
@@ -191,6 +195,9 @@ apc-by-schneider-electric:
   logo: false
 apem:
   display_name: APEM
+  logo: false
+apertus:
+  display_name: Apertus
   logo: false
 apex-microtechnology:
   display_name: Apex Microtechnology
@@ -2919,6 +2926,9 @@ weller:
   logo: false
 wemos:
   display_name: WEMOS
+wentronic-solutions:
+  display_name: Wentronic Solutions
+  logo: false
 western-design-center:
   display_name: Western Design Center
   logo: false
