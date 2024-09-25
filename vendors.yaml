@@ -198,7 +198,6 @@ apem:
   logo: false
 apertus:
   display_name: Apertus
-  logo: false
 apex-microtechnology:
   display_name: Apex Microtechnology
   logo: false
@@ -2931,7 +2930,6 @@ wemos:
   display_name: WEMOS
 wentronic-solutions:
   display_name: Wentronic Solutions
-  logo: false
 western-design-center:
   display_name: Western Design Center
   logo: false
