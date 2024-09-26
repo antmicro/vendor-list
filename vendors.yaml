@@ -782,6 +782,9 @@ dmc-tools:
 doodle-labs:
   display_name: Doodle Labs
   logo: false
+dptechnics:
+  display_name: DPTechnics
+  logo: false
 dragino:
   display_name: Dragino
 duracell:
