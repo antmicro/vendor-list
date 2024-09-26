@@ -2366,6 +2366,9 @@ sensiml:
   logo: false
 sensirion:
   display_name: Sensirion
+sensry:
+  display_name: Sensry
+  logo: false
 seoul-viosys:
   display_name: Seoul Viosys
   logo: false
