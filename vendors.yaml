@@ -2093,6 +2093,9 @@ pletronics-inc-:
 pmdperformance-motion-devices:
   display_name: PMDPerformance Motion Devices
   logo: false
+pololu:
+  display_name: Pololu
+  logo: false
 pomona-electronics:
   display_name: Pomona Electronics
   logo: false
