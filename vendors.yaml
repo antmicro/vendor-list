@@ -475,6 +475,9 @@ california-eastern-labs:
   logo: false
 caliptra:
   display_name: Caliptra
+calxeda:
+  display_name: Calxeda
+  logo: false
 cambridge:
   display_name: Cambridge
   logo: false
@@ -921,6 +924,9 @@ eswin:
   display_name: ESWIN
 eta-usa:
   display_name: ETA-USA
+  logo: false
+ethernut:
+  display_name: Ethernut
   logo: false
 eti-systems:
   display_name: ETI Systems
@@ -2397,6 +2403,9 @@ shin-chin:
   logo: false
 shindengen:
   display_name: Shindengen
+  logo: false
+sielaff:
+  display_name: Sielaff
   logo: false
 siemens:
   display_name: Siemens
