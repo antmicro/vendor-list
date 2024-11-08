@@ -2199,6 +2199,9 @@ rafi:
   logo: false
 raidsonic:
   display_name: RaidSonic
+rakwireless:
+  reason: alias
+  see: rak
 rak:
   display_name: RAKwireless
 ramtron:
