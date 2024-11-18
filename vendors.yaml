@@ -160,7 +160,7 @@ analog-devices:
   display_name: Analog Devices
 anaren:
   display_name: Anaren
-  logo: false
+  logo: true
 anavi-technology:
   display_name: ANAVI Technology
   logo: false
@@ -259,7 +259,7 @@ aspeed:
   display_name: ASPEED Technology
 assmann-wsw-components:
   display_name: ASSMANN WSW Components
-  logo: false
+  logo: true
 astec-power:
   display_name: Astec Power
   logo: false
@@ -302,7 +302,7 @@ augat:
   logo: false
 auvidea:
   display_name: Auvidea
-  logo: false
+  logo: true
 avago-technologies:
   display_name: Avago Technologies
 avalanche-technology:
@@ -787,7 +787,7 @@ doodle-labs:
   logo: false
 dptechnics:
   display_name: DPTechnics
-  logo: false
+  logo: true
 dragino:
   display_name: Dragino
 duracell:
@@ -1036,7 +1036,7 @@ fremont-micro-devices:
   display_name: Fremont Micro Devices
 frequency-management-international:
   display_name: Frequency Management International
-  logo: false
+  logo: true
 friendlyarm:
   display_name: Friendly ARM
 frontgrade:
@@ -1296,7 +1296,7 @@ inolux:
   logo: false
 inrcore:
   display_name: iNRCORE
-  logo: false
+  logo: true
 insight-sip:
   display_name: Insight SiP
   logo: false
@@ -1532,7 +1532,7 @@ lemo:
   logo: false
 leopard-imaging:
   display_name: Leopard Imaging
-  logo: false
+  logo: true
 lg:
   display_name: LG
 libre-computer:
@@ -1983,7 +1983,7 @@ on-semiconductor:
   see: onsemi
 on-shore-technology-inc-:
   display_name: On Shore Technology Inc.
-  logo: false
+  logo: true
 oncque:
   display_name: OncQue
   logo: false
@@ -2101,7 +2101,7 @@ pmdperformance-motion-devices:
   logo: false
 pololu:
   display_name: Pololu
-  logo: false
+  logo: true
 pomona-electronics:
   display_name: Pomona Electronics
   logo: false
@@ -2199,11 +2199,11 @@ rafi:
   logo: false
 raidsonic:
   display_name: RaidSonic
+rak:
+  display_name: RAKwireless
 rakwireless:
   reason: alias
   see: rak
-rak:
-  display_name: RAKwireless
 ramtron:
   display_name: Ramtron
   logo: false
@@ -2380,7 +2380,7 @@ sensirion:
   display_name: Sensirion
 sensry:
   display_name: Sensry
-  logo: false
+  logo: true
 seoul-viosys:
   display_name: Seoul Viosys
   logo: false
@@ -2416,8 +2416,8 @@ sierra-monitor:
   display_name: Sierra Monitor
   logo: false
 sierra-wireless:
-  display_name: Sierra Wireless
-  logo: false
+  reason: rebranding
+  see: semtech
 sifive:
   display_name: SiFive
 sigfox:
@@ -2513,7 +2513,7 @@ soldered:
   logo: false
 solderparty:
   display_name: Solder Party AB
-  logo: false
+  logo: true
 solidigm:
   display_name: Solidigm
   logo: false
@@ -2781,7 +2781,7 @@ tq-systems:
   display_name: TQ Systems
 traco-power:
   display_name: TRACO Power
-  logo: false
+  logo: true
 transphorm:
   display_name: Transphorm
   logo: false
@@ -2978,7 +2978,7 @@ wiremold:
   logo: false
 witte:
   display_name: Witte Technology
-  logo: false
+  logo: true
 wittra:
   display_name: Wittra
   logo: false
