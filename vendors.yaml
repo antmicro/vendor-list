@@ -1957,7 +1957,6 @@ nxp:
   display_name: NXP Semiconductors
 octavo-systems:
   display_name: Octavo Systems
-  logo: false
 odroid:
   display_name: ODROID
 odu:
