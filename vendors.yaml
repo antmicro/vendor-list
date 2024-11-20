@@ -349,6 +349,9 @@ basler:
   logo: false
 bbc:
   display_name: BBC
+beacon:
+  display_name: Beacon EmbeddedWorks
+  logo: false
 beagleboard:
   display_name: BeagleBoard
 beast-devices:
