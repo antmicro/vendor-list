@@ -1230,6 +1230,9 @@ honeywell:
   display_name: Honeywell
 hoperf:
   display_name: HopeRF
+hoperun:
+  display_name: HopeRun
+  logo: false
 htc:
   display_name: HTC
 huber-suhner:
