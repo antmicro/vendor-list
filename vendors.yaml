@@ -1057,6 +1057,9 @@ futaba:
 future-designs:
   display_name: Future Designs
   logo: false
+fysetc:
+  display_name: FYSETC
+  logo: false
 g-d:
   display_name: G&D
 gaisler:
