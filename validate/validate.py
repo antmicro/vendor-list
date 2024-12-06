@@ -72,6 +72,7 @@ def validate_vendor_images(vendors, logos_dir, icons_dir):
 
     return return_code
 
+
 def print_missing_img(images, msg, show=True):
     if images:
         print(f"There are {len(images)} {msg}")
