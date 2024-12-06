@@ -45,6 +45,9 @@ adam-tech:
   display_name: Adam Tech
 adata:
   display_name: ADATA
+adi:
+  reason: alias
+  see: analog-devices
 adlink:
   display_name: ADLINK Technology
 advanced-acoustic-technology-corp-:
@@ -129,6 +132,9 @@ altera:
 altitude-tech:
   display_name: Altitude Tech
   logo: false
+altr:
+  reason: alias
+  see: altera
 ambiq:
   display_name: Ambiq
 amd:
@@ -169,6 +175,9 @@ anderson-power-products:
   logo: false
 andes:
   display_name: Andes Technology
+andestech:
+  reason: alias
+  see: andes
 anlogic:
   display_name: Anlogic
 antenova:
@@ -185,6 +194,9 @@ aosmd:
 ap-memory:
   display_name: AP Memory
   logo: false
+apa:
+  reason: alias
+  see: apa-electronic
 apa-electronic:
   display_name: Apa Electronic
 apacer-technology:
@@ -349,9 +361,15 @@ basler:
   logo: false
 bbc:
   display_name: BBC
+bcdevices:
+  reason: alias
+  see: blue-clover
 beacon:
   display_name: Beacon EmbeddedWorks
   logo: false
+beagle:
+  reason: alias
+  see: beagleboard
 beagleboard:
   display_name: BeagleBoard
 beast-devices:
@@ -425,6 +443,9 @@ brad-harrison:
 brainboxes:
   display_name: Brainboxes
   logo: false
+brcm:
+  reason: alias
+  see: broadcom
 breadboard-mates:
   display_name: BreadBoard Mates
   logo: false
@@ -450,6 +471,9 @@ buffalo:
 bulgin:
   display_name: Bulgin
   logo: false
+bur:
+  reason: alias
+  see: b-r
 busboard-prototype-systems:
   display_name: BusBoard Prototype Systems
   logo: false
@@ -460,6 +484,9 @@ c-k:
 caddock:
   display_name: Caddock
   logo: false
+cadence:
+  reason: alias
+  see: cadence-design-systems
 cadence-design-systems:
   display_name: Cadence Design Systems
 caes:
@@ -508,12 +535,18 @@ ccs:
 cde:
   display_name: CDE
   logo: false
+cdns:
+  reason: alias
+  see: cadence-design-systems
 cel:
   display_name: CEL
   logo: false
 central-semiconductor:
   display_name: Central Semiconductor
   logo: false
+ceva:
+  reason: alias
+  see: ceva-technologies
 ceva-technologies:
   display_name: CEVA Technologies
 chemtronics:
@@ -544,9 +577,15 @@ cincon:
   logo: false
 circuit-dojo:
   display_name: circuit_dojo
+circuitdojo:
+  reason: alias
+  see: circuit-dojo
 cirque:
   display_name: Cirque
   logo: false
+cirrus:
+  reason: alias
+  see: cirrus-logic
 cirrus-logic:
   display_name: Cirrus Logic
 citel:
@@ -604,6 +643,9 @@ connfly-electronic:
   logo: false
 contextual-electronics:
   display_name: Contextual Electronics
+contextualelectronics:
+  reason: alias
+  see: contextual-electronics
 controlbits:
   display_name: ControlBits
   logo: false
@@ -679,6 +721,9 @@ cypress-semiconductor:
   see: cypress
 cz-nic:
   display_name: CZ.NIC
+cznic:
+  reason: alias
+  see: cz-nic
 d-link:
   display_name: D-Link
 d3-semiconductor:
@@ -779,6 +824,9 @@ display-visions:
 displaytech:
   display_name: Displaytech
   logo: false
+dlg:
+  reason: alias
+  see: dialog-semiconductor
 dlp-design:
   display_name: DLP Design
   logo: false
@@ -856,6 +904,9 @@ electric-imp:
 electronic-assembly:
   display_name: ELECTRONIC ASSEMBLY
   logo: false
+electronut:
+  reason: alias
+  see: electronutlabs
 electronutlabs:
   display_name: Electronut Labs
 electroswitch:
@@ -863,6 +914,9 @@ electroswitch:
   logo: false
 element-14:
   display_name: Element14
+element14:
+  reason: alias
+  see: element-14
 elgin:
   display_name: Elgin
 elna:
@@ -884,6 +938,9 @@ empower-semiconductor:
   logo: false
 enclustra:
   display_name: Enclustra
+ene:
+  reason: alias
+  see: ene-technology
 ene-technology:
   display_name: ENE Technology
 energy-micro:
@@ -1000,6 +1057,9 @@ fingerprints:
 finisar-corporation:
   display_name: Finisar Corporation
   logo: false
+firefly:
+  reason: alias
+  see: t-firefly
 first-sensor:
   display_name: First Sensor
   logo: false
@@ -1044,6 +1104,9 @@ friendlyarm:
   display_name: Friendly ARM
 frontgrade:
   display_name: Frontgrade
+fsl:
+  reason: alias
+  see: freescale
 ftdi-chip:
   display_name: FTDI Chip
 fujitsu:
@@ -1074,6 +1137,12 @@ gateworks:
   display_name: Gateworks
 gct:
   display_name: GCT
+gd:
+  reason: alias
+  see: gigadevice
+ge:
+  reason: alias
+  see: general-electric
 ge-m-c:
   display_name: GE M&C
   logo: false
@@ -1110,6 +1179,9 @@ globalscale-technologies:
   display_name: Globalscale Technologies
 good-display:
   display_name: Good Display
+gooddisplay:
+  reason: alias
+  see: good-display
 goodix:
   display_name: Goodix
 google:
@@ -1368,6 +1440,9 @@ isotope-engineering:
   logo: false
 issi:
   display_name: ISSI
+ite:
+  reason: alias
+  see: ite-tech
 ite-tech:
   display_name: ITE Tech
 itt-cannon:
@@ -1571,6 +1646,9 @@ liquid-instruments:
   logo: false
 lite-on:
   display_name: Lite-On
+litex:
+  reason: alias
+  see: enjoydigital
 littelfuse:
   display_name: Littelfuse
 lixie-labs:
@@ -1660,6 +1738,9 @@ matrix-industries:
 matrix-orbital:
   display_name: Matrix Orbital
   logo: false
+maxim:
+  reason: alias
+  see: maxim-integrated
 maxim-integrated:
   display_name: Maxim Integrated
   reason: acquisition
@@ -1761,6 +1842,9 @@ microchip:
 microchip-technology:
   reason: alias
   see: microchip
+micron:
+  reason: alias
+  see: micron-technology
 micron-technology:
   display_name: Micron Technology
 microphonon:
@@ -1956,6 +2040,9 @@ novtech:
 nth-dimension:
   display_name: Nth Dimension
   logo: false
+nuclei:
+  reason: alias
+  see: nuclei-system-technology
 nuclei-system-technology:
   display_name: Nuclei System Technology
 nuvoton:
@@ -2002,6 +2089,9 @@ onsemi:
   display_name: Onsemi
 openhw-group:
   display_name: OpenHW Group
+openhwgroup:
+  reason: alias
+  see: openhw-group
 openisa:
   display_name: OpenISA
 optosupply:
@@ -2168,6 +2258,9 @@ pulser-electronics:
 pycom:
   display_name: Pycom
   logo: false
+qcom:
+  reason: alias
+  see: qualcomm
 qoitech:
   display_name: Qoitech
   logo: false
@@ -2217,6 +2310,9 @@ ramtron:
   logo: false
 raspberry-pi:
   display_name: Raspberry Pi
+raspberrypi:
+  reason: alias
+  see: raspberry-pi
 raydiall-automotive:
   display_name: Raydiall Automotive
   logo: false
@@ -2265,6 +2361,9 @@ rfmi:
   logo: false
 richtek:
   display_name: Richtek
+ricoh:
+  reason: alias
+  see: ricoh-electronic-devices-company
 ricoh-electronic-devices-company:
   display_name: Ricoh Electronic Devices Company
 rigado:
@@ -2277,6 +2376,9 @@ robotis:
   logo: false
 rockchip:
   display_name: Rockchip
+rohm:
+  reason: alias
+  see: rohm-semiconductor
 rohm-semiconductor:
   display_name: ROHM Semiconductor
 ronoth:
@@ -2331,6 +2433,9 @@ sanyo-denki:
 sargent-tools:
   display_name: Sargent Tools
   logo: false
+sc:
+  reason: alias
+  see: space-cubics
 schaffner:
   display_name: Schaffner
   logo: false
@@ -2437,6 +2542,9 @@ signetik:
 signoid:
   display_name: Signoid
   logo: false
+silabs:
+  reason: alias
+  see: silicon-labs
 silex-technology:
   display_name: Silex Technology
   logo: false
@@ -2506,6 +2614,9 @@ smartworx:
 smiths-interconnect:
   display_name: Smiths Interconnect
   logo: false
+snps:
+  reason: alias
+  see: synopsys
 socionext:
   display_name: Socionext
 softing:
@@ -2527,6 +2638,9 @@ solidigm:
   logo: false
 solidrun:
   display_name: SolidRun
+solomon:
+  reason: alias
+  see: solomon-systech
 solomon-systech:
   display_name: Solomon Systech
 somlabs:
@@ -2753,6 +2867,9 @@ thine-solutions:
   logo: false
 thundercomm:
   display_name: Thundercomm
+ti:
+  reason: alias
+  see: texas-instruments
 timbercon:
   display_name: Timbercon
   logo: false
@@ -2878,6 +2995,9 @@ varitronix:
   logo: false
 vcc:
   display_name: VCC
+vcc-gnd:
+  reason: alias
+  see: vcc
 vector:
   display_name: Vector
   logo: false
@@ -2919,6 +3039,9 @@ vitrohm:
   logo: false
 vng:
   display_name: VNG
+vngiotlab:
+  reason: alias
+  see: vng
 volex:
   display_name: Volex
   logo: false
@@ -2945,6 +3068,12 @@ waveshare:
 wch:
   display_name: Nanjing Qinheng Microelectronics
   logo: false
+we:
+  reason: alias
+  see: wurth-elektronik
+weact:
+  reason: alias
+  see: weact-studio
 weact-studio:
   display_name: WeAct Studio
 ween-semiconductors:
@@ -3033,6 +3162,9 @@ xilinx:
 xinabox:
   display_name: XinaBox
   logo: false
+xlnx:
+  reason: alias
+  see: xilinx
 xp-power:
   display_name: XP Power
   logo: false
