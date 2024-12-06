@@ -2942,6 +2942,9 @@ wandboard:
   logo: false
 waveshare:
   display_name: Waveshare Electronics
+wch:
+  display_name: Nanjing Qinheng Microelectronics
+  logo: false
 weact-studio:
   display_name: WeAct Studio
 ween-semiconductors:
