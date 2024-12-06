@@ -96,6 +96,15 @@ def find_not_assigned_logos(vendors, logos_dir, icons_dir):
     return not_assigned
 
 
+def validate_redirections(vendors):
+    errors_found = False
+    for v_name, v_data in vendors.items():
+        if (target := v_data.get("see")) and target not in vendors:
+            print(f"{v_name} has a redirection to {target} that does not exist!")
+            errors_found = True
+    return errors_found
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("vendor_list")
@@ -118,6 +127,9 @@ def main():
 
     not_assigned = find_not_assigned_logos(vendors, args.logos, args.icons)
     if print_missing_img(not_assigned, "not assigned images"):
+        return_code = 1
+
+    if validate_redirections(vendors):
         return_code = 1
 
     sys.exit(return_code)
