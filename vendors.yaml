@@ -432,6 +432,8 @@ boreas-technologies:
   logo: false
 bosch:
   display_name: Bosch
+bouffalo-lab:
+  display_name: Bouffalo Lab
 bourns:
   display_name: Bourns
 bps:
@@ -2780,6 +2782,8 @@ syzygy:
   display_name: SYZYGY
 t-firefly:
   display_name: T-Firefly
+t-head:
+  display_name: T-Head
 tadiran-batteries:
   display_name: Tadiran Batteries
   logo: false
