@@ -1711,6 +1711,9 @@ magnachip:
 magnecraft:
   display_name: Magnecraft
   logo: false
+makerbase:
+  display_name: Makerbase
+  logo: false
 makerdiary:
   display_name: makerdiary
 mallory:
