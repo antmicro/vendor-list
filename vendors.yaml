@@ -2037,6 +2037,9 @@ nordic:
 nordic-semiconductor:
   reason: alias
   see: nordic
+norik:
+  display_name: Norik Systems
+  logo: false
 noritake:
   display_name: Noritake
   logo: false
