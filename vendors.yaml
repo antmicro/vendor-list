@@ -2601,6 +2601,9 @@ silicon-microstructures:
 siliconbrite:
   display_name: SiliconBrite
   logo: false
+silinux:
+  display_name: Silinux
+  logo: false
 silvertel:
   display_name: Silvertel
   logo: false
