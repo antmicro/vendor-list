@@ -630,6 +630,9 @@ colorado-engineering:
 comchip-technology:
   display_name: Comchip Technology
   logo: false
+compal:
+  display_name: Compal
+  logo: false
 compulab:
   display_name: CompuLab
 conclusive:
