@@ -761,6 +761,9 @@ daqifi:
 davies-molding:
   display_name: Davies Molding
   logo: false
+davinci:
+  display_name: Davinci
+  logo: false
 db-unlimited:
   display_name: DB Unlimited
   logo: false
