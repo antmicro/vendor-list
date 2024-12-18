@@ -101,6 +101,9 @@ allied-telesis:
   display_name: Allied Telesis
 allied-vision-technologies:
   display_name: Allied Vision Technologies
+alliedtelesis:
+  reason: alias
+  see: allied-telesis
 alorium-technology:
   display_name: Alorium Technology
   logo: false
@@ -250,6 +253,9 @@ aries-embedded:
   display_name: Aries Embedded
 arm:
   display_name: ARM
+armadeus:
+  reason: alias
+  see: armadeus-systems
 armadeus-systems:
   display_name: Armadeus Systems
 aromat:
@@ -600,6 +606,9 @@ clairitec:
   logo: false
 cloud-engines:
   display_name: Cloud Engines
+cloudengines:
+  reason: alias
+  see: cloud-engines
 cml-microcircuits:
   display_name: CML Microcircuits
   logo: false
@@ -787,6 +796,9 @@ dfrobot:
   display_name: DFRobot
 dh-electronics:
   display_name: DH Electronics
+dhelectronics:
+  reason: alias
+  see: dh-electronics
 dialight:
   display_name: Dialight
 dialog-semiconductor:
@@ -1418,6 +1430,9 @@ inventus-power:
   logo: false
 inverse-path:
   display_name: Inverse Path
+inversepath:
+  reason: alias
+  see: inverse-path
 io-audio-technologies:
   display_name: Io Audio Technologies
   logo: false
@@ -2820,6 +2835,9 @@ tamura:
 taoglas:
   display_name: Taoglas
   logo: false
+tbs:
+  reason: alias
+  see: tbs-technologies
 tbs-technologies:
   display_name: TBS Technologies
 tdk:
@@ -2873,6 +2891,9 @@ texas-instruments:
 that-corporation:
   display_name: THAT Corporation
   logo: false
+thead:
+  reason: alias
+  see: t-head
 thecus:
   display_name: Thecus
 theobroma-systems:
