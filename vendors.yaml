@@ -546,6 +546,9 @@ cde:
 cdns:
   reason: alias
   see: cadence-design-systems
+cei:
+  display_name: CEI
+  logo: false
 cel:
   display_name: CEL
   logo: false
