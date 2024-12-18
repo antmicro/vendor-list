@@ -1530,10 +1530,8 @@ keterex:
   display_name: Keterex
   logo: false
 keymile:
-  display_name: KEYMILE
-  logo: false
-  see: abb
   reason: acquisition
+  see: abb
 keysight-technologies:
   display_name: Keysight Technologies
   logo: false
