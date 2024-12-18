@@ -2852,6 +2852,9 @@ tbs:
   see: tbs-technologies
 tbs-technologies:
   display_name: TBS Technologies
+tcl:
+  display_name: TCL
+  logo: false
 tdk:
   display_name: TDK
 te-connectivity:
