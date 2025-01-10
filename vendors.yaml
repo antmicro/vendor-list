@@ -119,6 +119,8 @@ alpha-wire:
 alphamax:
   display_name: Alphamax
   logo: false
+alphawave:
+  display_name: Alphawave Semi
 alps-alpine:
   display_name: Alps Alpine
 alps-electric:
