@@ -2209,7 +2209,7 @@ optosupply:
   logo: false
 orange-pi:
   reason: alias
-  see: orange-pi
+  see: orangepi
 orangepi:
   display_name: Orange Pi
   logo: false
