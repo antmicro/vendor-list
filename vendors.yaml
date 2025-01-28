@@ -164,6 +164,9 @@ ametherm:
   logo: false
 amlogic:
   display_name: Amlogic
+ampe:
+  display_name: Ampe
+  logo: false
 ampere:
   display_name: Ampere
 amphenol:
@@ -264,6 +267,9 @@ aries-electronics:
   logo: false
 aries-embedded:
   display_name: Aries Embedded
+aristainetos:
+  display_name: Aristainetos
+  logo: false
 arm:
   display_name: ARM
 armadeus:
@@ -335,6 +341,9 @@ augat:
   logo: false
 auvidea:
   display_name: Auvidea
+auxtek:
+  display_name: Auxtek
+  logo: false
 avago-technologies:
   display_name: Avago Technologies
 avalanche-technology:
@@ -589,6 +598,9 @@ cherry:
 chicago-miniature:
   display_name: Chicago Miniature
   logo: false
+china-lc-technology:
+  reason: alias
+  see: shenzhen-lc-technology
 chip-quik:
   display_name: Chip Quik
   logo: false
@@ -650,6 +662,12 @@ cologne-chip:
   display_name: Cologne Chip
 colorado-engineering:
   display_name: Colorado Engineering
+colorfly:
+  reason: acquisition
+  see: colorful
+colorful:
+  display_name: Colorful Technology
+  logo: false
 comchip-technology:
   display_name: Comchip Technology
   logo: false
@@ -658,6 +676,9 @@ compal:
   logo: false
 compulab:
   display_name: CompuLab
+comvetia:
+  display_name: ComVetia AG
+  logo: false
 conclusive:
   display_name: Conclusive
 concord-semiconductor:
@@ -691,6 +712,9 @@ controlbits:
   logo: false
 conxall:
   display_name: CONXALL
+  logo: false
+coolpi:
+  display_name: Cool Pi
   logo: false
 cooper-bussmann:
   display_name: Cooper Bussmann
@@ -738,6 +762,9 @@ crystek-corporation:
   logo: false
 csb:
   display_name: CSB
+  logo: false
+csq:
+  display_name: CSQ
   logo: false
 ct:
   display_name: CTHINGS.CO
@@ -889,6 +916,9 @@ dptechnics:
   display_name: DPTechnics
 dragino:
   display_name: Dragino
+dserve:
+  display_name: Dserve
+  logo: false
 duracell:
   display_name: Duracell
   logo: false
@@ -992,6 +1022,9 @@ emlid:
   logo: false
 emo-systems:
   display_name: EMO Systems
+  logo: false
+empire:
+  display_name: Empire ElectroniX
   logo: false
 empower-semiconductor:
   display_name: Empower Semiconductor
@@ -1130,6 +1163,9 @@ flambeau:
   logo: false
 flex-power-modules:
   display_name: Flex Power Modules
+  logo: false
+focalcrest:
+  display_name: Focalcrest
   logo: false
 focaltech:
   display_name: FocalTech
@@ -1422,6 +1458,9 @@ ilitek:
 ilumi:
   display_name: ilumi
   logo: false
+in-circuit:
+  display_name: In-Circuit
+  logo: false
 indiedroid:
   display_name: IndieDroid
   logo: false
@@ -1430,6 +1469,9 @@ industrial-shields:
   logo: false
 industruino:
   display_name: Industruino
+  logo: false
+inet:
+  display_name: iNet
   logo: false
 infineon:
   display_name: Infineon
@@ -1537,6 +1579,9 @@ jae-electronics:
   display_name: JAE Electronics
 jedec-solid-state-technology-association:
   display_name: jedec_solid_state_technology_association
+jesurun:
+  display_name: Jesurun
+  logo: false
 jethome:
   display_name: JetHome
 jkl-components:
@@ -1663,6 +1708,9 @@ lamb-industries:
 lambda-nu:
   display_name: Lambda Nu
   logo: false
+lamobo:
+  display_name: Lamobo
+  logo: false
 lantronix:
   display_name: Lantronix
   logo: false
@@ -1673,6 +1721,9 @@ lattice:
   see: lattice-semiconductor
 lattice-semiconductor:
   display_name: Lattice Semiconductor
+lctech:
+  reason: alias
+  see: china-lc-technology
 leadertech:
   display_name: LeaderTech
   logo: false
@@ -1692,6 +1743,9 @@ lego:
   display_name: Lego
 lelon:
   display_name: Lelon
+  logo: false
+lemaker:
+  display_name: LeMaker
   logo: false
 lemo:
   display_name: LEMO
@@ -1885,6 +1939,9 @@ meggitt-electronic-components:
 megladon-manufacturing:
   display_name: Megladon Manufacturing
   logo: false
+mele:
+  display_name: MeLE
+  logo: false
 melexis:
   display_name: Melexis
   logo: false
@@ -1904,6 +1961,9 @@ mercury-united-electronics:
   display_name: Mercury United Electronics
 merit-sensor:
   display_name: Merit Sensor
+  logo: false
+merrii:
+  display_name: Merrii
   logo: false
 metcal:
   display_name: Metcal
@@ -1982,6 +2042,9 @@ mirror-semiconductor:
 mitsubishi-electric:
   display_name: Mitsubishi Electric
   logo: false
+mixtile:
+  reason: acquisition
+  see: focalcrest
 mobix-labs:
   display_name: Mobix Labs
   logo: false
@@ -2018,6 +2081,9 @@ mpression:
   logo: false
 mqmaker:
   display_name: MQmaker
+  logo: false
+msi:
+  display_name: MSI
   logo: false
 mtconn-electronics:
   display_name: Mtconn Electronics
@@ -2159,6 +2225,9 @@ nvidia:
   display_name: Nvidia
 nxp:
   display_name: NXP Semiconductors
+oceanic:
+  display_name: Oceanic
+  logo: false
 octavo-systems:
   display_name: Octavo Systems
 odroid:
@@ -2300,6 +2369,9 @@ phytium:
 pimoroni:
   display_name: Pimoroni
   logo: false
+pine:
+  reason: alias
+  see: pine64
 pine64:
   display_name: PINE64
 pjrc:
@@ -2345,6 +2417,9 @@ powercast:
 powerfilm:
   display_name: PowerFilm
   logo: false
+powkiddy:
+  display_name: Powkiddy
+  logo: false
 preci-dip:
   display_name: Preci-Dip
   logo: false
@@ -2375,6 +2450,9 @@ pulse-electronics:
   display_name: Pulse Electronics
 pulser-electronics:
   display_name: PulseR Electronics
+  logo: false
+purism:
+  display_name: Purism
   logo: false
 pycom:
   display_name: Pycom
@@ -2642,6 +2720,9 @@ sharp-microelectronics:
   display_name: Sharp Microelectronics
 shenzhen-huiding-technology:
   display_name: Shenzhen Huiding Technology
+  logo: false
+shenzhen-lc-technology:
+  display_name: Shenzhen LC Technology
   logo: false
 shin-chin:
   display_name: Shin Chin
@@ -2947,6 +3028,9 @@ tallysman:
 tamura:
   display_name: Tamura
   logo: false
+tanix:
+  display_name: Tanix
+  logo: false
 taoglas:
   display_name: Taoglas
   logo: false
@@ -3060,6 +3144,9 @@ tq-systems:
   display_name: TQ Systems
 traco-power:
   display_name: TRACO Power
+transpeed:
+  display_name: Transpeed
+  logo: false
 transphorm:
   display_name: Transphorm
   logo: false
@@ -3137,6 +3224,9 @@ upside-down-labs:
   logo: false
 ursaleo:
   display_name: UrsaLeo
+  logo: false
+utoo:
+  display_name: UTOO
   logo: false
 vacuumschmelze:
   display_name: Vacuumschmelze
@@ -3249,6 +3339,9 @@ western-design-center:
   logo: false
 wetek:
   display_name: WeTek
+wexler:
+  display_name: WEXLER
+  logo: false
 white-rodgers:
   display_name: White Rodgers
   logo: false
@@ -3268,6 +3361,9 @@ winchester-interconnect:
   logo: false
 wiremold:
   display_name: Wiremold
+  logo: false
+wits:
+  display_name: Wits
   logo: false
 witte:
   display_name: Witte Technology
@@ -3326,6 +3422,9 @@ xsemi:
 xtech:
   display_name: Xtech
   logo: false
+xunlong:
+  reason: alias
+  see: orangepi
 xvisio:
   display_name: Xvisio
   logo: false
@@ -3336,6 +3435,9 @@ yazaki:
   logo: false
 yic:
   display_name: YIC
+yones:
+  display_name: YONES TOPTECH
+  logo: false
 yuliang-electronics-industry-group:
   display_name: Yuliang Electronics Industry Group
 zentel:
