@@ -1815,6 +1815,9 @@ lprs:
   logo: false
 luatos:
   display_name: LuatOS
+luckylight:
+  display_name: Luckylight
+  logo: false
 lumberg-automation:
   display_name: Lumberg Automation
   logo: false
