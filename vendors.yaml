@@ -3180,6 +3180,9 @@ tt-electronics:
 tti:
   display_name: TTI
   logo: false
+turing:
+  display_name: Turing
+  logo: false
 turris:
   display_name: Turris
 twin-industries:
