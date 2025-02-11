@@ -1436,6 +1436,9 @@ iar-systems:
 ibase-technology:
   display_name: iBASE Technology
   logo: false
+ibm:
+  display_name: IBM
+  logo: false
 ice-components:
   display_name: ICE Components
   logo: false
