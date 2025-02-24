@@ -2043,6 +2043,8 @@ mill-max:
 mini-circuits:
   display_name: Mini-Circuits
   logo: false
+mips:
+  display_name: MIPS
 mirror-semiconductor:
   display_name: Mirror Semiconductor
 mitsubishi-electric:
