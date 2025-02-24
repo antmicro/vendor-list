@@ -2351,6 +2351,9 @@ penguin-edge:
 pennengineering:
   display_name: PennEngineering
   logo: false
+peregrine:
+  display_name: Peregrine
+  logo: false
 performance-motion-devices:
   display_name: Performance Motion Devices
   logo: false
