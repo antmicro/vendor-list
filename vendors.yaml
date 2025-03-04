@@ -109,7 +109,6 @@ alliedtelesis:
   see: allied-telesis
 allwinner:
   display_name: Allwinner Technology
-  logo: false
 alorium-technology:
   display_name: Alorium Technology
   logo: false
