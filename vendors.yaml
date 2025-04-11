@@ -70,7 +70,6 @@ advanced-thermal-solutions:
   logo: false
 advantech:
   display_name: Advantech
-  logo: false
 af-inventions:
   display_name: Af Inventions
   reason: acquisition
@@ -688,7 +687,6 @@ conexio-technologies:
   logo: false
 congatec:
   display_name: congatec
-  logo: false
 connaxio:
   display_name: Connaxio
   logo: false
@@ -2094,7 +2092,6 @@ mqmaker:
   logo: false
 msi:
   display_name: MSI
-  logo: false
 mtconn-electronics:
   display_name: Mtconn Electronics
 mueller-electric:
@@ -3268,7 +3265,6 @@ vertiq:
   logo: false
 via-technologies:
   display_name: VIA Technologies
-  logo: false
 vicharak:
   display_name: Vicharak
   logo: false
