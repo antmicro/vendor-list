@@ -1687,6 +1687,9 @@ krakenrf:
 krtkl:
   display_name: krtkl
   logo: false
+kws:
+  display_name: KWS Computersysteme
+  logo: false
 kycon:
   display_name: Kycon
 kyocera-avx:
