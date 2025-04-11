@@ -67,7 +67,6 @@ advanced-semiconductor:
   logo: false
 advanced-thermal-solutions:
   display_name: Advanced Thermal Solutions
-  logo: false
 advantech:
   display_name: Advantech
 af-inventions:
@@ -82,7 +81,6 @@ aim:
   logo: false
 ainol:
   display_name: Ainol
-  logo: false
 airborn:
   display_name: AirBorn
   logo: false
@@ -146,7 +144,6 @@ altr:
   see: altera
 amarula:
   display_name: Amarula Solutions
-  logo: false
 ambiq:
   display_name: Ambiq
 amd:
@@ -186,7 +183,6 @@ anavi-technology:
   logo: false
 anbernic:
   display_name: Anbernic
-  logo: false
 anderson-power-products:
   display_name: Anderson Power Products
   logo: false
@@ -277,7 +273,6 @@ armadeus-systems:
   display_name: Armadeus Systems
 armsom:
   display_name: ArmSoM
-  logo: false
 aromat:
   display_name: Aromat
   logo: false
@@ -609,7 +604,6 @@ chipsee:
   logo: false
 chuwi:
   display_name: CHUWI
-  logo: false
 ciclon-semiconductor:
   display_name: Ciclon Semiconductor
   logo: false
@@ -711,7 +705,6 @@ conxall:
   logo: false
 coolpi:
   display_name: Cool Pi
-  logo: false
 cooper-bussmann:
   display_name: Cooper Bussmann
 cooper-tools:
@@ -962,7 +955,6 @@ edge-tpu:
   logo: false
 edgeble:
   display_name: Edgeble AI
-  logo: false
 ee-tools:
   display_name: EE Tools
   logo: false
@@ -1015,7 +1007,6 @@ emerson-connectivity-solutions:
   logo: false
 emlid:
   display_name: Emlid
-  logo: false
 emo-systems:
   display_name: EMO Systems
   logo: false
@@ -1219,7 +1210,6 @@ future-designs:
   logo: false
 fysetc:
   display_name: FYSETC
-  logo: false
 g-d:
   display_name: G&D
 gaisler:
@@ -1462,7 +1452,6 @@ in-circuit:
   logo: false
 indiedroid:
   display_name: IndieDroid
-  logo: false
 industrial-shields:
   display_name: Industrial Shields
   logo: false
@@ -1564,7 +1553,6 @@ ite-tech:
   display_name: ITE Tech
 itead:
   display_name: ITEAD
-  logo: false
 itt-cannon:
   display_name: ITT Cannon
   logo: false
@@ -1674,7 +1662,6 @@ konica-minolta:
   logo: false
 kontron:
   display_name: Kontron
-  logo: false
 kosagi:
   display_name: Kosagi
   logo: false
@@ -1754,7 +1741,6 @@ lemo:
   logo: false
 lenovo:
   display_name: Lenovo
-  logo: false
 leopard-imaging:
   display_name: Leopard Imaging
 lg:
@@ -1860,7 +1846,6 @@ magnecraft:
   logo: false
 makerbase:
   display_name: Makerbase
-  logo: false
 makerdiary:
   display_name: makerdiary
 mallory:
@@ -1949,7 +1934,6 @@ mele:
   logo: false
 melexis:
   display_name: Melexis
-  logo: false
 memsic:
   display_name: MEMSIC
 menda:
@@ -2015,7 +1999,6 @@ microsemi:
   display_name: Microsemi
 microsoft:
   display_name: Microsoft
-  logo: false
 microstrain:
   display_name: Microstrain
   logo: false
@@ -3084,6 +3067,8 @@ teltonika:
 tempo-semiconductor:
   display_name: Tempo Semiconductor
   logo: false
+tenstorrent:
+  display_name: Tenstorrent
 terabee:
   display_name: Terabee
   logo: false
