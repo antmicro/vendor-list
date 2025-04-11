@@ -393,7 +393,6 @@ bcdevices:
   see: blue-clover
 beacon:
   display_name: Beacon EmbeddedWorks
-  logo: false
 beagle:
   reason: alias
   see: beagleboard
