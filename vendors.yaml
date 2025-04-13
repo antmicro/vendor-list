@@ -2092,10 +2092,10 @@ murrelektronik:
 mxchip:
   display_name: MXCHIP
 myir:
-  display_name: Myir
-myir-tech:
   display_name: MYIR Tech
-  logo: false
+myir-tech:
+  reason: alias
+  see: myir
 nanonics-te-connectivit:
   display_name: Nanonics / TE Connectivit
   logo: false
