@@ -39,6 +39,9 @@ aconno:
   display_name: aconno
 actinius:
   display_name: Actinius
+actions:
+  display_name: Actions Semiconductor
+  logo: false
 adafruit:
   display_name: Adafruit
 adam-tech:
@@ -89,6 +92,9 @@ aiy:
   logo: false
 akm:
   display_name: AKM
+  logo: false
+alibaba:
+  display_name: Alibaba
   logo: false
 alientek:
   display_name: Alientek
@@ -188,6 +194,9 @@ anderson-power-products:
   logo: false
 andes:
   display_name: Andes Technology
+andes-technology:
+  reason: alias
+  see: andes
 andestech:
   reason: alias
   see: andes
@@ -305,6 +314,9 @@ asus:
   display_name: Asus
 atc:
   display_name: ATC
+  logo: false
+atheros:
+  display_name: Atheros
   logo: false
 atlas:
   display_name: ATLAS
@@ -540,6 +552,9 @@ calxeda:
 cambridge:
   display_name: Cambridge
   logo: false
+canaan-technology:
+  display_name: Canaan Technology
+  logo: false
 capacitech:
   display_name: Capacitech
   logo: false
@@ -557,6 +572,9 @@ carlo-gavazzi:
   logo: false
 casco-amphenol:
   display_name: Casco / Amphenol
+  logo: false
+cavium:
+  display_name: Cavium
   logo: false
 ccs:
   display_name: CCS
@@ -2020,6 +2038,9 @@ mikroelektronika:
   display_name: MikroElektronika
 mikrotik:
   display_name: MikroTik
+milk-v:
+  display_name: Milk-V
+  logo: false
 mill-max:
   display_name: Mill-Max
 mini-circuits:
@@ -2874,6 +2895,9 @@ soracom:
   logo: false
 space-cubics:
   display_name: Space Cubics
+spacemit:
+  display_name: SPACEMIT
+  logo: false
 sparkfun:
   display_name: SparkFun
 spectra-symbol:
@@ -2910,6 +2934,9 @@ sst-sensing:
   logo: false
 st:
   display_name: STMicroelectronics
+st-ericsson:
+  display_name: ST-Ericsson
+  logo: false
 stackpole-electronics:
   display_name: Stackpole Electronics
 staco:
