@@ -87,6 +87,9 @@ ainol:
 airborn:
   display_name: AirBorn
   logo: false
+airoha:
+  display_name: Airoha Technology
+  logo: false
 aiy:
   display_name: AIY
   logo: false
@@ -2315,6 +2318,9 @@ othernet:
 otto:
   display_name: OTTO
   logo: false
+ouya:
+  display_name: Ouya
+  logo: false
 overview:
   display_name: Overview
   logo: false
@@ -3419,6 +3425,9 @@ xeltek:
   logo: false
 xenarc:
   display_name: Xenarc
+  logo: false
+xiaomi:
+  display_name: Xiaomi
   logo: false
 xicon:
   display_name: Xicon
