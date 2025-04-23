@@ -440,6 +440,9 @@ benewake:
 bias-power:
   display_name: Bias Power
   logo: false
+binho:
+  display_name: Binho
+  logo: false
 bitmain:
   display_name: BITMAIN
 bivar:
