@@ -3342,7 +3342,6 @@ waveshare:
   display_name: Waveshare Electronics
 wch:
   display_name: Nanjing Qinheng Microelectronics
-  logo: false
 we:
   reason: alias
   see: wurth-elektronik
