@@ -237,7 +237,6 @@ apertus:
   display_name: Apertus
 apex-microtechnology:
   display_name: Apex Microtechnology
-  logo: false
 api-delevan:
   display_name: API Delevan
   logo: false
