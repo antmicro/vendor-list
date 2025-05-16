@@ -1,6 +1,6 @@
 # Unified vendors list
 
-Copyright (c) 2024 [Antmicro](https://www.antmicro.com)
+Copyright (c) 2025 [Antmicro](https://www.antmicro.com)
 
 This repo contains information about vendors featured on [designer.antmicro.com](https://designer.antmicro.com) and [openhardware.antmicro.com](https://openhardware.antmicro.com).
 
