@@ -90,6 +90,9 @@ airborn:
 airoha:
   display_name: Airoha Technology
   logo: false
+aithinker:
+  display_name: Ai-Thinker Co.
+  logo: false
 aiy:
   display_name: AIY
   logo: false
@@ -435,6 +438,9 @@ bend-labs:
   logo: false
 benewake:
   display_name: Benewake
+  logo: false
+bflb:
+  display_name: Bouffalo Lab Intelligent Technology
   logo: false
 bias-power:
   display_name: Bias Power
@@ -1438,6 +1444,9 @@ i-pex:
   display_name: I-PEX
 i-syst:
   display_name: I-SYST
+  logo: false
+iar:
+  display_name: IAR
   logo: false
 iar-systems:
   display_name: IAR Systems
@@ -2628,6 +2637,9 @@ rt-thread:
   logo: false
 rubycon:
   display_name: Rubycon
+  logo: false
+ruiside:
+  display_name: Ruiside
   logo: false
 ruuvi:
   display_name: Ruuvi
