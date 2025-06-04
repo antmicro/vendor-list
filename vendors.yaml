@@ -72,6 +72,9 @@ advanced-thermal-solutions:
   display_name: Advanced Thermal Solutions
 advantech:
   display_name: Advantech
+aesc:
+  display_name: Aesc Silicon
+  logo: false
 af-inventions:
   display_name: Af Inventions
   reason: acquisition
@@ -927,6 +930,9 @@ dlp-design:
 dmc-tools:
   display_name: DMC Tools
   logo: false
+doiting:
+  display_name: Doctors of Intelligence & Technology
+  logo: false
 doodle-labs:
   display_name: Doodle Labs
   logo: false
@@ -1742,6 +1748,9 @@ lattice:
   see: lattice-semiconductor
 lattice-semiconductor:
   display_name: Lattice Semiconductor
+lckfb:
+  display_name: LCKFB
+  logo: false
 lctech:
   reason: alias
   see: china-lc-technology
