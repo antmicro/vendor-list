@@ -2143,6 +2143,8 @@ myir-tech:
 nanonics-te-connectivit:
   display_name: Nanonics / TE Connectivit
   logo: false
+national-instruments:
+  display_name: National Instruments
 navitas-semiconductor:
   display_name: Navitas Semiconductor
   logo: false
@@ -2893,6 +2895,8 @@ soldered:
   logo: false
 solderparty:
   display_name: Solder Party AB
+solectrix:
+  display_name: solectrix
 solidigm:
   display_name: Solidigm
   logo: false
