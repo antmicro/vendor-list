@@ -1814,6 +1814,9 @@ linksprite:
   logo: false
 linx-technologies:
   display_name: Linx Technologies
+liontron:
+  display_name: Liontron
+  logo: false
 liquid-instruments:
   display_name: Liquid Instruments
   logo: false
@@ -3501,6 +3504,9 @@ yones:
   logo: false
 yuliang-electronics-industry-group:
   display_name: Yuliang Electronics Industry Group
+yuzuki:
+  display_name: YuzukiTsuru
+  logo: false
 zentel:
   display_name: Zentel
   logo: false
