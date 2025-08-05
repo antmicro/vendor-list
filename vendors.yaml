@@ -362,6 +362,9 @@ avago-technologies:
 avalanche-technology:
   display_name: Avalanche Technology
   logo: false
+avaota:
+  display_name: Avaota SBC
+  logo: false
 aven:
   display_name: Aven
   logo: false
