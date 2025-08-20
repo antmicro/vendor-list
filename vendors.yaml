@@ -1037,6 +1037,9 @@ embedded-artists:
 embedfire:
   display_name: Embedfire
   logo: false
+embedsky:
+  display_name: Guangdong Embedsky Technology
+  logo: false
 emcraft-systems:
   display_name: Emcraft
   logo: false
