@@ -2310,7 +2310,10 @@ onion:
   logo: false
 onsemi:
   display_name: Onsemi
-open-ai:
+open-ai-lab:
+  display_name: Open AI Lab
+  logo: false
+openai:
   display_name: OpenAI
   logo: false
 openhw-group:
