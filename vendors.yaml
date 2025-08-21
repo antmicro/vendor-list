@@ -2315,7 +2315,6 @@ open-ai-lab:
   logo: false
 openai:
   display_name: OpenAI
-  logo: false
 openhw-group:
   display_name: OpenHW Group
 openhwgroup:
