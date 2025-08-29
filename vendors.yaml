@@ -2511,6 +2511,9 @@ purism:
 pycom:
   display_name: Pycom
   logo: false
+q-tech:
+  display_name: Q-Tech Corporation
+  logo: false
 qcom:
   reason: alias
   see: qualcomm
