@@ -2642,7 +2642,6 @@ rohm-semiconductor:
   display_name: ROHM Semiconductor
 ronetix:
   display_name: Ronetix
-  logo: false
 ronoth:
   display_name: Ronoth
 rosenberger:
