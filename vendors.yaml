@@ -159,6 +159,9 @@ altr:
   see: altera
 amarula:
   display_name: Amarula Solutions
+amass:
+  display_name: Amass Electronics
+  logo: false
 ambiq:
   display_name: Ambiq
 amd:
