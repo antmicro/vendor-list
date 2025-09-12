@@ -1447,6 +1447,8 @@ htc:
 huber-suhner:
   display_name: HUBER+SUHNER
   logo: false
+hugging-face:
+  display_name: Hugging Face
 hynitron:
   display_name: Hynitron
 hyperstone:
