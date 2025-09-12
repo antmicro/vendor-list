@@ -449,8 +449,8 @@ benewake:
   display_name: Benewake
   logo: false
 bflb:
-  display_name: Bouffalo Lab Intelligent Technology
-  logo: false
+  reason: alias
+  see: bouffalo-lab
 bias-power:
   display_name: Bias Power
   logo: false
