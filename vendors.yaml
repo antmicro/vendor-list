@@ -1195,6 +1195,9 @@ flambeau:
 flex-power-modules:
   display_name: Flex Power Modules
   logo: false
+fobe:
+  display_name: FoBE Studio
+  logo: false
 focalcrest:
   display_name: Focalcrest
   logo: false
