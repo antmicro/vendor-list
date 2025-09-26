@@ -74,7 +74,6 @@ advantech:
   display_name: Advantech
 aesc:
   display_name: Aesc Silicon
-  logo: false
 af-inventions:
   display_name: Af Inventions
   reason: acquisition
@@ -92,10 +91,8 @@ airborn:
   logo: false
 airoha:
   display_name: Airoha Technology
-  logo: false
 aithinker:
   display_name: Ai-Thinker Co.
-  logo: false
 aiy:
   display_name: AIY
   logo: false
@@ -104,7 +101,6 @@ akm:
   logo: false
 alibaba:
   display_name: Alibaba
-  logo: false
 alientek:
   display_name: Alientek
 allegro-microsystems:
@@ -359,7 +355,6 @@ auvidea:
   display_name: Auvidea
 auxtek:
   display_name: Auxtek
-  logo: false
 avago-technologies:
   display_name: Avago Technologies
 avalanche-technology:
@@ -367,7 +362,6 @@ avalanche-technology:
   logo: false
 avaota:
   display_name: Avaota SBC
-  logo: false
 aven:
   display_name: Aven
   logo: false
@@ -456,7 +450,6 @@ bias-power:
   logo: false
 binho:
   display_name: Binho
-  logo: false
 bitmain:
   display_name: BITMAIN
 bivar:
@@ -595,7 +588,6 @@ casco-amphenol:
   logo: false
 cavium:
   display_name: Cavium
-  logo: false
 ccs:
   display_name: CCS
   logo: false
@@ -696,7 +688,6 @@ colorfly:
   see: colorful
 colorful:
   display_name: Colorful Technology
-  logo: false
 comchip-technology:
   display_name: Comchip Technology
   logo: false
@@ -1045,7 +1036,6 @@ embedsky:
   logo: false
 emcraft-systems:
   display_name: Emcraft
-  logo: false
 emerson-connectivity-solutions:
   display_name: Emerson Connectivity Solutions
   logo: false
@@ -1233,7 +1223,6 @@ friendlyarm:
   display_name: Friendly ARM
 friendlyelec:
   display_name: FriendlyElec
-  logo: false
 friendlyelec-boards:
   reason: alias
   see: friendlyelec
@@ -1459,7 +1448,6 @@ hyperstone:
   logo: false
 hyundai:
   display_name: Hyundai
-  logo: false
 i-pex:
   display_name: I-PEX
 i-syst:
@@ -1501,7 +1489,6 @@ ilumi:
   logo: false
 in-circuit:
   display_name: In-Circuit
-  logo: false
 indiedroid:
   display_name: IndieDroid
 industrial-shields:
@@ -1724,7 +1711,6 @@ krtkl:
   logo: false
 kws:
   display_name: KWS Computersysteme
-  logo: false
 kycon:
   display_name: Kycon
 kyocera-avx:
@@ -1824,7 +1810,6 @@ linklayer:
   logo: false
 linksprite:
   display_name: LinkSprite
-  logo: false
 linx-technologies:
   display_name: Linx Technologies
 liontron:
@@ -1862,7 +1847,6 @@ luatos:
   display_name: LuatOS
 luckylight:
   display_name: Luckylight
-  logo: false
 lumberg-automation:
   display_name: Lumberg Automation
   logo: false
@@ -1883,7 +1867,6 @@ lumissil:
   logo: false
 luxonis:
   display_name: Luxonis
-  logo: false
 m5stack:
   display_name: M5Stack
 macom:
@@ -1988,7 +1971,6 @@ megladon-manufacturing:
   logo: false
 mele:
   display_name: MeLE
-  logo: false
 melexis:
   display_name: Melexis
 memsic:
@@ -2079,7 +2061,6 @@ mikrotik:
   display_name: MikroTik
 milk-v:
   display_name: Milk-V
-  logo: false
 mill-max:
   display_name: Mill-Max
 mini-circuits:
@@ -2230,10 +2211,8 @@ ninigi:
   display_name: Ninigi
 nintendo:
   display_name: Nintendo
-  logo: false
 nippon-chemi-con:
   display_name: Nippon Chemi-Con
-  logo: false
 nisshinbo:
   display_name: Nisshinbo
   logo: false
@@ -2242,7 +2221,6 @@ njr:
   logo: false
 nkk-switches:
   display_name: NKK Switches
-  logo: false
 nmb-technologies:
   display_name: NMB Technologies
   logo: false
@@ -2256,7 +2234,6 @@ nordic-semiconductor:
   see: nordic
 norik:
   display_name: Norik Systems
-  logo: false
 noritake:
   display_name: Noritake
   logo: false
@@ -2319,7 +2296,6 @@ onsemi:
   display_name: Onsemi
 open-ai-lab:
   display_name: Open AI Lab
-  logo: false
 openai:
   display_name: OpenAI
 openhw-group:
@@ -2337,7 +2313,6 @@ orange-pi:
   see: orangepi
 orangepi:
   display_name: Orange Pi
-  logo: false
 oring:
   display_name: ORing
   logo: false
@@ -2363,7 +2338,6 @@ otto:
   logo: false
 ouya:
   display_name: Ouya
-  logo: false
 overview:
   display_name: Overview
   logo: false
@@ -2430,7 +2404,6 @@ phytium:
   display_name: Phytium
 pimoroni:
   display_name: Pimoroni
-  logo: false
 pine:
   reason: alias
   see: pine64
@@ -2449,12 +2422,10 @@ pmdperformance-motion-devices:
   logo: false
 polaroid:
   display_name: Polaroid
-  logo: false
 pololu:
   display_name: Pololu
 polyhex:
   display_name: Polyhex
-  logo: false
 pomona-electronics:
   display_name: Pomona Electronics
   logo: false
@@ -2481,7 +2452,6 @@ powerfilm:
   logo: false
 powkiddy:
   display_name: Powkiddy
-  logo: false
 preci-dip:
   display_name: Preci-Dip
   logo: false
@@ -2515,7 +2485,6 @@ pulser-electronics:
   logo: false
 purism:
   display_name: Purism
-  logo: false
 pycom:
   display_name: Pycom
   logo: false
@@ -2527,7 +2496,6 @@ qcom:
   see: qualcomm
 qnap:
   display_name: QNAP
-  logo: false
 qoitech:
   display_name: Qoitech
   logo: false
@@ -2852,12 +2820,10 @@ simpson-electric-company:
   logo: false
 sinlinx:
   display_name: SINLINX
-  logo: false
 sinotop:
   display_name: Sinotop
 sinovoip:
   display_name: SinoVoip
-  logo: false
 sipeed:
   display_name: sipeed
 siretta:
@@ -2940,7 +2906,6 @@ sonocotta:
   logo: false
 sonoff:
   display_name: SONOFF
-  logo: false
 sony-spresense:
   display_name: Sony Spresense
   logo: false
@@ -2953,7 +2918,6 @@ space-cubics:
   display_name: Space Cubics
 spacemit:
   display_name: SPACEMIT
-  logo: false
 sparkfun:
   display_name: SparkFun
 spectra-symbol:
@@ -2992,7 +2956,6 @@ st:
   display_name: STMicroelectronics
 st-ericsson:
   display_name: ST-Ericsson
-  logo: false
 stackpole-electronics:
   display_name: Stackpole Electronics
 staco:
@@ -3039,7 +3002,6 @@ sunbrite:
   logo: false
 sunchip:
   display_name: Sunchip
-  logo: false
 sundance-dsp:
   display_name: Sundance DSP
   logo: false
@@ -3054,7 +3016,6 @@ supertex:
   logo: false
 susumu:
   display_name: Susumu
-  logo: false
 sutajio-kosagi:
   display_name: Sutajio Kosagi
   logo: false
@@ -3256,7 +3217,6 @@ tti:
   logo: false
 turing:
   display_name: Turing
-  logo: false
 turris:
   display_name: Turris
 twin-industries:
@@ -3477,7 +3437,6 @@ xenarc:
   logo: false
 xiaomi:
   display_name: Xiaomi
-  logo: false
 xicon:
   display_name: Xicon
   logo: false
@@ -3523,7 +3482,6 @@ yuliang-electronics-industry-group:
   display_name: Yuliang Electronics Industry Group
 yuzuki:
   display_name: YuzukiTsuru
-  logo: false
 zentel:
   display_name: Zentel
   logo: false
