@@ -2978,6 +2978,9 @@ starcat:
   logo: false
 starfive:
   display_name: StarFive Technology
+steelseries:
+  display_name: SteelSeries
+  logo: false
 steminds:
   display_name: STEMinds
   logo: false
