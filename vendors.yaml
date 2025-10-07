@@ -1251,6 +1251,9 @@ g-d:
 gaisler:
   reason: alias
   see: frontgrade
+gameforce:
+  display_name: Gameforce
+  logo: false
 gan-systems:
   display_name: GaN Systems
   logo: false
@@ -2368,6 +2371,9 @@ particle:
 pcb-arts:
   display_name: PCB Arts
   logo: false
+pegatron:
+  display_name: Pegatron
+  logo: false
 pem:
   display_name: PEM
 penguin-edge:
@@ -2778,6 +2784,9 @@ sierra-wireless:
   see: semtech
 sifive:
   display_name: SiFive
+sifli:
+  display_name: SiFli Technologies
+  logo: false
 sigfox:
   display_name: Sigfox
   logo: false
