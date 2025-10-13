@@ -3039,8 +3039,8 @@ switchcraft:
 symmetry-electronics:
   display_name: Symmetry Electronics
   logo: false
-synaptic:
-  display_name: Synaptic
+synaptics:
+  display_name: Synaptics
 syndaver:
   display_name: SynDaver
   logo: false
