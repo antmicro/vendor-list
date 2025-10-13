@@ -3041,6 +3041,9 @@ symmetry-electronics:
   logo: false
 synaptics:
   display_name: Synaptics
+synaptic:
+  see: synaptics
+  reason: alias
 syndaver:
   display_name: SynDaver
   logo: false
