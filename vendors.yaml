@@ -3038,11 +3038,11 @@ switchcraft:
 symmetry-electronics:
   display_name: Symmetry Electronics
   logo: false
+synaptic:
+  reason: alias
+  see: synaptics
 synaptics:
   display_name: Synaptics
-synaptic:
-  see: synaptics
-  reason: alias
 syndaver:
   display_name: SynDaver
   logo: false
