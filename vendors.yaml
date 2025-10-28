@@ -1073,6 +1073,9 @@ enocean:
 envox-experimental-zone:
   display_name: Envox Experimental Zone
   logo: false
+epc-space:
+  display_name: EPC Space
+  logo: false
 epson:
   display_name: Epson
 ept:
