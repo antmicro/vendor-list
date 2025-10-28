@@ -999,6 +999,9 @@ efabless:
   display_name: Efabless
 efinix:
   display_name: Efinix
+egis:
+  display_name: Egis Technology Inc
+  logo: false
 electric-imp:
   display_name: Electric Imp
   logo: false
