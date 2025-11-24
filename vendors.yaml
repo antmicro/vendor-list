@@ -742,6 +742,9 @@ cooper-tools:
 coral:
   display_name: Coral
   logo: false
+coredevices:
+  display_name: Core Devices LLC
+  logo: false
 cornell-dubilier:
   display_name: Cornell Dubilier
   logo: false
@@ -2375,6 +2378,9 @@ particle:
   display_name: Particle
 pcb-arts:
   display_name: PCB Arts
+  logo: false
+pcbcupid:
+  display_name: PCB Cupid
   logo: false
 pegatron:
   display_name: Pegatron
