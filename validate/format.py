@@ -10,6 +10,11 @@ import sys
 import tempfile
 import yaml
 
+HEADER = (
+    "# Copyright (c) 2025 Antmicro <www.antmicro.com>\n"
+    "# SPDX-License-Identifier: Apache-2.0\n\n"
+)
+
 
 def show_difference(original_file, formatted):
     _, tmp_file = tempfile.mkstemp(".yaml")
@@ -17,6 +22,10 @@ def show_difference(original_file, formatted):
         f.write(formatted)
     subprocess.run(["diff", "-u", "--color=always", original_file, tmp_file])
     os.remove(tmp_file)
+
+
+def format_vendors(vendors):
+    return HEADER.encode("utf-8") + yaml.dump(vendors, sort_keys=True, allow_unicode=True, encoding=("utf-8"))
 
 
 def main():
@@ -32,18 +41,13 @@ def main():
 
     vendors = yaml.safe_load(original_content)
 
-    header = (
-        "# Copyright (c) 2025 Antmicro <www.antmicro.com>\n"
-        "# SPDX-License-Identifier: Apache-2.0\n\n"
-    )
-
     if args.fix:
         with open("vendors.yaml", "w") as f:
-            f.write(header)
+            f.write(HEADER)
             yaml.dump(vendors, f, sort_keys=True, allow_unicode=True, encoding=("utf-8"))
         return
 
-    formatted = header.encode("utf-8") + yaml.dump(vendors, sort_keys=True, allow_unicode=True, encoding=("utf-8"))
+    formatted = format_vendors(vendors)
     if formatted != original_content:
         if args.verbose:
             show_difference(args.vendor_list, formatted)

@@ -32,6 +32,8 @@ validate-vendor-list:
       --schema ./validate/vendor-list-schema.yaml
       --logos ./vendor-logos/
       --icons ./vendor-icons/
+
+    - ./validate/sync-zephyr.py -v vendors.yaml
   artifacts:
     paths:
       - ohp-vendors.txt
