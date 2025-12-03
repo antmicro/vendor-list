@@ -3750,6 +3750,9 @@ schneider:
   display_name: Schneider Electric
 schurter:
   display_name: Schurter
+schutzinger:
+  display_name: Schützinger
+  logo: false
 sciosense:
   display_name: ScioSense
 scs:
