@@ -22,17 +22,11 @@ aavid:
 abb:
   display_name: ABB
   logo: false
-abilis:
-  display_name: Abilis Systems
-  logo: false
 ablic:
   display_name: ABLIC
   logo: false
 abracon:
   display_name: Abracon
-abt:
-  display_name: ShenZhen Asia Better Technology Ltd.
-  logo: false
 acconeer:
   display_name: Acconeer
   logo: false
@@ -41,40 +35,19 @@ aceinna:
   logo: false
 acer:
   display_name: Acer
-acme:
-  display_name: Acme Systems srl
-  logo: false
 aconno:
   display_name: aconno
-acrn:
-  display_name: Project ACRN
-  logo: false
 actinius:
   display_name: Actinius
 actions:
   display_name: Actions Semiconductor
   logo: false
-active-semi:
-  display_name: Active-Semi International Inc
-  logo: false
-ad:
-  display_name: Avionic Design GmbH
-  logo: false
 adafruit:
   display_name: Adafruit
 adam-tech:
   display_name: Adam Tech
-adapteva:
-  display_name: Adapteva, Inc.
-  logo: false
-adaptrum:
-  display_name: Adaptrum, Inc.
-  logo: false
 adata:
   display_name: ADATA
-adh:
-  display_name: AD Holdings Plc.
-  logo: false
 adi:
   reason: alias
   see: analog-devices
@@ -99,14 +72,8 @@ advanced-thermal-solutions:
   display_name: Advanced Thermal Solutions
 advantech:
   display_name: Advantech
-aeroflexgaisler:
-  display_name: Aeroflex Gaisler AB
-  logo: false
 aesc:
   display_name: Aesc Silicon
-aesop:
-  display_name: AESOP Embedded Forum
-  logo: false
 af-inventions:
   display_name: Af Inventions
   reason: acquisition
@@ -132,19 +99,10 @@ aiy:
 akm:
   display_name: AKM
   logo: false
-al:
-  display_name: Annapurna Labs
-  logo: false
-alcatel:
-  display_name: Alcatel
-  logo: false
 alibaba:
   display_name: Alibaba
 alientek:
   display_name: Alientek
-allegro:
-  display_name: Allegro DVT
-  logo: false
 allegro-microsystems:
   display_name: Allegro MicroSystems
   logo: false
@@ -157,9 +115,6 @@ allied-vision-technologies:
 alliedtelesis:
   reason: alias
   see: allied-telesis
-allo:
-  display_name: Allo.com
-  logo: false
 allwinner:
   display_name: Allwinner Technology
 alorium-technology:
@@ -177,21 +132,12 @@ alpha-wire:
 alphamax:
   display_name: Alphamax
   logo: false
-alphascale:
-  display_name: AlphaScale Integrated Circuits Systems, Inc.
-  logo: false
 alphawave:
   display_name: Alphawave Semi
-alps:
-  display_name: Alps Electric Co., Ltd.
-  logo: false
 alps-alpine:
   display_name: Alps Alpine
 alps-electric:
   display_name: ALPS Electric
-  logo: false
-alt:
-  display_name: Altus-Escon-Company BV
   logo: false
 alt-shift:
   display_name: Alt Shift
@@ -212,22 +158,13 @@ amarula:
 amass:
   display_name: Amass Electronics
   logo: false
-amazon:
-  display_name: Amazon.com, Inc.
-  logo: false
 ambiq:
   display_name: Ambiq
-amcc:
-  display_name: Applied Micro Circuits Corporation (APM, formally AMCC)
-  logo: false
 amd:
   display_name: AMD
 amd-xilinx:
   reason: alias
   see: amd
-amediatech:
-  display_name: Shenzhen Amediatech Technology Co., Ltd
-  logo: false
 american-power-conversion:
   display_name: American Power Conversion
   logo: false
@@ -243,25 +180,16 @@ ampere:
   display_name: Ampere
 amphenol:
   display_name: Amphenol
-ampire:
-  display_name: Ampire Co., Ltd.
-  logo: false
 ams:
   display_name: AMS
 amseco:
   display_name: AMSECO
-  logo: false
-amstaos:
-  display_name: AMS-Taos Inc.
   logo: false
 amulet-technologies:
   display_name: Amulet Technologies
   logo: false
 analog-devices:
   display_name: Analog Devices
-analogix:
-  display_name: Analogix Semiconductor, Inc.
-  logo: false
 anaren:
   display_name: Anaren
 anavi-technology:
@@ -288,20 +216,11 @@ antenova:
 antmicro:
   display_name: Antmicro
   website: www.antmicro.com
-anvo:
-  display_name: Anvo-Systems Dresden GmbH
-  logo: false
 anvo-systems-dresden:
   display_name: Anvo-Systems Dresden
   logo: false
 aosmd:
   display_name: AOSMD
-aosong:
-  display_name: Guangzhou Aosong Electronic Co., Ltd.
-  logo: false
-ap:
-  display_name: Angst+Pfister
-  logo: false
 ap-memory:
   display_name: AP Memory
   logo: false
@@ -329,9 +248,6 @@ api-delevan:
 api-technologies:
   display_name: API Technologies
   logo: false
-apm:
-  display_name: Applied Micro Circuits Corporation (APM)
-  logo: false
 apm-hexseal:
   display_name: APM HEXSEAL
   logo: false
@@ -343,29 +259,11 @@ apple:
 applied-motion:
   display_name: Applied Motion
   logo: false
-aptina:
-  display_name: Aptina Imaging
-  logo: false
 aptiv:
   display_name: Aptiv
   logo: false
-arasan:
-  display_name: Arasan Chip Systems
-  logo: false
 arbor-technology:
   display_name: Arbor Technology
-  logo: false
-arc:
-  display_name: Synopsys, Inc. (formerly ARC International PLC)
-  logo: false
-archermind:
-  display_name: ArcherMind Technology (Nanjing) Co., Ltd.
-  logo: false
-arctic:
-  display_name: Arctic Sand
-  logo: false
-arcx:
-  display_name: arcx Inc. / Archronix Inc.
   logo: false
 arducam:
   display_name: Arducam
@@ -373,9 +271,6 @@ arduino:
   display_name: Arduino
 ardusimple:
   display_name: ArduSimple
-  logo: false
-aries:
-  display_name: Aries Embedded GmbH
   logo: false
 aries-electronics:
   display_name: Aries Electronics
@@ -397,22 +292,13 @@ armsom:
 aromat:
   display_name: Aromat
   logo: false
-arrow:
-  display_name: Arrow Electronics
-  logo: false
 arrow-electronics:
   display_name: Arrow Electronics
-artesyn:
-  display_name: Artesyn Embedded Technologies Inc.
-  logo: false
 artesyn-embedded-technologies:
   display_name: Artesyn Embedded Technologies
   logo: false
 asahi-kasei:
   display_name: Asahi Kasei
-asc:
-  display_name: All Sensors Corporation
-  logo: false
 asi-semiconductor:
   display_name: ASI Semiconductor
   logo: false
@@ -465,16 +351,10 @@ attend:
 augat:
   display_name: Augat
   logo: false
-auo:
-  display_name: AU Optronics Corporation
-  logo: false
 auvidea:
   display_name: Auvidea
 auxtek:
   display_name: Auxtek
-avago:
-  display_name: Avago Technologies
-  logo: false
 avago-technologies:
   display_name: Avago Technologies
 avalanche-technology:
@@ -488,38 +368,20 @@ aven:
 avery-dennison:
   display_name: Avery Dennison
   logo: false
-avia:
-  display_name: avia semiconductor
-  logo: false
-avic:
-  display_name: Shanghai AVIC Optoelectronics Co., Ltd.
-  logo: false
 avionic-design:
   display_name: Avionic Design
 avnet:
   display_name: Avnet
 avx:
   display_name: AVX
-awinic:
-  display_name: Shanghai Awinic Technology Co., Ltd.
-  logo: false
-axentia:
-  display_name: Axentia Technologies AB
-  logo: false
 axiomtek:
   display_name: Axiomtek
-  logo: false
-axis:
-  display_name: Axis Communications AB
   logo: false
 azoteq:
   display_name: Azoteq
   logo: false
 azurewave-technologies:
   display_name: AzureWave Technologies
-azw:
-  display_name: Shenzhen AZW Technology Co., Ltd.
-  logo: false
 b-b-smartworx:
   display_name: B+B SmartWorx
   logo: false
@@ -528,14 +390,8 @@ b-k-precision:
   logo: false
 b-r:
   display_name: B&R
-baikal:
-  display_name: BAIKAL ELECTRONICS, JSC
-  logo: false
 banana-pi:
   display_name: Banana Pi
-bananapi:
-  display_name: BIPAI KEJI LIMITED
-  logo: false
 banner-engineering:
   display_name: Banner Engineering
   logo: false
@@ -589,9 +445,6 @@ benewake:
 bflb:
   reason: alias
   see: bouffalo-lab
-bhf:
-  display_name: Beckhoff Automation GmbH & Co. KG
-  logo: false
 bias-power:
   display_name: Bias Power
   logo: false
@@ -617,12 +470,6 @@ bluetechnix:
 bluewater-systems:
   display_name: Bluewater Systems
   logo: false
-blutek:
-  display_name: BluTek Power
-  logo: false
-boe:
-  display_name: BOE Technology Group Co., Ltd.
-  logo: false
 bomar-interconnect:
   display_name: Bomar Interconnect
   logo: false
@@ -636,9 +483,6 @@ bosch:
   display_name: Bosch
 bouffalo-lab:
   display_name: Bouffalo Lab
-boundary:
-  display_name: Boundary Devices Inc.
-  logo: false
 boundary-devices:
   reason: acquisition
   see: ezurio
@@ -669,9 +513,6 @@ broadcast-win:
   logo: false
 broadcom:
   display_name: Broadcom
-broadmobi:
-  display_name: Shanghai Broadmobi Communication Technology Co.,Ltd.
-  logo: false
 bsh:
   display_name: BSH
 bticino:
@@ -710,9 +551,6 @@ cal-test-electronics:
   logo: false
 calao:
   display_name: Calao
-calaosystems:
-  display_name: CALAO Systems SAS
-  logo: false
 califia-lighting:
   display_name: Califia Lighting
   logo: false
@@ -727,23 +565,11 @@ calxeda:
 cambridge:
   display_name: Cambridge
   logo: false
-canaan:
-  display_name: Canaan, Inc.
-  logo: false
 canaan-technology:
   display_name: Canaan Technology
   logo: false
-caninos:
-  display_name: Caninos Loucos Program
-  logo: false
-canis:
-  display_name: Canis Automotive Labs
-  logo: false
 capacitech:
   display_name: Capacitech
-  logo: false
-capella:
-  display_name: Capella Microsystems, Inc
   logo: false
 caplugs:
   display_name: Caplugs
@@ -760,12 +586,6 @@ carlo-gavazzi:
 casco-amphenol:
   display_name: Casco / Amphenol
   logo: false
-cascoda:
-  display_name: Cascoda, Ltd.
-  logo: false
-catalyst:
-  display_name: Catalyst Semiconductor, Inc.
-  logo: false
 cavium:
   display_name: Cavium
 ccs:
@@ -777,17 +597,11 @@ cde:
 cdns:
   reason: alias
   see: cadence-design-systems
-cdtech:
-  display_name: CDTech(H.K.) Electronics Limited
-  logo: false
 cei:
   display_name: CEI
   logo: false
 cel:
   display_name: CEL
-  logo: false
-cellwise:
-  display_name: CellWise Microelectronics Co., Ltd
   logo: false
 central-semiconductor:
   display_name: Central Semiconductor
@@ -797,12 +611,6 @@ ceva:
   see: ceva-technologies
 ceva-technologies:
   display_name: CEVA Technologies
-checkpoint:
-  display_name: Check Point Software Technologies Ltd.
-  logo: false
-chefree:
-  display_name: Chefree Technology Corp.
-  logo: false
 chemtronics:
   display_name: Chemtronics
   logo: false
@@ -821,35 +629,11 @@ chip-quik:
 chipcon:
   display_name: Chipcon
   logo: false
-chipidea:
-  display_name: Chipidea, Inc
-  logo: false
-chipone:
-  display_name: ChipOne
-  logo: false
 chipsee:
   display_name: Chipsee
   logo: false
-chipsemi:
-  display_name: Chipsemi Corp.
-  logo: false
-chipspark:
-  display_name: ChipSPARK
-  logo: false
-chrontel:
-  display_name: Chrontel, Inc.
-  logo: false
-chrp:
-  display_name: Common Hardware Reference Platform
-  logo: false
-chunghwa:
-  display_name: Chunghwa Picture Tubes Ltd.
-  logo: false
 chuwi:
   display_name: CHUWI
-ciaa:
-  display_name: Computadora Industrial Abierta Argentina
-  logo: false
 ciclon-semiconductor:
   display_name: Ciclon Semiconductor
   logo: false
@@ -871,9 +655,6 @@ cirrus:
   see: cirrus-logic
 cirrus-logic:
   display_name: Cirrus Logic
-cisco:
-  display_name: Cisco Systems, Inc.
-  logo: false
 citel:
   display_name: CITEL
   logo: false
@@ -892,12 +673,6 @@ cml-microcircuits:
   logo: false
 cnc-tech:
   display_name: CNC Tech
-  logo: false
-cnm:
-  display_name: Chips&Media, Inc.
-  logo: false
-cnxt:
-  display_name: Conexant Systems, Inc.
   logo: false
 code-red-technologies:
   display_name: Code Red Technologies
@@ -970,36 +745,21 @@ coral:
 coredevices:
   display_name: Core Devices LLC
   logo: false
-coreriver:
-  display_name: CORERIVER Semiconductor Co.,Ltd.
-  logo: false
 cornell-dubilier:
   display_name: Cornell Dubilier
   logo: false
 corning:
   display_name: Corning
-corpro:
-  display_name: Chengdu Corpro Technology Co., Ltd.
-  logo: false
 cortina:
   display_name: Cortina
 cosel:
   display_name: Cosel
-  logo: false
-cosmic:
-  display_name: Cosmic Circuits
   logo: false
 coto-technology:
   display_name: Coto Technology
   logo: false
 cowfish-studios:
   display_name: Cowfish Studios
-  logo: false
-crane:
-  display_name: Crane Connectivity Solutions
-  logo: false
-creative:
-  display_name: Creative Technology Ltd
   logo: false
 cree-led:
   display_name: Cree LED
@@ -1018,17 +778,11 @@ crowd-supply:
   logo: false
 croxel:
   display_name: Croxel
-crystalfontz:
-  display_name: Crystalfontz America, Inc.
-  logo: false
 crystek-corporation:
   display_name: Crystek Corporation
   logo: false
 csb:
   display_name: CSB
-  logo: false
-csky:
-  display_name: Hangzhou C-SKY Microsystems Co., Ltd
   logo: false
 csq:
   display_name: CSQ
@@ -1066,9 +820,6 @@ d3-semiconductor:
 dailywell:
   display_name: Dailywell
   logo: false
-dallas:
-  display_name: Maxim Integrated Products (formerly Dallas Semiconductor)
-  logo: false
 dallas-semiconductor:
   display_name: Dallas Semiconductor
   logo: false
@@ -1077,12 +828,6 @@ daniels-manufacturing:
   logo: false
 daqifi:
   display_name: DAQiFi
-  logo: false
-dataimage:
-  display_name: DataImage, Inc.
-  logo: false
-davicom:
-  display_name: DAVICOM Semiconductor, Inc.
   logo: false
 davies-molding:
   display_name: Davies Molding
@@ -1110,9 +855,6 @@ dell:
 delphi:
   display_name: Delphi
   logo: false
-delta:
-  display_name: Delta Electronics, Inc.
-  logo: false
 delta-electronics:
   display_name: Delta Electronics
   logo: false
@@ -1122,28 +864,16 @@ deltron:
 dem-manufacturing:
   display_name: DEM Manufacturing
   logo: false
-denx:
-  display_name: Denx Software Engineering
-  logo: false
 desco:
   display_name: Desco
   logo: false
 design-gateway:
   display_name: Design Gateway
   logo: false
-devantech:
-  display_name: Devantech, Ltd.
-  logo: false
 devboards-de:
   display_name: Devboards
-dfi:
-  display_name: DFI Inc.
-  logo: false
 dfrobot:
   display_name: DFRobot
-dh:
-  display_name: DH electronics GmbH
-  logo: false
 dh-electronics:
   display_name: DH Electronics
 dhelectronics:
@@ -1174,17 +904,11 @@ digital-view:
 diode-laser-concepts:
   display_name: Diode Laser Concepts
   logo: false
-diodes:
-  display_name: Diodes Incorporated
-  logo: false
 diodes-delight:
   display_name: Diodes Delight
   logo: false
 diodes-incorporated:
   display_name: Diodes Incorporated
-dioo:
-  display_name: Dioo Microcircuit Co., Ltd
-  logo: false
 dioo-microcircuits:
   display_name: DIOO Microcircuits
 diotec-semiconductor:
@@ -1197,32 +921,17 @@ display-visions:
 displaytech:
   display_name: Displaytech
   logo: false
-dlc:
-  display_name: DLC Display Co., Ltd.
-  logo: false
 dlg:
   reason: alias
   see: dialog-semiconductor
-dlink:
-  display_name: D-Link Corporation
-  logo: false
 dlp-design:
   display_name: DLP Design
   logo: false
 dmc-tools:
   display_name: DMC Tools
   logo: false
-dmo:
-  display_name: Data Modul AG
-  logo: false
 doiting:
   display_name: Doctors of Intelligence & Technology
-  logo: false
-domintech:
-  display_name: Domintech Co., Ltd.
-  logo: false
-dongwoon:
-  display_name: Dongwoon Anatech
   logo: false
 doodle-labs:
   display_name: Doodle Labs
@@ -1237,9 +946,6 @@ dserve:
 duracell:
   display_name: Duracell
   logo: false
-dynaimage:
-  display_name: Dyna-Image
-  logo: false
 e-peas:
   display_name: e-peas
   logo: false
@@ -1247,9 +953,6 @@ e-switch:
   display_name: E-Switch
 e-t-a-circuit-breakers:
   display_name: E-T-A Circuit Breakers
-  logo: false
-ea:
-  display_name: Embedded Artists AB
   logo: false
 eagle-picher:
   display_name: Eagle-Picher
@@ -1267,22 +970,13 @@ easysync:
   logo: false
 eaton:
   display_name: Eaton
-ebang:
-  display_name: Zhejiang Ebang Communication Co., Ltd
-  logo: false
 ebm-papst:
   display_name: ebm-papst
-  logo: false
-ebs-systart:
-  display_name: EBS-SYSTART GmbH
   logo: false
 ebv:
   display_name: EBV Elektronik
 ebyte:
   display_name: EBYTE
-eckelmann:
-  display_name: Eckelmann AG
-  logo: false
 ecount-embedded:
   display_name: eCOUNT Embedded
   logo: false
@@ -1296,14 +990,8 @@ edge-tpu:
   logo: false
 edgeble:
   display_name: Edgeble AI
-edt:
-  display_name: Emerging Display Technologies
-  logo: false
 ee-tools:
   display_name: EE Tools
-  logo: false
-eeti:
-  display_name: eGalax_eMPIA Technology Inc
   logo: false
 eets:
   display_name: EETS
@@ -1316,12 +1004,6 @@ efinix:
   display_name: Efinix
 egis:
   display_name: Egis Technology Inc
-  logo: false
-einfochips:
-  display_name: Einfochips
-  logo: false
-elan:
-  display_name: Elan Microelectronic Corp.
   logo: false
 electric-imp:
   display_name: Electric Imp
@@ -1344,12 +1026,6 @@ element14:
   see: element-14
 elgin:
   display_name: Elgin
-elida:
-  display_name: Shenzhen Elida Technology Co., Ltd.
-  logo: false
-elimo:
-  display_name: Elimo Engineering Ltd.
-  logo: false
 elna:
   display_name: Elna
   logo: false
@@ -1364,9 +1040,6 @@ embedfire:
 embedsky:
   display_name: Guangdong Embedsky Technology
   logo: false
-embest:
-  display_name: Shenzhen Embest Technology Co., Ltd.
-  logo: false
 emcraft-systems:
   display_name: Emcraft
 emerson-connectivity-solutions:
@@ -1374,29 +1047,17 @@ emerson-connectivity-solutions:
   logo: false
 emlid:
   display_name: Emlid
-emmicro:
-  display_name: EM Microelectronic
-  logo: false
 emo-systems:
   display_name: EMO Systems
   logo: false
 empire:
   display_name: Empire ElectroniX
   logo: false
-empire-electronix:
-  display_name: Empire Electronix
-  logo: false
 empower-semiconductor:
   display_name: Empower Semiconductor
   logo: false
-emtrion:
-  display_name: emtrion GmbH
-  logo: false
 enclustra:
   display_name: Enclustra
-endless:
-  display_name: Endless Mobile, Inc.
-  logo: false
 ene:
   reason: alias
   see: ene-technology
@@ -1404,9 +1065,6 @@ ene-technology:
   display_name: ENE Technology
 energy-micro:
   display_name: Energy Micro
-  logo: false
-energymicro:
-  display_name: Silicon Laboratories (formerly Energy Micro AS)
   logo: false
 engicam:
   display_name: Engicam
@@ -1420,12 +1078,6 @@ envox-experimental-zone:
   logo: false
 epc-space:
   display_name: EPC Space
-  logo: false
-epcos:
-  display_name: EPCOS AG
-  logo: false
-epfl:
-  display_name: Ecole Polytechnique Fédérale de Lausanne
   logo: false
 epson:
   display_name: Epson
@@ -1448,9 +1100,6 @@ ess-technology:
 essentra-components:
   display_name: Essentra Components
   logo: false
-est:
-  display_name: ESTeem Wireless Modems
-  logo: false
 esterline:
   display_name: Esterline
   logo: false
@@ -1468,37 +1117,19 @@ eti-systems:
 etron-technology:
   display_name: Etron Technology
   logo: false
-ettus:
-  display_name: NI Ettus Research
-  logo: false
-eukrea:
-  display_name: Eukréa Electromatique
-  logo: false
 europe-chemi-con:
   display_name: Europe Chemi-Con
   logo: false
 eurotech:
   display_name: Eurotech
   logo: false
-everest:
-  display_name: Everest Semiconductor Co. Ltd.
-  logo: false
 everlight:
   display_name: Everlight
 everpro-technologies:
   display_name: EverPro Technologies
   logo: false
-everspin:
-  display_name: Everspin Technologies, Inc.
-  logo: false
 everspin-technologies:
   display_name: Everspin Technologies
-  logo: false
-evervision:
-  display_name: Evervision Electronics Co. Ltd.
-  logo: false
-exar:
-  display_name: Exar Corporation
   logo: false
 exascend:
   display_name: Exascend
@@ -1509,45 +1140,27 @@ excamera-labs:
 excelsys:
   display_name: Excelsys
   logo: false
-excito:
-  display_name: Excito
-  logo: false
 extech:
   display_name: Extech
   logo: false
 eyecloud-ai:
   display_name: EyeCloud AI
   logo: false
-ezchip:
-  display_name: EZchip Semiconductor
-  logo: false
 ezurio:
   display_name: Ezurio
 f-secure:
   display_name: F-Secure
   logo: false
-facebook:
-  display_name: Facebook (deprecated, use meta)
-  logo: false
 fair-rite:
   display_name: Fair-Rite
-  logo: false
-fairphone:
-  display_name: Fairphone B.V.
   logo: false
 fanke:
   display_name: FANKE
 fanstel:
   display_name: Fanstel
   logo: false
-faraday:
-  display_name: Faraday Technology Corporation
-  logo: false
 fascomp:
   display_name: Fascomp
-  logo: false
-fastrax:
-  display_name: Fastrax Oy
   logo: false
 fastron:
   display_name: Fastron
@@ -1555,35 +1168,17 @@ fastron:
 fci-automotive:
   display_name: FCI Automotive
   logo: false
-fcs:
-  display_name: Fairchild Semiconductor
-  logo: false
 fdi:
   display_name: FDI
   logo: false
-feixin:
-  display_name: Shenzhen Feixin Photoelectic Co., Ltd
-  logo: false
-feiyang:
-  display_name: Shenzhen Fly Young Technology Co.,LTD.
-  logo: false
 ferrocore:
   display_name: FERROCORE
-  logo: false
-festo:
-  display_name: Festo SE & Co. KG
-  logo: false
-fii:
-  display_name: Foxconn Industrial Internet
   logo: false
 fingerprints:
   display_name: Fingerprints
   logo: false
 finisar-corporation:
   display_name: Finisar Corporation
-  logo: false
-fintek:
-  display_name: Feature Integration Technology Inc.
   logo: false
 firefly:
   reason: alias
@@ -1633,9 +1228,6 @@ fremont-micro-devices:
   display_name: Fremont Micro Devices
 frequency-management-international:
   display_name: Frequency Management International
-frida:
-  display_name: Shenzhen Frida LCD Co., Ltd.
-  logo: false
 friendlyarm:
   display_name: Friendly ARM
 friendlyelec:
@@ -1648,9 +1240,6 @@ frontgrade:
 fsl:
   reason: alias
   see: freescale
-ftdi:
-  display_name: Future Technology Devices International Ltd.
-  logo: false
 ftdi-chip:
   display_name: FTDI Chip
 fujitsu:
@@ -1671,9 +1260,6 @@ g-d:
 gaisler:
   reason: alias
   see: frontgrade
-galaxycore:
-  display_name: Galaxycore, Inc.
-  logo: false
 gameforce:
   display_name: Gameforce
   logo: false
@@ -1686,9 +1272,6 @@ gateworks:
   display_name: Gateworks
 gct:
   display_name: GCT
-gcw:
-  display_name: Game Consoles Worldwide
-  logo: false
 gd:
   reason: alias
   see: gigadevice
@@ -1700,33 +1283,15 @@ ge-m-c:
   logo: false
 geekbuying:
   display_name: Geekbuying
-gef:
-  display_name: GE Fanuc Intelligent Platforms Embedded Systems, Inc.
-  logo: false
-gefanuc:
-  display_name: GE Fanuc Intelligent Platforms Embedded Systems, Inc.
-  logo: false
-gemei:
-  display_name: Gemei Digital Technology Co., Ltd.
-  logo: false
 general-electric:
   display_name: General Electric
 genesic-semiconductor:
   display_name: GeneSiC Semiconductor
   logo: false
-geniatech:
-  display_name: Geniatech, Inc.
-  logo: false
 geyer-electronic:
   display_name: Geyer Electronic
 ghi-electronics:
   display_name: GHI Electronics
-  logo: false
-giantec:
-  display_name: Giantec Semiconductor, Inc.
-  logo: false
-giantplus:
-  display_name: Giantplus Technology Co., Ltd.
   logo: false
 gigadevice:
   display_name: GigaDevice
@@ -1745,17 +1310,8 @@ global-connector-technology:
 global-specialties:
   display_name: Global Specialties
   logo: false
-globalscale:
-  display_name: Globalscale Technologies, Inc.
-  logo: false
 globalscale-technologies:
   display_name: Globalscale Technologies
-globaltop:
-  display_name: GlobalTop Technology, Inc.
-  logo: false
-gmt:
-  display_name: Global Mixed-mode Technology, Inc.
-  logo: false
 good-display:
   display_name: Good Display
 gooddisplay:
@@ -1789,18 +1345,12 @@ greenliant:
   logo: false
 grinn:
   display_name: Grinn
-grmn:
-  display_name: Garmin Limited
-  logo: false
 groboards:
   display_name: Groboards
 gscoolink-microelectronics:
   display_name: GSCoolink Microelectronics
 gsi-technology:
   display_name: GSI Technology
-  logo: false
-gss:
-  display_name: Gas Sensing Solutions Ltd.
   logo: false
 guerrilla-rf:
   display_name: Guerrilla RF
@@ -1821,22 +1371,13 @@ halo-electronics:
 halo-microelectronics:
   display_name: Halo Microelectronics
   logo: false
-hamamatsu:
-  display_name: Hamamatsu Photonics K.K.
-  logo: false
 hamamatsu-photonics:
   display_name: Hamamatsu Photonics
 hammond-manufacturing:
   display_name: Hammond Manufacturing
   logo: false
-hannstar:
-  display_name: HannStar Display Corporation
-  logo: false
 hantronix:
   display_name: Hantronix
-  logo: false
-haoyu:
-  display_name: Haoyu Microelectronic Co. Ltd.
   logo: false
 haoyu-electronics:
   display_name: HAOYU Electronics
@@ -1849,9 +1390,6 @@ harwin:
   display_name: Harwin
 hatch-lighting:
   display_name: Hatch Lighting
-  logo: false
-hazard3:
-  display_name: Hazard3 by Luke Wren
   logo: false
 hdgc:
   display_name: HDGC
@@ -1879,29 +1417,14 @@ hexiwear:
 heyco:
   display_name: Heyco
   logo: false
-hideep:
-  display_name: HiDeep Inc.
-  logo: false
-himax:
-  display_name: Himax Technologies, Inc.
-  logo: false
 hirose-electric:
   display_name: Hirose Electric
-hirschmann:
-  display_name: Hirschmann Automation and Control GmbH
-  logo: false
 hisilicon:
   display_name: HiSilicon
-hit:
-  display_name: Hitachi Ltd.
-  logo: false
 hitachi:
   display_name: Hitachi
 hitachi-metals:
   display_name: Hitachi Metals
-  logo: false
-hitex:
-  display_name: Hitex Development Tools
   logo: false
 hms-networks:
   display_name: HMS Networks
@@ -1912,28 +1435,16 @@ hobbs-honeywell:
 hologram:
   display_name: Hologram
   logo: false
-holt:
-  display_name: Holt Integrated Circuits, Inc.
-  logo: false
 holtek:
   display_name: Holtek
 holyiot:
   display_name: Holyiot
-honestar:
-  display_name: Honestar Technologies Co., Ltd.
-  logo: false
 honeywell:
   display_name: Honeywell
 hoperf:
   display_name: HopeRF
 hoperun:
   display_name: HopeRun
-  logo: false
-hp:
-  display_name: Hewlett Packard
-  logo: false
-hsg:
-  display_name: HannStar Display Co.
   logo: false
 htc:
   display_name: HTC
@@ -1942,18 +1453,6 @@ huber-suhner:
   logo: false
 hugging-face:
   display_name: Hugging Face
-hugsun:
-  display_name: Shenzhen Hugsun Technology Co. Ltd.
-  logo: false
-hwacom:
-  display_name: HwaCom Systems Inc.
-  logo: false
-hycon:
-  display_name: Hycon Technology Corp.
-  logo: false
-hydis:
-  display_name: Hydis Technologies
-  logo: false
 hynitron:
   display_name: Hynitron
 hyperstone:
@@ -1961,16 +1460,10 @@ hyperstone:
   logo: false
 hyundai:
   display_name: Hyundai
-hzgrow:
-  display_name: Hangzhou Grow Technology Co., Ltd.
-  logo: false
 i-pex:
   display_name: I-PEX
 i-syst:
   display_name: I-SYST
-  logo: false
-i2se:
-  display_name: I2SE GmbH
   logo: false
 iar:
   display_name: IAR
@@ -1987,22 +1480,13 @@ ibm:
 ice-components:
   display_name: ICE Components
   logo: false
-icplus:
-  display_name: IC Plus Corp.
-  logo: false
 idec:
   display_name: IDEC
-  logo: false
-idt:
-  display_name: Integrated Device Technologies, Inc.
   logo: false
 iei:
   display_name: IEI Technology
 iet-labs:
   display_name: IET Labs
-  logo: false
-ifi:
-  display_name: Ingenieurburo Fur Ic-Technologie (I/F/I)
   logo: false
 ignion:
   display_name: Ignion
@@ -2015,17 +1499,8 @@ ilitek:
 ilumi:
   display_name: ilumi
   logo: false
-img:
-  display_name: Imagination Technologies Ltd.
-  logo: false
-imi:
-  display_name: Integrated Micro-Electronics Inc.
-  logo: false
 in-circuit:
   display_name: In-Circuit
-incircuit:
-  display_name: In-Circuit GmbH
-  logo: false
 indiedroid:
   display_name: IndieDroid
 industrial-shields:
@@ -2037,27 +1512,15 @@ industruino:
 inet:
   display_name: iNet
   logo: false
-inet-tek:
-  display_name: Shenzhen iNet Mobile Internet Technology Co., Ltd
-  logo: false
 infineon:
   display_name: Infineon
-inforce:
-  display_name: Inforce Computing
-  logo: false
 inforce-computing:
   display_name: Inforce Computing
-  logo: false
-ingenic:
-  display_name: Ingenic Semiconductor
   logo: false
 innblue:
   display_name: innblue
 innodisk:
   display_name: Innodisk
-innolux:
-  display_name: Innolux Corporation
-  logo: false
 innophase:
   display_name: InnoPhase
   logo: false
@@ -2069,9 +1532,6 @@ inolux:
   logo: false
 inrcore:
   display_name: iNRCORE
-inside-secure:
-  display_name: INSIDE Secure
-  logo: false
 insight-sip:
   display_name: Insight SiP
   logo: false
@@ -2079,9 +1539,6 @@ insignal:
   display_name: InSignal
 inspired-led:
   display_name: Inspired LED
-  logo: false
-inspur:
-  display_name: Inspur Corporation
   logo: false
 integrated-device-technology:
   display_name: Integrated Device Technology
@@ -2092,9 +1549,6 @@ intel:
   display_name: Intel
 intelligenate:
   display_name: Intelligenate
-  logo: false
-intercontrol:
-  display_name: Inter Control Group
   logo: false
 interfet:
   display_name: InterFET
@@ -2122,9 +1576,6 @@ inversepath:
 io-audio-technologies:
   display_name: Io Audio Technologies
   logo: false
-iom:
-  display_name: Iomega Corporation
-  logo: false
 iomega:
   display_name: Iomega
 iotex:
@@ -2138,12 +1589,6 @@ iqd:
   logo: false
 isee:
   display_name: ISEE
-isentek:
-  display_name: Isentek Inc.
-  logo: false
-isil:
-  display_name: Intersil
-  logo: false
 iso-tip:
   display_name: Iso-Tip
   logo: false
@@ -2152,12 +1597,6 @@ isotope-engineering:
   logo: false
 issi:
   display_name: ISSI
-ist:
-  display_name: Innovative Sensor Technology IST AG
-  logo: false
-istech:
-  display_name: Integrated Solutions Technology Inc.
-  logo: false
 ite:
   reason: alias
   see: ite-tech
@@ -2171,22 +1610,10 @@ itt-cannon:
 itw-switches:
   display_name: ITW Switches
   logo: false
-ivo:
-  display_name: InfoVision Optoelectronics Kunshan Co. Ltd.
-  logo: false
-iwave:
-  display_name: iWave Systems Technologies Pvt. Ltd.
-  logo: false
 iwave-systems:
   display_name: iWave Systems
 jae-electronics:
   display_name: JAE Electronics
-jdi:
-  display_name: Japan Display Inc.
-  logo: false
-jedec:
-  display_name: JEDEC Solid State Technology Association
-  logo: false
 jedec-solid-state-technology-association:
   display_name: jedec_solid_state_technology_association
 jesurun:
@@ -2194,12 +1621,6 @@ jesurun:
   logo: false
 jethome:
   display_name: JetHome
-jhd:
-  display_name: Shenzhen Jinghua Displays Electronics Co., Ltd.
-  logo: false
-jianda:
-  display_name: Jiandangjing Technology Co., Ltd.
-  logo: false
 jkl-components:
   display_name: JKL Components
   logo: false
@@ -2224,20 +1645,11 @@ ka-ro-electronics:
 kaga-electronics:
   display_name: Kaga Electronics
   logo: false
-kam:
-  display_name: Kamstrup A/S
-  logo: false
 kamaya:
   display_name: Kamaya
   logo: false
-karo:
-  display_name: Ka-Ro electronics GmbH
-  logo: false
 kds-daishinku-corp:
   display_name: KDS Daishinku Corp.
-keithkoep:
-  display_name: Keith & Koep GmbH
-  logo: false
 keko-varicon:
   display_name: KEKO Varicon
   logo: false
@@ -2262,32 +1674,17 @@ keystone-electronics:
   display_name: Keystone Electronics
 khadas:
   display_name: Khadas
-kiebackpeter:
-  display_name: Kieback & Peter GmbH
-  logo: false
 kincony:
   display_name: KinCony
-kinetic:
-  display_name: Kinetic Technologies
-  logo: false
 kinetic-technologies:
   display_name: Kinetic Technologies
 kingbright:
   display_name: Kingbright
-kingdisplay:
-  display_name: King & Display Technology Co., Ltd.
-  logo: false
-kingnovel:
-  display_name: Kingnovel Technology Co., Ltd.
-  logo: false
 kings-win:
   display_name: Kings-Win
   logo: false
 kingston:
   display_name: Kingston
-kionix:
-  display_name: Kionix, Inc.
-  logo: false
 kioxia:
   display_name: Kioxia
   logo: false
@@ -2308,14 +1705,8 @@ kobiconn:
 kobitone:
   display_name: Kobitone
   logo: false
-kobo:
-  display_name: Rakuten Kobo Inc.
-  logo: false
 kobol:
   display_name: Kobol
-koe:
-  display_name: Kaohsiung Opto-Electronics Inc.
-  logo: false
 konica-minolta:
   display_name: Konica Minolta
   logo: false
@@ -2330,19 +1721,10 @@ krakenrf:
 krtkl:
   display_name: krtkl
   logo: false
-kvaser:
-  display_name: Kvaser
-  logo: false
-kvg:
-  display_name: Kverneland Group
-  logo: false
 kws:
   display_name: KWS Computersysteme
 kycon:
   display_name: Kycon
-kyo:
-  display_name: Kyocera Corporation
-  logo: false
 kyocera-avx:
   display_name: KYOCERA AVX
 l-g:
@@ -2367,9 +1749,6 @@ lambda-nu:
 lamobo:
   display_name: Lamobo
   logo: false
-lantiq:
-  display_name: Lantiq Semiconductor
-  logo: false
 lantronix:
   display_name: Lantronix
   logo: false
@@ -2389,9 +1768,6 @@ lctech:
 leadertech:
   display_name: LeaderTech
   logo: false
-leadtek:
-  display_name: Shenzhen Leadtek Technology Co., Ltd.
-  logo: false
 lecroy:
   display_name: LeCroy
   logo: false
@@ -2403,9 +1779,6 @@ ledlink-optics:
   logo: false
 leetronics:
   display_name: leetronics
-  logo: false
-leez:
-  display_name: Leez
   logo: false
 lego:
   display_name: Lego
@@ -2424,20 +1797,11 @@ leopard-imaging:
   display_name: Leopard Imaging
 lg:
   display_name: LG
-lgphilips:
-  display_name: LG Display
-  logo: false
 libre-computer:
   display_name: Libre Computer
-libretech:
-  display_name: Shenzhen Libre Technology Co., Ltd
-  logo: false
 lichee-pi:
   reason: alias
   see: sipeed
-licheepi:
-  display_name: Lichee Pi
-  logo: false
 liebherr:
   display_name: Liebherr
 lightware-lidar:
@@ -2447,9 +1811,6 @@ lilygo:
   display_name: LILYGO
 lime-microsystems:
   display_name: Lime Microsystems
-  logo: false
-linaro:
-  display_name: Linaro Limited
   logo: false
 linear-integrated-systems:
   display_name: Linear Integrated Systems
@@ -2461,18 +1822,6 @@ linklayer:
   logo: false
 linksprite:
   display_name: LinkSprite
-linksys:
-  display_name: Belkin International, Inc. (Linksys)
-  logo: false
-linutronix:
-  display_name: Linutronix GmbH
-  logo: false
-linux:
-  display_name: Linux-specific binding
-  logo: false
-linx:
-  display_name: Linx Technologies
-  logo: false
 linx-technologies:
   display_name: Linx Technologies
 liontron:
@@ -2483,9 +1832,6 @@ liquid-instruments:
   logo: false
 lite-on:
   display_name: Lite-On
-liteon:
-  display_name: LiteOn OptoElectronics
-  logo: false
 litex:
   reason: alias
   see: enjoydigital
@@ -2494,25 +1840,10 @@ littelfuse:
 lixie-labs:
   display_name: Lixie Labs
   logo: false
-lltc:
-  display_name: Linear Technology Corporation
-  logo: false
 logic-pd:
   display_name: Logic PD
-logicpd:
-  display_name: Logic PD, Inc.
-  logo: false
-logictechno:
-  display_name: Logic Technologies Limited
-  logo: false
-longcheer:
-  display_name: Longcheer Technology (Shanghai) Co., Ltd.
-  logo: false
 lontium:
   display_name: Lontium
-loongson:
-  display_name: Loongson Technology Corporation Limited
-  logo: false
 lord-microstrain:
   display_name: LORD Microstrain
   logo: false
@@ -2523,9 +1854,6 @@ lowrisc:
   display_name: lowRISC
 lprs:
   display_name: LPRS
-  logo: false
-lsi:
-  display_name: LSI Corp. (LSI Logic)
   logo: false
 luatos:
   display_name: LuatOS
@@ -2551,17 +1879,8 @@ lumissil:
   logo: false
 luxonis:
   display_name: Luxonis
-lwn:
-  display_name: Liebherr-Werk Nenzing GmbH
-  logo: false
-lxa:
-  display_name: Linux Automation GmbH
-  logo: false
 m5stack:
   display_name: M5Stack
-macnica:
-  display_name: Macnica Americas
-  logo: false
 macom:
   display_name: MACOM
   logo: false
@@ -2590,12 +1909,6 @@ mallory-sonalert:
 mangopi:
   display_name: MangoPi
   logo: false
-mantix:
-  display_name: Mantix Display Technology Co.,Ltd.
-  logo: false
-mapleboard:
-  display_name: Mapleboard.org
-  logo: false
 marktech-optoelectronics:
   display_name: Marktech Optoelectronics
   logo: false
@@ -2616,9 +1929,6 @@ matrix-industries:
   logo: false
 matrix-orbital:
   display_name: Matrix Orbital
-  logo: false
-maxbotix:
-  display_name: MaxBotix Inc.
   logo: false
 maxim:
   reason: alias
@@ -2641,9 +1951,6 @@ maxtena:
 maxwell-technologies:
   display_name: Maxwell Technologies
   logo: false
-mbvl:
-  display_name: Mobiveil Inc.
-  logo: false
 mcc:
   display_name: MCC
   logo: false
@@ -2655,9 +1962,6 @@ mcube:
 mean-well:
   display_name: MEAN WELL
   logo: false
-meas:
-  display_name: Measurement Specialties
-  logo: false
 measurement-specialties:
   display_name: Measurement Specialties
 meatpi:
@@ -2666,17 +1970,11 @@ meatpi:
 mec-switches:
   display_name: MEC Switches
   logo: false
-mecer:
-  display_name: Mustek Limited
-  logo: false
 meder-electronic:
   display_name: MEDER electronic
   logo: false
 mediatek:
   display_name: MediaTek
-megachips:
-  display_name: MegaChips
-  logo: false
 meggitt-electronic-components:
   display_name: Meggitt Electronic Components
   logo: false
@@ -2687,12 +1985,6 @@ mele:
   display_name: MeLE
 melexis:
   display_name: Melexis
-melfas:
-  display_name: MELFAS Inc.
-  logo: false
-mellanox:
-  display_name: Mellanox Technologies
-  logo: false
 memsic:
   display_name: MEMSIC
 menda:
@@ -2703,14 +1995,8 @@ menlo:
 menlo-micro:
   display_name: Menlo Micro
   logo: false
-mentor:
-  display_name: Mentor Graphics
-  logo: false
 mentor-worldwide:
   display_name: Mentor Worldwide
-meraki:
-  display_name: Cisco Meraki, LLC
-  logo: false
 mercury-united-electronics:
   display_name: Mercury United Electronics
 merit-sensor:
@@ -2718,9 +2004,6 @@ merit-sensor:
   logo: false
 merrii:
   display_name: Merrii
-  logo: false
-meta:
-  display_name: Meta Platforms, Inc.
   logo: false
 metcal:
   display_name: Metcal
@@ -2735,9 +2018,6 @@ mg-chemicals:
 mh-connectors:
   display_name: MH Connectors
   logo: false
-micrel:
-  display_name: Micrel Inc.
-  logo: false
 micrium:
   display_name: Micrium
   logo: false
@@ -2747,9 +2027,6 @@ micro-commercial-components:
   display_name: Micro Commercial Components
 micro-crystal:
   display_name: Micro Crystal
-  logo: false
-microbit:
-  display_name: Micro:bit Educational Foundation
   logo: false
 microbus:
   display_name: microBUS
@@ -2761,9 +2038,6 @@ microchip:
 microchip-technology:
   reason: alias
   see: microchip
-microcrystal:
-  display_name: Micro Crystal AG
-  logo: false
 micron:
   reason: alias
   see: micron-technology
@@ -2778,9 +2052,6 @@ microsoft:
   display_name: Microsoft
 microstrain:
   display_name: Microstrain
-  logo: false
-microsys:
-  display_name: MicroSys Electronics GmbH
   logo: false
 microtherm-sentronic:
   display_name: Microtherm Sentronic
@@ -2807,22 +2078,10 @@ mill-max:
 mini-circuits:
   display_name: Mini-Circuits
   logo: false
-miniand:
-  display_name: Miniand Tech
-  logo: false
-minix:
-  display_name: MINIX Technology Ltd.
-  logo: false
 mips:
   display_name: MIPS
-miramems:
-  display_name: MiraMEMS Sensing Technology Co., Ltd.
-  logo: false
 mirror-semiconductor:
   display_name: Mirror Semiconductor
-mitsubishi:
-  display_name: Mitsubishi Electric Corporation
-  logo: false
 mitsubishi-electric:
   display_name: Mitsubishi Electric
   logo: false
@@ -2831,9 +2090,6 @@ mixtile:
   see: focalcrest
 mobix-labs:
   display_name: Mobix Labs
-  logo: false
-modtronix:
-  display_name: Modtronix Engineering
   logo: false
 molex:
   display_name: Molex
@@ -2850,12 +2106,6 @@ mornsun:
 morpheans:
   display_name: Morpheans
   logo: false
-mosaixtech:
-  display_name: Mosaix Technologies, Inc.
-  logo: false
-motorcomm:
-  display_name: Motorcomm Electronic Technology Co., Ltd.
-  logo: false
 motorola:
   display_name: Motorola
 mountain-switch:
@@ -2867,49 +2117,25 @@ move-x:
 movella:
   display_name: Movella
   logo: false
-moxa:
-  display_name: Moxa Inc.
-  logo: false
 mpd:
   display_name: MPD
-mpl:
-  display_name: MPL AG
-  logo: false
 mpression:
   display_name: Mpression
-  logo: false
-mps:
-  display_name: Monolithic Power Systems Inc.
   logo: false
 mqmaker:
   display_name: MQmaker
   logo: false
-mrvl:
-  display_name: Marvell Technology Group Ltd.
-  logo: false
 msi:
   display_name: MSI
-mstar:
-  display_name: MStar Semiconductor, Inc. (acquired by MediaTek Inc.)
-  logo: false
 mtconn-electronics:
   display_name: Mtconn Electronics
-mti:
-  display_name: Imagination Technologies Ltd. (formerly MIPS Technologies Inc.)
-  logo: false
 mueller-electric:
   display_name: Mueller Electric
-  logo: false
-multi-inno:
-  display_name: Multi-Inno Technology Co.,Ltd
   logo: false
 multicomp-pro:
   display_name: Multicomp Pro
 multitech:
   display_name: MultiTech
-  logo: false
-mundoreader:
-  display_name: Mundo Reader S.L.
   logo: false
 murata:
   display_name: Murata
@@ -2918,9 +2144,6 @@ murrelektronik:
   logo: false
 mxchip:
   display_name: MXCHIP
-mxicy:
-  display_name: Macronix International Co., Ltd.
-  logo: false
 myir:
   display_name: MYIR Tech
 myir-tech:
@@ -2928,9 +2151,6 @@ myir-tech:
   see: myir
 nanonics-te-connectivit:
   display_name: Nanonics / TE Connectivit
-  logo: false
-national:
-  display_name: National Semiconductor
   logo: false
 national-instruments:
   display_name: National Instruments
@@ -2940,17 +2160,11 @@ navitas-semiconductor:
 ndk:
   display_name: NDK
   logo: false
-nec:
-  display_name: NEC LCD Technologies, Ltd.
-  logo: false
 nec-relays:
   display_name: NEC Relays
   logo: false
 neocortec:
   display_name: NeoCortec
-  logo: false
-neonode:
-  display_name: Neonode Inc.
   logo: false
 neorv32:
   display_name: NEORV32
@@ -2960,23 +2174,8 @@ netburner:
 netduino:
   display_name: Netduino
   logo: false
-netgear:
-  display_name: NETGEAR
-  logo: false
-netlogic:
-  display_name: Broadcom Corporation (formerly NetLogic Microsystems)
-  logo: false
 netpower-technologies:
   display_name: NetPower Technologies
-  logo: false
-netron-dy:
-  display_name: Netron DY
-  logo: false
-netronix:
-  display_name: Netronix, Inc.
-  logo: false
-netxeon:
-  display_name: Shenzhen Netxeon Technology CO., LTD
   logo: false
 neuralaxy:
   display_name: Neuralaxy
@@ -2996,20 +2195,11 @@ new-energy:
 newae-technology:
   display_name: NewAE Technology
   logo: false
-neweast:
-  display_name: Guangdong Neweast Optoelectronics CO., LTD
-  logo: false
-newhaven:
-  display_name: Newhaven Display International
-  logo: false
 newhaven-display:
   display_name: Newhaven Display
   logo: false
 nexaiot:
   display_name: NexAIoT
-  logo: false
-nexbox:
-  display_name: Nexbox
   logo: false
 nexcobot:
   display_name: NexCOBOT
@@ -3019,9 +2209,6 @@ nexcom:
   logo: false
 nexperia:
   display_name: Nexperia
-nextthing:
-  display_name: Next Thing Co.
-  logo: false
 ni:
   display_name: NI
   logo: false
@@ -3046,14 +2233,8 @@ njr:
   logo: false
 nkk-switches:
   display_name: NKK Switches
-nlt:
-  display_name: NLT Technologies, Ltd.
-  logo: false
 nmb-technologies:
   display_name: NMB Technologies
-  logo: false
-nokia:
-  display_name: Nokia
   logo: false
 norcomp:
   display_name: NorComp
@@ -3078,14 +2259,8 @@ nuclei:
   see: nuclei-system-technology
 nuclei-system-technology:
   display_name: Nuclei System Technology
-nutsboard:
-  display_name: NutsBoard
-  logo: false
 nuvoton:
   display_name: Nuvoton
-nvd:
-  display_name: New Vision Display
-  logo: false
 nvidia:
   display_name: Nvidia
 nxp:
@@ -3095,9 +2270,6 @@ oceanic:
   logo: false
 ocp:
   display_name: Open Compute Project
-oct:
-  display_name: Octavo Systems LLC
-  logo: false
 octavo-systems:
   display_name: Octavo Systems
 odroid:
@@ -3108,19 +2280,10 @@ odu:
 ohmite:
   display_name: Ohmite
   logo: false
-okaya:
-  display_name: Okaya Electric America, Inc.
-  logo: false
-oki:
-  display_name: Oki Electric Industry Co., Ltd.
-  logo: false
 olimex:
   display_name: Olimex Ltd.
 olmatic:
   display_name: Olmatic
-  logo: false
-olpc:
-  display_name: One Laptop Per Child
   logo: false
 omnipresense:
   display_name: OmniPreSense
@@ -3140,24 +2303,12 @@ oncque:
 onion:
   display_name: Onion
   logo: false
-onnn:
-  display_name: ON Semiconductor Corp.
-  logo: false
 onsemi:
   display_name: Onsemi
-ontat:
-  display_name: On Tat Industrial Company
-  logo: false
-opalkelly:
-  display_name: Opal Kelly Incorporated
-  logo: false
 open-ai-lab:
   display_name: Open AI Lab
 openai:
   display_name: OpenAI
-opencores:
-  display_name: OpenCores.org
-  logo: false
 openhw-group:
   display_name: OpenHW Group
 openhwgroup:
@@ -3165,15 +2316,6 @@ openhwgroup:
   see: openhw-group
 openisa:
   display_name: OpenISA
-openrisc:
-  display_name: OpenRISC.io
-  logo: false
-openthread:
-  display_name: OpenThread.io
-  logo: false
-option:
-  display_name: Option NV
-  logo: false
 optosupply:
   display_name: OptoSupply
   logo: false
@@ -3182,26 +2324,11 @@ orange-pi:
   see: orangepi
 orangepi:
   display_name: Orange Pi
-oranth:
-  display_name: Shenzhen Oranth Technology Co., Ltd.
-  logo: false
-orcl:
-  display_name: Oracle Corporation
-  logo: false
 oring:
   display_name: ORing
   logo: false
 orion-fans:
   display_name: Orion Fans
-  logo: false
-orisetech:
-  display_name: Orise Technology
-  logo: false
-ortustech:
-  display_name: Ortus Technology Co., Ltd.
-  logo: false
-osddisplays:
-  display_name: OSD Displays
   logo: false
 osepp-electronics:
   display_name: OSEPP Electronics
@@ -3222,20 +2349,8 @@ otto:
   logo: false
 ouya:
   display_name: Ouya
-overkiz:
-  display_name: Overkiz SAS
-  logo: false
 overview:
   display_name: Overview
-  logo: false
-ovti:
-  display_name: OmniVision Technologies Inc.
-  logo: false
-oxsemi:
-  display_name: Oxford Semiconductor, Ltd.
-  logo: false
-ozzmaker:
-  display_name: OzzMaker
   logo: false
 pactec:
   display_name: PacTec
@@ -3253,9 +2368,6 @@ panduit:
   logo: false
 panjit:
   display_name: PANJIT
-parade:
-  display_name: Parade Technologies Inc.
-  logo: false
 parallax:
   display_name: Parallax
   logo: false
@@ -3269,12 +2381,6 @@ pcb-arts:
   logo: false
 pcbcupid:
   display_name: PCB Cupid
-  logo: false
-pda:
-  display_name: Precision Design Associates, Inc.
-  logo: false
-peacefair:
-  display_name: Ningbo Peacefair Electronic Technology Co., Ltd
   logo: false
 pegatron:
   display_name: Pegatron
@@ -3293,20 +2399,11 @@ peregrine:
 performance-motion-devices:
   display_name: Performance Motion Devices
   logo: false
-pericom:
-  display_name: Pericom Technology Inc.
-  logo: false
-pervasive:
-  display_name: Pervasive Displays, Inc.
-  logo: false
 pervasive-displays:
   display_name: Pervasive Displays
   logo: false
 phambili:
   display_name: Phambili
-  logo: false
-phicomm:
-  display_name: PHICOMM Co., Ltd.
   logo: false
 phihong:
   display_name: Phihong
@@ -3318,16 +2415,10 @@ phoenix-contact:
 phoenix-mecano:
   display_name: Phoenix Mecano
   logo: false
-phosense:
-  display_name: Beijing Phosense Electronic Technology Co., Ltd.
-  logo: false
 phytec:
   display_name: PHYTEC
 phytium:
   display_name: Phytium
-picochip:
-  display_name: Picochip Ltd
-  logo: false
 pimoroni:
   display_name: Pimoroni
 pine:
@@ -3335,46 +2426,16 @@ pine:
   see: pine64
 pine64:
   display_name: PINE64
-pineriver:
-  display_name: Shenzhen PineRiver Designs Co., Ltd.
-  logo: false
-pixart:
-  display_name: PixArt Imaging Inc.
-  logo: false
-pixcir:
-  display_name: PIXCIR MICROELECTRONICS Co., Ltd
-  logo: false
 pjrc:
   display_name: PJRC
-plantower:
-  display_name: Plantower Co., Ltd
-  logo: false
-plathome:
-  display_name: Plat'Home Co., Ltd.
-  logo: false
 plato:
   display_name: Plato
-  logo: false
-plda:
-  display_name: PLDA
   logo: false
 pletronics-inc-:
   display_name: Pletronics Inc.
   logo: false
-plx:
-  display_name: Broadcom Corporation (formerly PLX Technology)
-  logo: false
-ply:
-  display_name: Plymovent Group BV
-  logo: false
 pmdperformance-motion-devices:
   display_name: PMDPerformance Motion Devices
-  logo: false
-pni:
-  display_name: PNI Sensor Corporation
-  logo: false
-pocketbook:
-  display_name: PocketBook International SA
   logo: false
 polaroid:
   display_name: Polaroid
@@ -3387,15 +2448,6 @@ pomona-electronics:
   logo: false
 ponoor-experiments:
   display_name: Ponoor Experiments
-  logo: false
-portwell:
-  display_name: Portwell Inc.
-  logo: false
-poslab:
-  display_name: Poslab Technology Co., Ltd.
-  logo: false
-pov:
-  display_name: Point of View International B.V.
   logo: false
 power-integrations:
   display_name: Power Integrations
@@ -3415,27 +2467,15 @@ powercast:
 powerfilm:
   display_name: PowerFilm
   logo: false
-powertip:
-  display_name: Powertip Tech. Corp.
-  logo: false
-powervr:
-  display_name: PowerVR (deprecated, use img)
-  logo: false
 powkiddy:
   display_name: Powkiddy
 preci-dip:
   display_name: Preci-Dip
   logo: false
-primux:
-  display_name: Primux Trading, S.L.
-  logo: false
 princeton-university:
   display_name: Princeton University
 pro-wave-electronics:
   display_name: Pro-Wave Electronics
-  logo: false
-probox2:
-  display_name: PROBOX2 (by W2COMP Co., Ltd.)
   logo: false
 progranalog:
   display_name: ProGrAnalog
@@ -3449,55 +2489,28 @@ protektive-pak:
 proterial:
   display_name: Proterial
   logo: false
-prt:
-  display_name: Protonic Holland
-  logo: false
 psemi:
   display_name: pSemi
-  logo: false
-ptc:
-  display_name: Princeton Technology Corp.
   logo: false
 pui-audio:
   display_name: PUI Audio
   logo: false
 pulse-electronics:
   display_name: Pulse Electronics
-pulsedlight:
-  display_name: PulsedLight, Inc
-  logo: false
 pulser-electronics:
   display_name: PulseR Electronics
   logo: false
 purism:
   display_name: Purism
-puya:
-  display_name: Puya Semiconductor (Shanghai) Co., Ltd
-  logo: false
 pycom:
   display_name: Pycom
   logo: false
 q-tech:
   display_name: Q-Tech Corporation
   logo: false
-qca:
-  display_name: Qualcomm Atheros, Inc.
-  logo: false
 qcom:
   reason: alias
   see: qualcomm
-qemu:
-  display_name: QEMU, a generic and open source machine emulator and virtualizer
-  logo: false
-qi:
-  display_name: Qi Hardware
-  logo: false
-qiaodian:
-  display_name: QiaoDian XianShi Corporation
-  logo: false
-qihua:
-  display_name: Chengdu Kaixuan Information Technology Co., Ltd.
-  logo: false
 qnap:
   display_name: QNAP
 qoitech:
@@ -3544,9 +2557,6 @@ rak:
 rakwireless:
   reason: alias
   see: rak
-ralink:
-  display_name: Mediatek/Ralink Technology Corp.
-  logo: false
 ramtron:
   display_name: Ramtron
   logo: false
@@ -3558,14 +2568,8 @@ raspberrypi:
 raydiall-automotive:
   display_name: Raydiall Automotive
   logo: false
-raydium:
-  display_name: Raydium Semiconductor Corp.
-  logo: false
 raytac:
   display_name: Raytac Corporation
-rda:
-  display_name: Unisoc Communications, Inc.
-  logo: false
 realtek:
   display_name: Realtek
 rean:
@@ -3590,29 +2594,11 @@ reflex-ces:
 rego-electronics:
   display_name: Rego Electronics
   logo: false
-remarkable:
-  display_name: reMarkable AS
-  logo: false
 renata:
   display_name: Renata
   logo: false
 renesas:
   display_name: Renesas Electronics
-renode:
-  display_name: Antmicro's open source simulation and virtual development framework
-  logo: false
-rervision:
-  display_name: Shenzhen Rervision Technology Co., Ltd.
-  logo: false
-revotics:
-  display_name: Revolution Robotics, Inc. (Revotics)
-  logo: false
-rex:
-  display_name: iMX6 Rex Project
-  logo: false
-reyax:
-  display_name: Reyax Technology Co., Ltd.
-  logo: false
 rf-digital:
   display_name: RF Digital
   logo: false
@@ -3637,12 +2623,6 @@ rigado:
 rikomagic:
   display_name: Rikomagic
   logo: false
-riot:
-  display_name: Embest RIoT
-  logo: false
-riscv:
-  display_name: RISC-V Foundation
-  logo: false
 riverdi:
   display_name: Riverdi
   logo: false
@@ -3651,27 +2631,15 @@ robotis:
   logo: false
 rockchip:
   display_name: Rockchip
-rocktech:
-  display_name: ROCKTECH DISPLAYS LIMITED
-  logo: false
 rohm:
   reason: alias
   see: rohm-semiconductor
 rohm-semiconductor:
   display_name: ROHM Semiconductor
-ronbo:
-  display_name: Ronbo Electronics
-  logo: false
 ronetix:
   display_name: Ronetix
 ronoth:
   display_name: Ronoth
-roofull:
-  display_name: Shenzhen Roofull Technology Co, Ltd
-  logo: false
-roseapplepi:
-  display_name: RoseapplePi.org
-  logo: false
 rosenberger:
   display_name: Rosenberger
 rowley-associates:
@@ -3725,23 +2693,11 @@ sanyo-denki:
 sargent-tools:
   display_name: Sargent Tools
   logo: false
-satoz:
-  display_name: Satoz International Co., Ltd
-  logo: false
-sbs:
-  display_name: Smart Battery System
-  logo: false
 sc:
   reason: alias
   see: space-cubics
-scdz:
-  display_name: Shenzhen Qiushi IoT Technology Co., Ltd.
-  logo: false
 schaffner:
   display_name: Schaffner
-  logo: false
-schindler:
-  display_name: Schindler
   logo: false
 schmartboard:
   display_name: SchmartBoard
@@ -3779,9 +2735,6 @@ sei-robotics:
   display_name: Sei Robotics
 seiko-instruments:
   display_name: Seiko Instruments
-seirobotics:
-  display_name: Shenzhen SEI Robotics Co., Ltd
-  logo: false
 semiq:
   display_name: SemiQ
   logo: false
@@ -3801,9 +2754,6 @@ sensiml:
   logo: false
 sensirion:
   display_name: Sensirion
-sensortek:
-  display_name: Sensortek Technology Corporation
-  logo: false
 sensry:
   display_name: Sensry
 seoul-viosys:
@@ -3821,21 +2771,6 @@ serpac:
 sfera-labs:
   display_name: Sfera Labs
   logo: false
-sff:
-  display_name: Small Form Factor Committee
-  logo: false
-sgd:
-  display_name: Solomon Goldentek Display Corporation
-  logo: false
-sgmicro:
-  display_name: SG Micro Corp
-  logo: false
-sgx:
-  display_name: SGX Sensortech
-  logo: false
-sharp:
-  display_name: Sharp Corporation
-  logo: false
 sharp-microelectronics:
   display_name: Sharp Microelectronics
 shenzhen-huiding-technology:
@@ -3844,23 +2779,11 @@ shenzhen-huiding-technology:
 shenzhen-lc-technology:
   display_name: Shenzhen LC Technology
   logo: false
-shimafuji:
-  display_name: Shimafuji Electric, Inc.
-  logo: false
 shin-chin:
   display_name: Shin Chin
   logo: false
 shindengen:
   display_name: Shindengen
-  logo: false
-shiratech:
-  display_name: Shiratech Solutions
-  logo: false
-si-en:
-  display_name: Si-En Technology Ltd.
-  logo: false
-si-linux:
-  display_name: Silicon Linux Corporation
   logo: false
 sielaff:
   display_name: Sielaff
@@ -3881,33 +2804,15 @@ sifli:
 sigfox:
   display_name: Sigfox
   logo: false
-sigma:
-  display_name: Sigma Designs, Inc.
-  logo: false
 signetik:
   display_name: Signetik
   logo: false
 signoid:
   display_name: Signoid
   logo: false
-sii:
-  display_name: Seiko Instruments, Inc.
-  logo: false
-sil:
-  display_name: Silicon Image
-  logo: false
 silabs:
   reason: alias
   see: silicon-labs
-silead:
-  display_name: Silead Inc.
-  logo: false
-silergy:
-  display_name: Silergy Corp.
-  logo: false
-silex-insight:
-  display_name: Silex Insight
-  logo: false
 silex-technology:
   display_name: Silex Technology
   logo: false
@@ -3927,29 +2832,14 @@ silicon-microstructures:
 siliconbrite:
   display_name: SiliconBrite
   logo: false
-siliconfile:
-  display_name: Siliconfile Technologies lnc.
-  logo: false
-siliconmitus:
-  display_name: Silicon Mitus, Inc.
-  logo: false
 silinux:
   display_name: Silinux
-  logo: false
-silvaco:
-  display_name: Silvaco, Inc.
   logo: false
 silvertel:
   display_name: Silvertel
   logo: false
-simcom:
-  display_name: SIMCom Wireless Solutions Co., LTD
-  logo: false
 simpson-electric-company:
   display_name: Simpson Electric Company
-  logo: false
-simtek:
-  display_name: Cypress Semiconductor Corporation (Simtek Corporation)
   logo: false
 sinlinx:
   display_name: SINLINX
@@ -3957,19 +2847,10 @@ sinotop:
   display_name: Sinotop
 sinovoip:
   display_name: SinoVoip
-sinowealth:
-  display_name: Sino Wealth Electronic Ltd
-  logo: false
 sipeed:
   display_name: sipeed
 siretta:
   display_name: Siretta
-  logo: false
-sirf:
-  display_name: SiRF Technology, Inc.
-  logo: false
-sis:
-  display_name: Silicon Integrated Systems Corp.
   logo: false
 sitime:
   display_name: SiTime
@@ -3983,9 +2864,6 @@ skyetek:
   logo: false
 skyhigh-memory:
   display_name: SkyHigh Memory
-  logo: false
-skyworks:
-  display_name: Skyworks Solutions, Inc.
   logo: false
 skyworks-solutions:
   display_name: Skyworks Solutions
@@ -4002,9 +2880,6 @@ smart-group-holdings:
 smart-modular-technologies:
   display_name: SMART Modular Technologies
   logo: false
-smartlabs:
-  display_name: SmartLabs LLC
-  logo: false
 smartsemi:
   display_name: SMARTsemi
   logo: false
@@ -4014,15 +2889,9 @@ smartworx:
 smiths-interconnect:
   display_name: Smiths Interconnect
   logo: false
-smsc:
-  display_name: Standard Microsystems Corporation
-  logo: false
 snps:
   reason: alias
   see: synopsys
-sochip:
-  display_name: Shenzhen SoChip Technology Co., Ltd.
-  logo: false
 socionext:
   display_name: Socionext
 softing:
@@ -4060,9 +2929,6 @@ sonocotta:
   logo: false
 sonoff:
   display_name: SONOFF
-sony:
-  display_name: Sony Corporation
-  logo: false
 sony-spresense:
   display_name: Sony Spresense
   logo: false
@@ -4075,9 +2941,6 @@ space-cubics:
   display_name: Space Cubics
 spacemit:
   display_name: SPACEMIT
-spansion:
-  display_name: Spansion Inc.
-  logo: false
 sparkfun:
   display_name: SparkFun
 spectra-symbol:
@@ -4089,26 +2952,17 @@ spectrum-asp:
 spectrum-control:
   display_name: Spectrum Control
   logo: false
-spinalhdl:
-  display_name: SpinalHDL
-  logo: false
 spotsee:
   display_name: SpotSee
   logo: false
 sprague-goodman:
   display_name: Sprague Goodman
   logo: false
-sprd:
-  display_name: Spreadtrum Communications Inc.
-  logo: false
 spresense:
   display_name: Spresense
   logo: false
 sqfmi:
   display_name: SQFMI
-  logo: false
-sqn:
-  display_name: Sequans Communications
   logo: false
 square-d:
   display_name: Square D
@@ -4118,15 +2972,8 @@ sr-passives:
 sri-win:
   display_name: SRI-Win
   logo: false
-sst:
-  display_name: Silicon Storage Technology, Inc.
-  logo: false
 sst-sensing:
   display_name: SST Sensing
-  logo: false
-sstar:
-  display_name: Xiamen Xingchen(SigmaStar) Technology Co., Ltd. (formerly part of
-    MStar Semiconductor, Inc.)
   logo: false
 st:
   display_name: STMicroelectronics
@@ -4154,15 +3001,6 @@ starcat:
   logo: false
 starfive:
   display_name: StarFive Technology
-starry:
-  display_name: Starry Electronic Technology (ShenZhen) Co., LTD
-  logo: false
-startek:
-  display_name: Startek
-  logo: false
-ste:
-  display_name: ST-Ericsson
-  logo: false
 steelseries:
   display_name: SteelSeries
   logo: false
@@ -4171,9 +3009,6 @@ steminds:
   logo: false
 stereopi:
   display_name: StereoPi
-  logo: false
-stericsson:
-  display_name: ST-Ericsson
   logo: false
 stewart-connector:
   display_name: Stewart Connector
@@ -4188,9 +3023,6 @@ sullins-connector-solutions:
   display_name: Sullins Connector Solutions
 sumida:
   display_name: Sumida
-summit:
-  display_name: Summit microelectronics
-  logo: false
 sunbrite:
   display_name: Sunbrite
   logo: false
@@ -4202,14 +3034,8 @@ sundance-dsp:
 sunon:
   display_name: Sunon
   logo: false
-sunw:
-  display_name: Sun Microsystems, Inc
-  logo: false
 superior-sensor-technology:
   display_name: Superior Sensor Technology
-  logo: false
-supermicro:
-  display_name: Super Micro Computer, Inc.
   logo: false
 supertex:
   display_name: Supertex
@@ -4219,9 +3045,6 @@ susumu:
 sutajio-kosagi:
   display_name: Sutajio Kosagi
   logo: false
-swir:
-  display_name: Sierra Wireless
-  logo: false
 swissbit:
   display_name: Swissbit
   logo: false
@@ -4229,9 +3052,6 @@ switchcraft:
   display_name: Switchcraft
 symmetry-electronics:
   display_name: Symmetry Electronics
-  logo: false
-syna:
-  display_name: Synaptics Inc.
   logo: false
 synaptic:
   reason: alias
@@ -4282,37 +3102,19 @@ taoglas:
 tbs:
   reason: alias
   see: tbs-technologies
-tbs-biometrics:
-  display_name: Touchless Biometric Systems AG
-  logo: false
 tbs-technologies:
   display_name: TBS Technologies
-tcg:
-  display_name: Trusted Computing Group
-  logo: false
 tcl:
   display_name: TCL
   logo: false
-tcs:
-  display_name: Shenzhen City Tang Cheng Technology Co., Ltd.
-  logo: false
 tdk:
   display_name: TDK
-tdo:
-  display_name: Shangai Top Display Optoelectronics Co., Ltd
-  logo: false
 te-connectivity:
   display_name: TE Connectivity
 technexion:
   display_name: TechNexion
-technologic:
-  display_name: Technologic Systems
-  logo: false
 techspray:
   display_name: Techspray
-  logo: false
-techstar:
-  display_name: Shenzhen Techstar Electronics Co., Ltd.
   logo: false
 teensy:
   display_name: Teensy
@@ -4332,14 +3134,8 @@ telemecanique:
   logo: false
 telink:
   display_name: Telink
-telit:
-  display_name: Telit Cinterion
-  logo: false
 teltonika:
   display_name: Teltonika
-  logo: false
-tempo:
-  display_name: Tempo Semiconductor
   logo: false
 tempo-semiconductor:
   display_name: Tempo Semiconductor
@@ -4361,9 +3157,6 @@ tesla:
   display_name: Tesla
 texas-instruments:
   display_name: Texas Instruments
-tfc:
-  display_name: Three Five Corp
-  logo: false
 that-corporation:
   display_name: THAT Corporation
   logo: false
@@ -4374,23 +3167,14 @@ thecus:
   display_name: Thecus
 theobroma-systems:
   display_name: Theobroma Systems
-thine:
-  display_name: THine Electronics, Inc.
-  logo: false
 thine-solutions:
   display_name: THine Solutions
-  logo: false
-thingyjp:
-  display_name: thingy.jp
   logo: false
 thundercomm:
   display_name: Thundercomm
 ti:
   reason: alias
   see: texas-instruments
-tianma:
-  display_name: Tianma Micro-electronics Co., Ltd.
-  logo: false
 timbercon:
   display_name: Timbercon
   logo: false
@@ -4406,59 +3190,23 @@ tinycircuits:
 tinyvision-ai:
   display_name: tinyVision.ai
   logo: false
-titanmec:
-  display_name: Shenzhen Titan Micro Electronics Co., Ltd.
-  logo: false
-tlm:
-  display_name: Trusted Logic Mobility
-  logo: false
-tmt:
-  display_name: Tecon Microprocessor Technologies, LLC.
-  logo: false
 toby-churchill:
   display_name: Toby Churchill
 togglebit:
   display_name: Togglebit
   logo: false
-topeet:
-  display_name: Topeet
-  logo: false
 topic:
   display_name: Topic
-toppoly:
-  display_name: TPO (deprecated, use tpo)
-  logo: false
-topwise:
-  display_name: Topwise Communication Co., Ltd.
-  logo: false
 toradex:
   display_name: Toradex
-torex:
-  display_name: Torex Semiconductor Ltd.
-  logo: false
 torex-semiconductor:
   display_name: Torex Semiconductor
 toshiba:
   display_name: Toshiba
 toshiba-memory:
   display_name: Toshiba Memory
-toumaz:
-  display_name: Toumaz
-  logo: false
 tp-link:
   display_name: TP-Link
-tpk:
-  display_name: TPK U.S.A. LLC
-  logo: false
-tplink:
-  display_name: TP-LINK Technologies Co., Ltd.
-  logo: false
-tpo:
-  display_name: TPO
-  logo: false
-tq:
-  display_name: TQ-Systems GmbH
-  logo: false
 tq-systems:
   display_name: TQ Systems
 traco-power:
@@ -4489,18 +3237,6 @@ triquint-semiconductor:
 triune-systems:
   display_name: Triune Systems
   logo: false
-tronfy:
-  display_name: Tronfy
-  logo: false
-tronsmart:
-  display_name: Tronsmart
-  logo: false
-truly:
-  display_name: Truly Semiconductors Limited
-  logo: false
-tsd:
-  display_name: Theobroma Systems Design und Consulting GmbH
-  logo: false
 tst:
   display_name: TST
 tt-electronics:
@@ -4517,28 +3253,13 @@ twin-industries:
   logo: false
 txc:
   display_name: TXC
-tyan:
-  display_name: Tyan Computer Corporation
-  logo: false
 tyco-electronics:
   display_name: Tyco Electronics
   logo: false
 u-blox:
   display_name: u-blox
-u-boot:
-  display_name: U-Boot bootloader
-  logo: false
-ubnt:
-  display_name: Ubiquiti Networks
-  logo: false
-ucrobotics:
-  display_name: uCRobotics
-  logo: false
 udoo:
   display_name: UDOO
-ugoos:
-  display_name: Ugoos Industrial Co., Ltd.
-  logo: false
 ultrachip:
   display_name: UltraChip
   logo: false
@@ -4559,9 +3280,6 @@ union-semiconductor-international-limited:
 united-chemi-con:
   display_name: United Chemi-Con
   logo: false
-uniwest:
-  display_name: United Western Technologies Corp (UniWest)
-  logo: false
 up-board:
   display_name: UP Board
   reason: alias
@@ -4570,35 +3288,17 @@ up-bridge-the-gap:
   display_name: UP Bridge the Gap
   reason: alias
   see: aaeon
-upisemi:
-  display_name: uPI Semiconductor Corp.
-  logo: false
 upside-down-labs:
   display_name: Upside Down Labs
   logo: false
 ursaleo:
   display_name: UrsaLeo
   logo: false
-urt:
-  display_name: United Radiant Technology Corporation
-  logo: false
-usi:
-  display_name: Universal Scientific Industrial Co., Ltd.
-  logo: false
 utoo:
   display_name: UTOO
   logo: false
-v3:
-  display_name: V3 Semiconductor
-  logo: false
 vacuumschmelze:
   display_name: Vacuumschmelze
-  logo: false
-vaisala:
-  display_name: Vaisala
-  logo: false
-vamrs:
-  display_name: Vamrs Ltd.
   logo: false
 variscite:
   display_name: Variscite
@@ -4610,9 +3310,6 @@ vcc:
 vcc-gnd:
   reason: alias
   see: vcc
-vdl:
-  display_name: Van der Laan b.v.
-  logo: false
 vector:
   display_name: Vector
   logo: false
@@ -4621,9 +3318,6 @@ versarien-technologies:
   logo: false
 vertiq:
   display_name: Vertiq
-  logo: false
-via:
-  display_name: VIA Technologies, Inc.
   logo: false
 via-technologies:
   display_name: VIA Technologies
@@ -4635,9 +3329,6 @@ vicor:
   logo: false
 videostrong:
   display_name: Videostrong
-virtio:
-  display_name: Virtual I/O Device Specification, developed by the OASIS consortium
-  logo: false
 virtium:
   display_name: Virtium
   logo: false
@@ -4651,49 +3342,28 @@ vishay:
 vision-components:
   display_name: Vision Components
   logo: false
-visionox:
-  display_name: Visionox
-  logo: false
 visual-communications-company:
   display_name: Visual Communications Company
   logo: false
-vitesse:
-  display_name: Vitesse Semiconductor Corporation
-  logo: false
 vitrohm:
   display_name: Vitrohm
-  logo: false
-vivante:
-  display_name: Vivante Corporation
   logo: false
 vng:
   display_name: VNG
 vngiotlab:
   reason: alias
   see: vng
-vocore:
-  display_name: VoCore Studio
-  logo: false
-voipac:
-  display_name: Voipac Technologies s.r.o.
-  logo: false
 volex:
   display_name: Volex
   logo: false
 vorago-technologies:
   display_name: VORAGO Technologies
   logo: false
-vot:
-  display_name: Vision Optical Technology Co., Ltd.
-  logo: false
 vpg:
   display_name: VPG
   logo: false
 vscom:
   display_name: VSCOM
-vxt:
-  display_name: VXT Ltd
-  logo: false
 waber:
   display_name: Waber
   logo: false
@@ -4701,9 +3371,6 @@ wakefield-vette:
   display_name: Wakefield-Vette
 walsin:
   display_name: Walsin
-wand:
-  display_name: Wandbord (Technexion)
-  logo: false
 wandboard:
   display_name: Wandboard
   logo: false
@@ -4711,9 +3378,6 @@ waveshare:
   display_name: Waveshare Electronics
 wch:
   display_name: Nanjing Qinheng Microelectronics
-wd:
-  display_name: Western Digital Corp.
-  logo: false
 we:
   reason: alias
   see: wurth-elektronik
@@ -4748,9 +3412,6 @@ wexler:
 white-rodgers:
   display_name: White Rodgers
   logo: false
-whwave:
-  display_name: Shenzhen whwave Electronics, Inc.
-  logo: false
 wi2wi:
   display_name: Wi2Wi
   logo: false
@@ -4764,12 +3425,6 @@ winbond:
   display_name: Winbond
 winchester-interconnect:
   display_name: Winchester Interconnect
-  logo: false
-winsen:
-  display_name: Zhengzhou Winsen Electronics Technology Co., Ltd.
-  logo: false
-winstar:
-  display_name: Winstar Display Corp.
   logo: false
 wiremold:
   display_name: Wiremold
@@ -4787,23 +3442,8 @@ wiznet:
 wl-gore:
   display_name: WL Gore
   logo: false
-wlf:
-  display_name: Wolfson Microelectronics
-  logo: false
-wm:
-  display_name: Wondermedia Technologies, Inc.
-  logo: false
-wnc:
-  display_name: Wistron NeWeb Corporation
-  logo: false
-wobo:
-  display_name: Wobo
-  logo: false
 wokwi:
   display_name: Wokwi
-  logo: false
-wolfson:
-  display_name: Cirrus Logic, Inc. (formerly Wolfson Microelectronics plc)
   logo: false
 wolfspeed:
   display_name: Wolfspeed
@@ -4813,28 +3453,16 @@ woodhead:
   logo: false
 worldsemi:
   display_name: WORLDSEMI
-wurth:
-  display_name: Wurth Elektronik
-  logo: false
 wurth-elektronik:
   display_name: Würth Elektronik
-x-powers:
-  display_name: X-Powers
-  logo: false
 xalogic:
   display_name: XaLogic
   logo: false
 xeltek:
   display_name: Xeltek
   logo: false
-xen:
-  display_name: Xen Hypervisor
-  logo: false
 xenarc:
   display_name: Xenarc
-  logo: false
-xes:
-  display_name: Extreme Engineering Solutions (X-ES)
   logo: false
 xiamen-jinbeili-electronics-co:
   display_name: Xiamen Jinbeili Electronics Co.
@@ -4851,32 +3479,14 @@ xilinx:
   display_name: Xilinx
   reason: acquisition
   see: amd
-xillybus:
-  display_name: Xillybus Ltd.
-  logo: false
 xinabox:
   display_name: XinaBox
-  logo: false
-xingbangda:
-  display_name: Shenzhen Xingbangda Display Technology Co., Ltd
-  logo: false
-xinpeng:
-  display_name: Shenzhen Xinpeng Technology Co., Ltd
-  logo: false
-xiphera:
-  display_name: Xiphera Ltd.
   logo: false
 xlnx:
   reason: alias
   see: xilinx
-xnano:
-  display_name: Xnano
-  logo: false
 xp-power:
   display_name: XP Power
-  logo: false
-xptek:
-  display_name: Shenzhen Xptek Technology Co., Ltd
   logo: false
 xsemi:
   display_name: XSemi
@@ -4884,73 +3494,31 @@ xsemi:
 xtech:
   display_name: Xtech
   logo: false
-xuantie:
-  display_name: Alibaba Xuantie
-  logo: false
 xunlong:
   reason: alias
   see: orangepi
 xvisio:
   display_name: Xvisio
   logo: false
-xylon:
-  display_name: Xylon
-  logo: false
 yageo:
   display_name: YAGEO
-yamaha:
-  display_name: Yamaha Corporation
-  logo: false
 yazaki:
   display_name: Yazaki
   logo: false
-yes-optoelectronics:
-  display_name: Yes Optoelectronics Co.,Ltd.
-  logo: false
 yic:
   display_name: YIC
-ylm:
-  display_name: Shenzhen Yangliming Electronic Technology Co., Ltd.
-  logo: false
-yna:
-  display_name: YSH & ATIL
-  logo: false
 yones:
   display_name: YONES TOPTECH
-  logo: false
-yones-toptech:
-  display_name: Yones Toptech Co., Ltd.
-  logo: false
-ys:
-  display_name: Shenzhen Yashi Changhua Intelligent Technology Co., Ltd.
-  logo: false
-ysoft:
-  display_name: Y Soft Corporation a.s.
   logo: false
 yuliang-electronics-industry-group:
   display_name: Yuliang Electronics Industry Group
 yuzuki:
   display_name: YuzukiTsuru
-zarlink:
-  display_name: Zarlink Semiconductor
-  logo: false
-zb:
-  display_name: Zbit Semiconductor, Inc.
-  logo: false
-zealz:
-  display_name: Zealz
-  logo: false
-zeitec:
-  display_name: ZEITEC Semiconductor Co., LTD.
-  logo: false
 zentel:
   display_name: Zentel
   logo: false
 zentri:
   display_name: Zentri
-  logo: false
-zephyr:
-  display_name: The Zephyr Project
   logo: false
 zerynth:
   display_name: Zerynth
@@ -4958,29 +3526,14 @@ zerynth:
 zf-electronics:
   display_name: ZF Electronics
   logo: false
-zidoo:
-  display_name: Shenzhen Zidoo Technology Co., Ltd.
-  logo: false
-zii:
-  display_name: Zodiac Inflight Innovations
-  logo: false
-zinitix:
-  display_name: Zinitix Co., Ltd
-  logo: false
 zipcores:
   display_name: Zipcores
-  logo: false
-zkmagic:
-  display_name: Shenzhen Zkmagic Technology Co., Ltd.
   logo: false
 zmdi:
   display_name: ZMDI
   logo: false
 zscircuits:
   display_name: ZSCircuits
-  logo: false
-zte:
-  display_name: ZTE Corp.
   logo: false
 zyxel:
   display_name: Zyxel
