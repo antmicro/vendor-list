@@ -3523,6 +3523,9 @@ zentri:
 zerynth:
   display_name: Zerynth
   logo: false
+zes:
+  display_name: Zero-Error Systems
+  logo: false
 zf-electronics:
   display_name: ZF Electronics
   logo: false
