@@ -1687,7 +1687,6 @@ kingston:
   display_name: Kingston
 kioxia:
   display_name: Kioxia
-  logo: false
 klein-tools:
   display_name: Klein Tools
   logo: false
