@@ -807,6 +807,9 @@ cypress:
 cypress-semiconductor:
   reason: alias
   see: cypress
+cytron:
+  display_name: Cytron
+  logo: false
 cz-nic:
   display_name: CZ.NIC
 cznic:
@@ -1004,6 +1007,9 @@ efinix:
   display_name: Efinix
 egis:
   display_name: Egis Technology Inc
+  logo: false
+elan:
+  display_name: Elan Microelectronics Corp
   logo: false
 electric-imp:
   display_name: Electric Imp
@@ -1215,6 +1221,9 @@ foxconn:
   display_name: Foxconn
 fractus-antennas:
   display_name: Fractus Antennas
+  logo: false
+framework:
+  display_name: Framework Computer Inc
   logo: false
 framos:
   display_name: FRAMOS
@@ -1856,6 +1865,9 @@ lprs:
   logo: false
 luatos:
   display_name: LuatOS
+luckfox:
+  display_name: LUCKFOX
+  logo: false
 luckylight:
   display_name: Luckylight
 lumberg-automation:
@@ -1875,6 +1887,9 @@ luminus-devices:
   logo: false
 lumissil:
   display_name: Lumissil
+  logo: false
+lunzn:
+  display_name: Lunzn
   logo: false
 luxonis:
   display_name: Luxonis
@@ -2169,6 +2184,9 @@ neorv32:
   display_name: NEORV32
 netburner:
   display_name: NetBurner
+  logo: false
+netcube:
+  display_name: NetCube
   logo: false
 netduino:
   display_name: Netduino
