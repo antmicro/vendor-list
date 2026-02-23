@@ -103,6 +103,9 @@ alibaba:
   display_name: Alibaba
 alientek:
   display_name: Alientek
+alif:
+  display_name: Alif
+  logo: false
 allegro-microsystems:
   display_name: Allegro MicroSystems
   logo: false
@@ -456,6 +459,9 @@ bivar:
   display_name: BIVAR
 bjb-electric:
   display_name: BJB Electric
+  logo: false
+blackberry:
+  display_name: BlackBerry
   logo: false
 blackhawk:
   display_name: Blackhawk
@@ -1852,6 +1858,9 @@ lixie-labs:
   logo: false
 logic-pd:
   display_name: Logic PD
+longan:
+  display_name: Longan Labs
+  logo: false
 lontium:
   display_name: Lontium
 lord-microstrain:
