@@ -2627,6 +2627,9 @@ renata:
   logo: false
 renesas:
   display_name: Renesas Electronics
+retronix:
+  display_name: Retronix Technology Inc.
+  logo: false
 rf-digital:
   display_name: RF Digital
   logo: false
@@ -2932,6 +2935,9 @@ solantro:
   logo: false
 soldered:
   display_name: Soldered
+  logo: false
+solderedelectronics:
+  display_name: Soldered Electronics
   logo: false
 solderparty:
   display_name: Solder Party AB
