@@ -3408,6 +3408,9 @@ vscom:
 waber:
   display_name: Waber
   logo: false
+wago:
+  display_name: WAGO
+  logo: false
 wakefield-vette:
   display_name: Wakefield-Vette
 walsin:
