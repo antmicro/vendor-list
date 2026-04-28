@@ -747,6 +747,9 @@ cooper-tools:
 coral:
   display_name: Coral
   logo: false
+corecourse:
+  display_name: CoreCourse
+  logo: false
 coredevices:
   display_name: Core Devices LLC
   logo: false
@@ -1134,6 +1137,9 @@ europe-chemi-con:
   logo: false
 eurotech:
   display_name: Eurotech
+  logo: false
+eurovibes:
+  display_name: Eurovibes
   logo: false
 everlight:
   display_name: Everlight
@@ -3088,6 +3094,9 @@ switchcraft:
 symmetry-electronics:
   display_name: Symmetry Electronics
   logo: false
+syna:
+  reason: alias
+  see: synaptics
 synaptic:
   reason: alias
   see: synaptics
