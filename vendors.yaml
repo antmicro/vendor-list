@@ -3252,6 +3252,8 @@ toshiba:
   display_name: Toshiba
 toshiba-memory:
   display_name: Toshiba Memory
+toyota:
+  display_name: Toyota
 tp-link:
   display_name: TP-Link
 tq-systems:
