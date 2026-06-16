@@ -1215,6 +1215,9 @@ flambeau:
 flex-power-modules:
   display_name: Flex Power Modules
   logo: false
+flysky:
+  display_name: FlySky
+  logo: false
 fobe:
   display_name: FoBE Studio
   logo: false
@@ -1647,6 +1650,9 @@ jethome:
   display_name: JetHome
 jkl-components:
   display_name: JKL Components
+  logo: false
+jlc:
+  display_name: JLC PCB
   logo: false
 johanson-technology:
   display_name: Johanson Technology
@@ -2294,6 +2300,9 @@ nuclei:
   see: nuclei-system-technology
 nuclei-system-technology:
   display_name: Nuclei System Technology
+nucode:
+  display_name: NUCODE Co., Ltd. (nuworks.io)
+  logo: false
 nuvoton:
   display_name: Nuvoton
 nvidia:
@@ -3268,6 +3277,9 @@ transphorm:
   logo: false
 traverse:
   display_name: Traverse
+trenz:
+  display_name: Trenz Electronic
+  logo: false
 trenz-electronic:
   display_name: Trenz Electronic
   logo: false
