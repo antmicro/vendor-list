@@ -20,8 +20,8 @@ validate-vendor-list:
     - source .venv/bin/activate
 
     # Create histogram of vendors without logos
-    - curl -L https://openhardware.antmicro.com/imported/components.json -O
-    - yq '.[] | .manufacturingInfo.manufacturer.id' components.json -r > ohp-vendors-tmp.txt
+    - curl -L https://openhardware.antmicro.com/imported/components_summary.json -O
+    - yq '.[] | .manufacturer.id' components_summary.json -r > ohp-vendors-tmp.txt
     - yq '.[] | select(has("logo") == "false" or .logo == "true") | key' vendors.yaml -r > vendors-with-logo.txt
     - cat ohp-vendors-tmp.txt | sort | uniq > ohp-vendors.txt
     - cat ohp-vendors-tmp.txt | sort | uniq -c | sort -rn > ohp-vendors-histogram.txt
