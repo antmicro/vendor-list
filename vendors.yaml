@@ -1882,6 +1882,9 @@ lord-microstrain:
 lorlin:
   display_name: Lorlin
   logo: false
+lotes:
+  display_name: LOTES
+  logo: false
 lowrisc:
   display_name: lowRISC
 lprs:
