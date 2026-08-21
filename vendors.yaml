@@ -14,6 +14,9 @@
   logo: false
 96boards:
   display_name: 96Boards
+9tripod:
+  display_name: 9Tripod
+  logo: false
 aaeon:
   display_name: AAEON Technology
 aavid:
@@ -379,6 +382,9 @@ avnet:
   display_name: Avnet
 avx:
   display_name: AVX
+axiado:
+  display_name: Axiado
+  logo: false
 axiomtek:
   display_name: Axiomtek
   logo: false
@@ -1861,6 +1867,9 @@ linear-integrated-systems:
   logo: false
 link-pp:
   display_name: LINK-PP
+linkease:
+  display_name: LinkEase
+  logo: false
 linklayer:
   display_name: Linklayer
   logo: false
