@@ -477,6 +477,9 @@ blackberry:
 blackhawk:
   display_name: Blackhawk
   logo: false
+bliiot:
+  display_name: BLIIoT Technology Co., Ltd.
+  logo: false
 blue-clover:
   display_name: BlueClover
 blues:
@@ -1086,6 +1089,9 @@ empire:
 empower-semiconductor:
   display_name: Empower Semiconductor
   logo: false
+emtrion:
+  display_name: emtrion GmbH
+  logo: false
 enclustra:
   display_name: Enclustra
 ene:
@@ -1666,6 +1672,9 @@ jesurun:
   logo: false
 jethome:
   display_name: JetHome
+jhoinrch:
+  display_name: Jhoinrch
+  logo: false
 jkl-components:
   display_name: JKL Components
   logo: false
@@ -1965,6 +1974,9 @@ makerbase:
   display_name: Makerbase
 makerdiary:
   display_name: makerdiary
+makerfabs:
+  display_name: Makerfabs
+  logo: false
 mallory:
   display_name: Mallory
   logo: false
