@@ -905,6 +905,9 @@ devboards-de:
   display_name: Devboards
 dfrobot:
   display_name: DFRobot
+dh:
+  reason: alias
+  see: dh-electronics
 dh-electronics:
   display_name: DH Electronics
 dhelectronics:
@@ -3166,6 +3169,9 @@ t-firefly:
   display_name: T-Firefly
 t-head:
   display_name: T-Head
+t3gemstone:
+  display_name: T3 Gemstone
+  logo: false
 tadiran-batteries:
   display_name: Tadiran Batteries
   logo: false
