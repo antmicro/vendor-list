@@ -614,6 +614,9 @@ cavium:
 ccs:
   display_name: CCS
   logo: false
+cdac:
+  display_name: C-DAC
+  logo: false
 cde:
   display_name: CDE
   logo: false
