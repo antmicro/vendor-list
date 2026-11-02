@@ -314,6 +314,9 @@ asmedia:
   display_name: ASMedia
 aspeed:
   display_name: ASPEED Technology
+asrock-rack:
+  display_name: ASRock Rack
+  logo: false
 assmann-wsw-components:
   display_name: ASSMANN WSW Components
 astec-power:
@@ -1274,6 +1277,9 @@ framos:
   display_name: FRAMOS
 franzininho:
   display_name: Franzininho
+free-mobile:
+  display_name: Free Mobile
+  logo: false
 freescale:
   display_name: Freescale
   reason: acquisition
@@ -1380,6 +1386,9 @@ gore:
   logo: false
 gowin:
   display_name: GOWIN
+graperain:
+  display_name: Graperain
+  logo: false
 gravitech:
   display_name: Gravitech
   logo: false
@@ -1473,6 +1482,9 @@ hexiwear:
   display_name: Hexiwear
 heyco:
   display_name: Heyco
+  logo: false
+hinlink:
+  display_name: HINLINK
   logo: false
 hirose-electric:
   display_name: Hirose Electric
@@ -3490,6 +3502,9 @@ waber:
   logo: false
 wago:
   display_name: WAGO
+  logo: false
+waiken-smart:
+  display_name: Waiken-Smart
   logo: false
 wakefield-vette:
   display_name: Wakefield-Vette
