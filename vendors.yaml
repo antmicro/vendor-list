@@ -980,6 +980,9 @@ dptechnics:
   display_name: DPTechnics
 dragino:
   display_name: Dragino
+dsdtech:
+  display_name: DSD TECH
+  logo: false
 dserve:
   display_name: Dserve
   logo: false
@@ -1244,6 +1247,9 @@ flambeau:
   logo: false
 flex-power-modules:
   display_name: Flex Power Modules
+  logo: false
+flextechakt:
+  display_name: FlextechAKT
   logo: false
 flysky:
   display_name: FlySky
