@@ -1213,6 +1213,9 @@ fanstel:
 fascomp:
   display_name: Fascomp
   logo: false
+fastbit:
+  display_name: Fastbit Embedded Technologies
+  logo: false
 fastron:
   display_name: Fastron
   logo: false
@@ -1554,6 +1557,9 @@ ibm:
   logo: false
 ice-components:
   display_name: ICE Components
+  logo: false
+id8:
+  display_name: ID8 Engineering AB
   logo: false
 idec:
   display_name: IDEC
